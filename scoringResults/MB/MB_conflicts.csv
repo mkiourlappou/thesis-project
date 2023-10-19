@@ -1,0 +1,19 @@
+Figure_ID,Question,Scorer 1,Scorer 2,Scorer 3
+2137778,Is RNA present in MB lobes?,Yes,nan,No
+2137783,Cytosolic RNA level,Moderate,None,High
+2137788,Cytosolic RNA level,High,None,Moderate
+2137809,What is the level of protein expression?,None,High,Moderate
+2137875,Nascent transcript level,None,Moderate,High
+2137895,Is RNA present in Kenyon cell somata?,No,Yes,nan
+2137911,Nascent transcript level,None,Moderate,High
+2137945,Nascent transcript level,None,Low,High
+2137985,Nascent transcript level,None,High,Moderate
+2138363,What is the level of protein expression?,High,Low,None
+2138545,Cytosolic RNA level,High,None,Moderate
+2138616,Nascent transcript level,None,Low,High
+2138680,What is the level of protein expression?,None,High,Moderate
+2138754,Nascent transcript level,None,Moderate,High
+2138836,What is the level of protein expression?,None,Moderate,High
+2138837,Nascent transcript level,None,Low,High
+2140578,Is RNA present in Kenyon cell somata?,Yes,nan,No
+2140583,What is the level of protein expression?,High,Low,None

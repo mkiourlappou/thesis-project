@@ -1,0 +1,203 @@
+figure_id,What is the level of RNA expression?,What is the level of protein expression?,"If there is RNA expression, what patterns does the RNA make?","If there is protein expression, what patterns does the protein make?",Nascent transcript level,Cytosolic RNA level,Is there obvious RNA/protein discordance (whole image)?,Flag this gene as a potential one to use for a figure in the paper?,Is RNA present in soma?,Is protein present in soma?,Is RNA present in neuropil?,Is protein present in neuropil?,Is figure quality too poor?,General comments,Is RNA present in midline glia?,Is protein present in midline glia?
+2137787,High,Moderate,"Single transcripts	Cell type specific	Other",Punctate,Moderate,Low,Yes,Yes,Yes,Yes,Yes,Yes,No,"Protein expression, diffuse in the neuropil but punctate in the Cell bodies image",,
+2138407,Low,None,Single transcripts,,High,None,No,No,Yes,No,No,No,No,,,
+2138344,Low,Moderate,More in some cells than others,"Diffuse	Cytoplasmic",None,Low,No,No,Yes,Yes,No,Yes,No,,,
+2138803,High,High,"Evenly distributed	Single transcripts","Cell edges	Diffuse	Cytoplasmic",High,High,Yes,Yes,Yes,Yes,Yes,Yes,No,,,
+2138716,Moderate,None,,,Low,Moderate,Yes,No,Yes,No,Yes,No,No,,,
+2138047,Moderate,High,Single transcripts,"Cell edges	Cytoplasmic",Low,Low,No,No,Yes,No,Yes,No,No,,,
+2138059,High,High,"Single transcripts	More in some cells than others","Punctate	Cell edges	Large aggregations	Cytoplasmic",High,High,Yes,Yes,Yes,Yes,Yes,Yes,No,,,
+2137766,Moderate,High,"Cell type specific	More in some cells than others",Cytoplasmic,Moderate,Moderate,Yes,No,Yes,No,Yes,Yes,No,,,
+2138779,Moderate,Low,More in some cells than others,Diffuse,Low,Moderate,Yes,No,Yes,No,No,No,No,,,
+2138679,Low,Moderate,"Single transcripts	Nuclear","Cell edges	Diffuse	Cytoplasmic",Low,None,No,No,Yes,Yes,No,No,No,,,
+2138632,Low,Moderate,Single transcripts,"Diffuse	Cytoplasmic",Low,Low,Yes,No,Yes,Yes,Yes,Yes,No,,,
+2138497,High,High,,"Nuclear	Diffuse	Large aggregations",Low,Moderate,Yes,No,Yes,Yes,No,Yes,No,Soma compartment taken as the lateral cell bodies at VNC,,
+2138171,High,High,"Single transcripts	Nuclear","Cell edges	Diffuse	Cytoplasmic",Moderate,High,Yes,Yes,Yes,Yes,Yes,Yes,No,,,
+2138012,High,High,"Single transcripts	Nuclear	More in some cells than others","Cell edges	Diffuse",Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Quality of the technique is good but might be confused for the diagnose/interpretation,,
+2138618,Low,Low,Evenly distributed,"Cell edges	Diffuse",None,Low,No,No,Yes,Yes,N/A,Yes,No,,,
+2138134,High,Moderate,"Evenly distributed	Single transcripts","Nuclear	Cell edges	Diffuse	Cytoplasmic",Moderate,Moderate,Yes,No,Yes,Yes,Yes,Yes,No,,,
+2138665,Moderate,High,More in some cells than others,"Punctate	Cell edges	Diffuse",Low,Moderate,Yes,No,No,No,No,No,No,,,
+2138391,None,None,,,None,None,No,No,No,No,No,No,No,since there is no YFP expression maybe the figure quality is not poor,,
+2138801,Moderate,Low,Single transcripts,"Cell edges	Diffuse	Cytoplasmic",Moderate,High,No,No,Yes,Yes,Yes,Yes,No,,,
+2138741,Low,Moderate,Single transcripts,Nuclear,Low,Low,No,No,Yes,Yes,Yes,Yes,No,,,
+2138595,Moderate,High,Single transcripts,Diffuse,Moderate,High,Yes,No,Yes,No,Yes,Yes,No,,,
+2138684,Low,None,Cell type specific,,Low,None,No,No,Yes,No,Yes,No,No,,,
+2138421,Low,Moderate,"Single transcripts	More in some cells than others","Punctate	Diffuse	Cytoplasmic",Moderate,Low,No,No,Yes,Yes,No,Yes,No,,,
+2138258,Moderate,High,Single transcripts,"Cell edges	Diffuse	Large aggregations	Cytoplasmic",Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,,,
+2138474,High,High,"Single transcripts	Nuclear","Nuclear	Diffuse",Moderate,High,No,Yes,Yes,Yes,Yes,No,No,,,
+2138325,High,High,Single transcripts,"Nuclear	Large aggregations",Low,Moderate,Yes,Yes,Yes,Yes,Yes,No,No,,,
+2138517,High,Moderate,"Evenly distributed	Single transcripts	Nuclear","Cell edges	Diffuse",High,Low,Yes,Yes,Yes,Yes,Yes,Yes,No,the syp positive cell in the VNC neuropil image is intriguing,,
+2138246,Moderate,High,Single transcripts,"Cell edges	Diffuse	Large aggregations	Cytoplasmic",Moderate,Low,Yes,No,N/A,Yes,No,Yes,No,,,
+2138254,Low,Low,Single transcripts,"Cell edges	Diffuse	Cytoplasmic",Low,Low,No,No,Yes,Yes,No,Yes,No,,,
+2137920,Low,Low,More in some cells than others,Diffuse,None,Moderate,No,No,Yes,Yes,No,Yes,No,,,
+2138734,Moderate,Low,"Single transcripts	More in some cells than others","Diffuse	Cytoplasmic",Low,High,No,No,Yes,Yes,Yes,Yes,No,,,
+2138483,Moderate,Moderate,Single transcripts,"Diffuse	Large aggregations	Cytoplasmic",Low,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,,,
+2138014,High,Moderate,"Single transcripts	Nuclear	More in some cells than others","Punctate	Diffuse",High,High,Yes,Yes,Yes,Yes,Yes,No,No,,,
+2138638,Moderate,Low,Single transcripts,"Cell edges	Diffuse",Moderate,Moderate,No,No,Yes,No,Yes,No,No,,,
+2138177,Moderate,Moderate,Single transcripts,Diffuse,Moderate,Moderate,Yes,No,Yes,Yes,Yes,Yes,No,,,
+2138591,High,Low,"Evenly distributed	Single transcripts","Cell edges	Diffuse	Cytoplasmic",Moderate,High,Yes,No,Yes,Yes,Yes,Yes,No,"Lots of transcripts, but the protein level is low",,
+2138673,Low,High,Evenly distributed,"Cell edges	Diffuse	Cytoplasmic",None,Low,No,No,Yes,Yes,N/A,Yes,No,,,
+2138141,None,High,,"Cell edges	Diffuse	Cytoplasmic	Cell type specific",None,None,No,Yes,No,Yes,No,Yes,No,no RNA when the protein is so highly and specifically expressed?,,
+2138030,High,High,"Single transcripts	Nuclear	More in some cells than others","Cell edges	Diffuse",High,High,Yes,Yes,Yes,Yes,Yes,Yes,No,,,
+2138661,Low,Low,,Diffuse,Low,Low,No,No,Yes,Yes,Yes,Yes,No,Maybe DAPI signal  can be reduced in the cell bodies image,,
+2138130,High,High,"Single transcripts	Nuclear	More in some cells than others","Diffuse	Large aggregations	Cytoplasmic",Moderate,Low,Yes,Yes,Yes,Yes,Yes,No,No,Good quality,,
+2137760,Low,Low,Cell type specific,Cell type specific,None,Low,No,No,Yes,No,No,Yes,No,,,
+2138333,High,Low,"Evenly distributed	Single transcripts","Diffuse	Cytoplasmic",High,Moderate,No,Yes,Yes,Yes,Yes,No,No,"I labeled as a candidate for a figure because the RNA is very abundant, even though is not specific of a particular subcompartment",,
+2138350,None,None,,,None,None,No,No,No,No,No,No,No,Almost no protein expression. Maybe some punctae in cell bodies for RNA and protein channels?,,
+2137793,Moderate,High,,Punctate,High,Low,No,No,No,No,No,No,No,Protein and RNA only and highly expressed in the midline cells at the VNC ,,
+2138458,Moderate,High,"Evenly distributed	Single transcripts","Cell edges	Diffuse	Cytoplasmic",Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,,,
+2138792,High,Moderate,Single transcripts,Diffuse,Moderate,High,No,Yes,Yes,Yes,Yes,Yes,No,,,
+2138305,Moderate,Moderate,Single transcripts,"Punctate	Diffuse	Cytoplasmic",Moderate,Low,Yes,Yes,Yes,Yes,No,Yes,No,,,
+2138340,Low,Low,,"Punctate	Cytoplasmic",Low,Low,No,No,Yes,Yes,N/A,No,No,,,
+2138572,Moderate,Low,"Evenly distributed	Single transcripts","Diffuse	Cytoplasmic	Cell type specific",Low,Moderate,Yes,No,Yes,Yes,Yes,Yes,No,,,
+2138331,Low,Moderate,Single transcripts,"Cell edges	Cytoplasmic	Cell type specific",Low,None,Yes,Yes,Yes,Yes,N/A,No,No,,,
+2138364,Low,Moderate,Other,"Cell edges	Diffuse	Cytoplasmic",None,Low,No,No,Yes,Yes,No,Yes,No,Other: cytoplasmatic RNA expression on the cell bodies,,
+2138307,High,Low,"Single transcripts	More in some cells than others","Punctate	Diffuse",Low,High,No,Yes,Yes,No,Yes,Yes,No,,,
+2138427,Moderate,Moderate,Single transcripts,"Punctate	Nuclear	Diffuse	Cytoplasmic",Low,Moderate,No,Yes,Yes,Yes,No,No,No,"Is the protein and RNA pattern on the cell bodies the same? in that case, punctae in the nucleus and diffuse in the cytoplasm",,
+2138527,High,High,"Single transcripts	More in some cells than others","Nuclear	Cell type specific",Low,Moderate,No,No,Yes,Yes,No,Yes,No,,,
+2138444,Moderate,Moderate,Single transcripts,Diffuse,High,Moderate,No,No,Yes,No,Yes,Yes,No,,,
+2138268,Moderate,High,"Evenly distributed	Single transcripts","Cytoplasmic	Cell type specific",High,High,Yes,Yes,Yes,Yes,Yes,Yes,No,,,
+2138108,Moderate,Moderate,"Evenly distributed	Single transcripts	More in some cells than others","Punctate	Diffuse",Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,,,
+2138493,Moderate,Moderate,"Single transcripts	More in some cells than others","Diffuse	Cytoplasmic	Cell type specific",Low,Moderate,No,No,Yes,Yes,N/A,Yes,No,"About the RNA in the neuropil, I think the signal does not come from the neuropil in reality",,
+2138647,Moderate,Moderate,Single transcripts,"Punctate	Large aggregations",Low,High,Yes,No,Yes,No,Yes,Yes,No,,,
+2138581,High,High,Single transcripts,"Nuclear	Diffuse",High,Moderate,Yes,Yes,Yes,Yes,Yes,No,No,,,
+2137941,Moderate,None,"Single transcripts	Nuclear	Cell type specific","Cell edges	Diffuse",Moderate,Moderate,Yes,No,Yes,No,Yes,No,No,,,
+2137762,Low,Low,More in some cells than others,Cytoplasmic,None,None,No,No,Yes,Yes,No,No,Yes,,,
+2138600,High,High,Single transcripts,"Cell edges	Large aggregations",Moderate,High,Yes,Yes,Yes,Yes,Yes,Yes,No,,,
+2138385,High,High,Single transcripts,Cytoplasmic,Moderate,High,No,Yes,Yes,Yes,Yes,No,No,RNA is everywhere but not evenly distributed,,
+2138020,Moderate,Low,"Single transcripts	More in some cells than others","Cell edges	Diffuse",Low,Low,No,No,Yes,Yes,No,Yes,No,"Quality not bad on the ""cell bodies"" but poor at the ""VNC""",,
+2137806,Moderate,Moderate,"Single transcripts	Nuclear	Cell type specific	More in some cells than others",Diffuse,Moderate,Low,No,No,Yes,No,No,Yes,No,"""Cell bodies"" image is good on the RNA channel since the punctate pattern excludes the GMCs ",,
+2138162,None,None,,,None,None,No,No,No,No,No,No,Yes,"I labeled the figure as poor but, since the YFP signal is negative maybe is not the technique that produced a poor figure quality but is not expressed?",,
+2138733,Moderate,None,More in some cells than others,,Low,Moderate,Yes,No,Yes,No,N/A,No,No,I marked no protein signal based on the negative control,,
+2138013,High,High,"Single transcripts	Nuclear	Cell type specific	More in some cells than others","Cell edges	Large aggregations",Moderate,High,Yes,Yes,Yes,No,Yes,No,No,,,
+2137948,High,Moderate,"Single transcripts	Nuclear	More in some cells than others","Nuclear	Cell edges	Diffuse	Cytoplasmic",High,High,No,Yes,Yes,Yes,Yes,Yes,No,,,
+2137848,High,Moderate,"Single transcripts	Nuclear	Cell type specific	More in some cells than others",Diffuse,High,Moderate,Yes,No,Yes,No,No,Yes,No,,,
+2138488,Moderate,High,"Single transcripts	Cell type specific","Nuclear	Diffuse	Large aggregations",Moderate,Low,Yes,Yes,Yes,Yes,N/A,Yes,No,,,
+2138621,None,None,,,None,None,No,No,No,No,No,No,No,,,
+2137903,Moderate,Moderate,Evenly distributed,"Punctate	Cell edges",Low,Low,No,Yes,Yes,Yes,No,No,No,,,
+2138709,Moderate,Low,"Cell type specific	More in some cells than others",Diffuse,Low,High,No,Yes,Yes,No,No,Yes,No,,,
+2138158,Moderate,Moderate,"Single transcripts	Nuclear	More in some cells than others","Diffuse	Cytoplasmic",Moderate,Low,Yes,No,Yes,Yes,Yes,Yes,No,,,
+2138802,High,Low,Single transcripts,Diffuse,High,High,Yes,Yes,Yes,No,Yes,Yes,No,,,
+2138617,Low,Low,,"Diffuse	Cytoplasmic",None,Moderate,No,No,Yes,Yes,No,No,No,,,
+2138766,Moderate,Moderate,"Evenly distributed	Single transcripts",Cytoplasmic,High,Moderate,No,No,Yes,Yes,Yes,Yes,No,,,
+2137779,Moderate,High,"Single transcripts	Cell type specific","Punctate	Nuclear	Cytoplasmic",Moderate,Moderate,Yes,Yes,Yes,No,Yes,Yes,No,,,
+2138778,High,High,"Evenly distributed	Single transcripts","Diffuse	Cytoplasmic",High,High,No,No,Yes,Yes,Yes,No,No,Since the RNA is everywhere might not be interesting scientifically but the image is well tecken and might be good to ilustrate this as an example for the technique?,,
+2137872,Low,High,"Single transcripts	More in some cells than others","Punctate	Diffuse",Low,Low,No,No,Yes,No,Yes,Yes,No,,,
+2138705,Moderate,Low,"Single transcripts	Cell type specific",Cytoplasmic,Moderate,Moderate,Yes,No,Yes,Yes,Yes,Yes,No,"I marked ""discordance"" here because in soma there are some cells with more RNA but the protein is evenly distributed in the cell bodies image",,
+2138334,Moderate,Low,Evenly distributed,Diffuse,Moderate,Low,No,No,Yes,Yes,N/A,No,No,Neuropil image is not as good as cell bodies,,
+2138469,Low,Low,Single transcripts,Diffuse,Low,Moderate,No,No,Yes,No,Yes,Yes,No,,,
+2138541,Moderate,Low,Single transcripts,Punctate,Low,Moderate,No,No,Yes,Yes,No,No,No,,,
+2138310,Moderate,Moderate,"Single transcripts	Nuclear",Diffuse,Moderate,Low,Yes,Yes,Yes,No,No,Yes,No,,,
+2138522,Moderate,Moderate,Single transcripts,"Cytoplasmic	Cell type specific",Low,Moderate,Yes,Yes,Yes,Yes,Yes,No,No,,,
+2138453,Low,High,"Single transcripts	Nuclear","Nuclear	Cell type specific",Low,Low,No,Yes,Yes,Yes,No,No,No,,,
+2137993,High,Moderate,"Single transcripts	Nuclear	More in some cells than others",Cytoplasmic,High,High,No,Yes,Yes,Yes,Yes,Yes,No,Maybe not in the top choices as figure for a paper  but quality good enough,,
+2138416,Moderate,Low,Single transcripts,"Cell edges	Diffuse	Cytoplasmic",Low,Moderate,No,No,Yes,Yes,N/A,Yes,No,,,
+2138508,None,None,,,None,None,No,No,No,No,No,No,Yes,poor YFP signal,,
+2138479,Low,Low,Single transcripts,"Diffuse	Cytoplasmic	Cell type specific",Moderate,Low,Yes,No,Yes,Yes,Yes,Yes,No,is the protein channel on the cell bodies image right? I see signal on the merge but not in the split channel,,
+2140587,None,None,,,None,None,No,No,No,No,No,No,No,,,
+2138504,Moderate,High,"Single transcripts	Nuclear	More in some cells than others","Diffuse	Large aggregations	Cytoplasmic	Cell type specific",Moderate,High,Yes,Yes,Yes,Yes,No,Yes,No,,,
+2138181,None,None,,,None,None,No,No,No,No,No,No,Yes,,,
+2138336,High,Low,Single transcripts,"Diffuse	Cytoplasmic	Cell type specific",Moderate,High,Yes,No,Yes,Yes,Yes,Yes,No,,,
+2138567,High,Moderate,Single transcripts,"Nuclear	Diffuse",High,Moderate,Yes,Yes,Yes,Yes,Yes,No,No,,,
+2138432,Low,High,Nuclear,"Diffuse	Large aggregations",Low,Low,No,No,N/A,Yes,Yes,Yes,No,,,
+2138532,High,High,"Single transcripts	More in some cells than others","Diffuse	Cytoplasmic",High,None,No,Yes,Yes,Yes,No,No,No,,,
+2138263,High,High,Single transcripts,"Cell edges	Diffuse	Cytoplasmic",Moderate,High,No,Yes,Yes,Yes,No,Yes,No,,,
+2138689,Low,Low,More in some cells than others,Diffuse,None,Low,No,No,Yes,Yes,No,No,No,,,
+2138011,Low,Moderate,Single transcripts,"Cell edges	Cytoplasmic",Low,None,No,No,Yes,Yes,No,No,No,,,
+2138740,Low,None,Single transcripts,,Low,Low,Yes,No,Yes,No,No,No,No,"RNA and protein seem to be at the nerves, though there is some RNA in cells",,
+2138586,Low,Moderate,"Single transcripts	More in some cells than others","Nuclear	Cell type specific",Low,None,No,No,Yes,Yes,Yes,No,No,"neuropil and cell bodies image is swapped and also the title ""GeneName"" can be erased",,
+2138607,High,Moderate,Single transcripts,"Cell edges	Diffuse	Cytoplasmic",Moderate,High,Yes,No,Yes,Yes,No,Yes,No,,,
+2138056,Moderate,Low,"Single transcripts	More in some cells than others","Cell edges	Diffuse	Cytoplasmic",Low,Low,No,No,Yes,Yes,Yes,Yes,No,,,
+2138707,Low,Low,Single transcripts,"Cell edges	Diffuse	Cytoplasmic",Low,Low,No,No,Yes,Yes,Yes,Yes,No,,,
+2138382,High,High,"Evenly distributed	Single transcripts","Diffuse	Large aggregations	Cell type specific",Moderate,High,No,Yes,Yes,Yes,Yes,Yes,No,Curiosity> it seems that syp and RNA punctae are associated in the cell bodies,,
+2138035,High,High,"Single transcripts	Nuclear","Cell edges	Diffuse",High,High,No,Yes,Yes,Yes,Yes,Yes,No,,,
+2138619,Moderate,Low,"Evenly distributed	Single transcripts",Diffuse,Low,Moderate,No,No,Yes,Yes,No,No,No,,,
+2138139,Low,Moderate,"Single transcripts	Nuclear","Cell edges	Cytoplasmic",Moderate,None,No,No,Yes,Yes,No,No,No,,,
+2137777,Moderate,High,Single transcripts,"Punctate	Nuclear	Cytoplasmic",Low,Moderate,No,Yes,Yes,Yes,No,Yes,No,,,
+2137901,Low,Low,Cell type specific,,None,Moderate,No,No,Yes,No,No,Yes,No,,,
+2137801,High,Low,"Single transcripts	Cell type specific	Other",Diffuse,Moderate,Moderate,Yes,No,Yes,No,Yes,Yes,No,,,
+2137769,Low,None,"Single transcripts	Cell type specific",,Moderate,Moderate,Yes,No,No,No,No,No,No,,,
+2138375,Moderate,High,Single transcripts,Diffuse,Low,Moderate,No,No,Yes,No,Yes,Yes,No,,,
+2138559,None,None,,,None,None,No,No,No,No,No,No,Yes,,,
+2137987,Moderate,Moderate,More in some cells than others,"Diffuse	Cytoplasmic",Low,Low,No,No,Yes,Yes,N/A,Yes,No,,,
+2138447,Moderate,Low,"Evenly distributed	Single transcripts",Diffuse,Low,Low,No,No,Yes,No,Yes,No,No,,,
+2138536,High,High,Single transcripts,"Nuclear	Diffuse",Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,No,,,
+2138379,None,Moderate,,"Diffuse	Cytoplasmic",None,None,No,No,No,Yes,No,No,No,,,
+2138555,Moderate,Low,"Single transcripts	More in some cells than others","Cell edges	Diffuse	Cytoplasmic",High,High,Yes,No,Yes,Yes,N/A,Yes,No,,,
+2138463,Moderate,Low,Single transcripts,"Diffuse	Cell type specific",Low,High,Yes,Yes,Yes,Yes,Yes,No,No,,,
+2138512,High,High,More in some cells than others,"Nuclear	Diffuse",High,Moderate,No,No,Yes,Yes,No,No,No,,,
+2138412,Moderate,High,Evenly distributed,"Punctate	Cell edges	Diffuse	Cytoplasmic",Moderate,Moderate,No,No,Yes,Yes,N/A,Yes,No,,,
+2138804,High,High,Single transcripts,"Punctate	Cell edges	Diffuse	Cytoplasmic",High,High,No,Yes,Yes,Yes,Yes,Yes,No,,,
+2138023,High,High,"Single transcripts	Nuclear	Cell type specific	More in some cells than others","Punctate	Cell edges	Cytoplasmic	Cell type specific",Moderate,Moderate,No,No,Yes,Yes,No,No,No,Cell bodies image is good and intriguing,,
+2137909,Low,Low,"Evenly distributed	Single transcripts",Diffuse,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,,,
+2138735,High,High,Single transcripts,"Punctate	Large aggregations",Moderate,High,No,Yes,Yes,Yes,Yes,Yes,No,the figure has good quality,,
+2138119,High,Moderate,"Evenly distributed	Single transcripts","Cell edges	Diffuse",Low,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,,,
+2138748,Low,Moderate,"Single transcripts	More in some cells than others","Diffuse	Cytoplasmic",Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,,,
+2138656,Low,None,Evenly distributed,,Low,Low,No,No,Yes,No,Yes,No,No,,,
+2138727,Low,Moderate,Cell type specific,"Diffuse	Cytoplasmic	Cell type specific",Low,None,No,No,No,Yes,Yes,Yes,No,,,
+2138639,Moderate,Moderate,"Single transcripts	Nuclear",Nuclear,Moderate,Moderate,No,No,Yes,Yes,Yes,No,No,,,
+2138015,High,Moderate,"Single transcripts	More in some cells than others","Punctate	Large aggregations",Moderate,Moderate,No,No,Yes,Yes,No,No,No,"I did not label this image as worth being a figure but I find intriguing the large aggregations at the ""cell bodies"" image both in the RNA and the protein channel",,
+2137968,High,High,"Single transcripts	Nuclear	Cell type specific","Diffuse	Cytoplasmic",High,High,No,Yes,Yes,Yes,Yes,Yes,No,,,
+2138762,Moderate,High,More in some cells than others,"Cytoplasmic	Cell type specific",Low,Moderate,Yes,No,Yes,Yes,Yes,Yes,No,,,
+2137964,High,Moderate,"Single transcripts	Nuclear	More in some cells than others","Diffuse	Cytoplasmic",Moderate,Moderate,Yes,Yes,Yes,Yes,No,Yes,No,"VNC is not a clean image but the RNA and protein pattern is very clear, and the quality ""cell bodies"" image is very good",,
+2138042,High,Moderate,"Single transcripts	More in some cells than others","Cell edges	Diffuse",High,Moderate,No,No,No,Yes,Yes,Yes,No,,,
+2137931,High,High,"Single transcripts	Nuclear	Cell type specific	More in some cells than others","Punctate	Nuclear	Cytoplasmic",Moderate,High,No,Yes,Yes,Yes,Yes,No,No,,,
+2138746,Moderate,None,"Evenly distributed	More in some cells than others",,None,Moderate,Yes,No,Yes,No,Yes,No,No,,,
+2138017,High,High,"Evenly distributed	Single transcripts	Nuclear","Cytoplasmic	Cell type specific",Moderate,High,No,Yes,Yes,Yes,N/A,No,No,,,
+2138625,Low,Moderate,Single transcripts,Nuclear,Low,Low,No,No,No,No,Yes,No,No,"Protein seems to be at the nucleus of the neurons and its projections, and RNA in the projections and glia_",,
+2138066,Low,Moderate,"Single transcripts	More in some cells than others","Cell edges	Diffuse	Cytoplasmic",Low,Moderate,No,No,Yes,Yes,No,Yes,No,,,
+2137755,None,None,,,None,None,No,No,No,No,No,No,No,,,
+2138580,Low,Low,Single transcripts,"Diffuse	Cytoplasmic",Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,,,
+2137782,None,None,"Cell type specific	More in some cells than others","Cytoplasmic	Cell type specific",Moderate,Moderate,Yes,Yes,Yes,Yes,Yes,No,No,"Protein in the compartment coded as ""soma"" si not visible at the lateral cell bodies of the VNC image but it seems cell specific at the soma of the ""cell bodies"" image",,
+2137997,Moderate,High,"Single transcripts	Cell type specific	More in some cells than others",Cell type specific,Moderate,Moderate,Yes,Yes,Yes,Yes,No,Yes,No,,,
+2138683,Moderate,Low,More in some cells than others,"Diffuse	Cytoplasmic",Low,Moderate,Yes,No,Yes,Yes,Yes,No,No,,,
+2138365,High,High,Single transcripts,"Nuclear	Diffuse",High,High,Yes,Yes,Yes,Yes,Yes,Yes,No,"Protein pattern: diffused in the neuropil, nuclear in the cell bodies",,
+2138434,Low,None,"Single transcripts	More in some cells than others",,Low,Low,No,No,Yes,No,No,No,No,No YFP signal,,
+2137889,Moderate,Low,Cell type specific,Diffuse,None,Moderate,No,No,Yes,No,No,Yes,No,,,
+2138438,None,Low,,"Cell edges	Diffuse",None,None,No,No,No,No,No,Yes,No,,,
+2138369,Moderate,Moderate,"Single transcripts	More in some cells than others",Cell type specific,Low,Moderate,Yes,No,Yes,No,Yes,Yes,No,,,
+2138561,Low,Low,Single transcripts,"Cell edges	Cytoplasmic",Low,Moderate,No,No,Yes,Yes,N/A,Yes,No,,,
+2138502,Moderate,Moderate,Single transcripts,"Diffuse	Cytoplasmic",Low,Moderate,No,No,No,No,Yes,Yes,No,I think RNA is in the glia but not in the soma,,
+2140674,Moderate,High,"Single transcripts	Nuclear","Punctate	Nuclear	Diffuse",Moderate,High,No,No,Yes,Yes,Yes,No,No,,Yes,Yes
+2140037,None,Moderate,Other,"Punctate	Nuclear",Low,Low,No,No,Yes,No,N/A,No,Yes,,N/A,Yes
+2138903,None,None,,,None,None,No,No,No,No,No,No,Yes,,No,No
+2138844,None,Moderate,,Other,None,Low,No,No,Yes,No,No,Yes,No,,No,Yes
+2138870,High,Moderate,"Evenly distributed	Single transcripts	More in some cells than others","Diffuse	Other",High,Moderate,Yes,Yes,Yes,No,Yes,Yes,No,,Yes,No
+2138901,Low,None,Cell type specific,,None,Low,No,No,Yes,No,No,No,No,,No,No
+2138854,Low,Moderate,Single transcripts,Other,Moderate,Low,No,Yes,No,No,Yes,Yes,No,The protein presence seems to be in the nerves (maybe glia),Yes,Yes
+2139885,Moderate,Moderate,Single transcripts,"Diffuse	Cell type specific",Moderate,High,Yes,No,Yes,Yes,Yes,Yes,No,,Yes,Yes
+2138937,Moderate,High,Single transcripts,"Diffuse	Cytoplasmic	Other",Low,Moderate,Yes,Yes,Yes,Yes,Yes,Yes,No,protein concentrated in a specific part of the neuropil but not the RNA,Yes,No
+2139897,High,High,"Evenly distributed	Single transcripts","Cell edges	Diffuse	Cytoplasmic",High,High,Yes,Yes,Yes,Yes,Yes,Yes,No,Discordance: RNA is more concentrated in the cells but protein is more concentrated in the neuropil,Yes,No
+2138925,Low,Moderate,Single transcripts,"Punctate	Diffuse",Low,Moderate,No,No,No,No,Yes,Yes,No,I think the protein is in the nerves (do not know if neuron or glia). RNA is concentrated there as well but also seen in some nucleus,No,No
+2140579,Low,High,Single transcripts,"Diffuse	Large aggregations",High,None,Yes,No,No,No,No,Yes,No,,Yes,No
+2139881,Moderate,None,Single transcripts,,Moderate,Moderate,Yes,Yes,Yes,No,Yes,No,No,,Yes,No
+2138933,Moderate,Moderate,Evenly distributed,"Cell edges	Diffuse	Cytoplasmic",Low,Moderate,No,No,Yes,Yes,Yes,No,No,,Yes,Yes
+2138805,High,High,Single transcripts,Nuclear,High,High,No,Yes,Yes,Yes,Yes,No,No,,Yes,Yes
+2138817,High,Moderate,"Evenly distributed	Single transcripts","Nuclear	Diffuse",High,High,No,No,Yes,Yes,Yes,Yes,No,,Yes,Yes
+2140672,None,None,,,None,None,No,No,No,No,No,No,No,"Do not labeled as ""poor"" because there is signal in the *syp* channel,  even though not in the protein or RNA channels.  Problems in the YFP trap? or the gene is not expressed?",No,No
+2138887,High,High,Evenly distributed,"Cell edges	Cytoplasmic",Moderate,High,No,No,Yes,No,Yes,No,No,,Yes,Yes
+2138885,Moderate,High,Single transcripts,"Cell edges	Diffuse",High,Moderate,Yes,Yes,Yes,Yes,Yes,Yes,No,Discordance: protein concentration at the neuropil compartment is very high even though the RNA concentration is not as high,Yes,No
+2138931,Moderate,High,"Single transcripts	Nuclear","Nuclear	Diffuse",Low,Moderate,No,Yes,Yes,Yes,N/A,No,No,,Yes,Yes
+2140573,None,None,Other,,None,None,No,No,No,No,No,No,No,"since the ""Dlg, syp"" channel worked, this gene is not expressed or sth with the YFP trap?",No,No
+2138940,Low,Moderate,Single transcripts,Large aggregations,Low,Low,Yes,No,No,No,Yes,Yes,Yes,"no signal at the ""Dlg, syp"" channel neither on the experimental or the control",Yes,No
+2138915,None,None,,,None,None,No,No,No,No,No,No,Yes,"labeled as ""poor image"" because *syp* has a lower concentration on the experimental than in the control image and that might be why I can nost see signal on the RNA or protein channels",No,No
+2138807,High,High,"Evenly distributed	Single transcripts",Nuclear,Moderate,High,No,No,Yes,Yes,Yes,No,No,,Yes,Yes
+2138902,Low,None,Single transcripts,,Low,Low,Yes,No,Yes,No,No,No,No,,Yes,No
+2139975,Moderate,High,"Single transcripts	More in some cells than others","Diffuse	Cell type specific",Moderate,Moderate,Yes,Yes,No,Yes,Yes,Yes,No,"Discordance in the neuropil image but not in the ""cell bodies""",Yes,No
+2139877,High,High,Single transcripts,"Nuclear	Diffuse",Low,High,Yes,No,Yes,Yes,Yes,No,No,,Yes,Yes
+2138859,High,High,"Single transcripts	More in some cells than others","Punctate	Cytoplasmic",Moderate,High,No,No,Yes,Yes,Yes,Yes,No,,Yes,Yes
+2138924,High,High,"Evenly distributed	Single transcripts",Nuclear,High,High,No,No,Yes,Yes,Yes,No,No,,Yes,Yes
+2138947,Low,High,Single transcripts,Nuclear,Low,Low,Yes,Yes,Yes,Yes,Yes,No,No,,Yes,Yes
+2138871,Moderate,High,"Single transcripts	Other",,Moderate,High,No,No,Yes,Yes,Yes,No,No,RNA is everywhere and protein only if there are cells (not in the neuropil),Yes,Yes
+2138900,Moderate,Low,Single transcripts,Cell edges,Moderate,High,Yes,No,Yes,No,Yes,No,No,high concentration of RNA evenly expressed but not translated in this compartments,Yes,No
+2139013,Low,Low,Single transcripts,"Diffuse	Cell type specific",Low,Low,No,No,Yes,Yes,N/A,Yes,Yes,,Yes,No
+2138886,Low,None,More in some cells than others,,None,Low,No,No,Yes,No,No,No,No,,No,No
+2140673,Moderate,Moderate,"Evenly distributed	Single transcripts	Nuclear","Punctate	Cell type specific",Moderate,Low,Yes,Yes,Yes,No,Yes,No,No,,Yes,No
+2138916,None,None,,,None,None,No,No,No,No,No,No,Yes,"Coded as ""poor image"": less signal on the experimental *syp* channel than the control that might explain the lack of signal on the RNA and protein pannels",No,No
+2140680,Moderate,None,Single transcripts,,Low,Moderate,Yes,Yes,Yes,No,Yes,No,No,,Yes,No
+2138808,Low,Moderate,Single transcripts,Punctate,Low,Moderate,No,No,No,No,Yes,Yes,No,,Yes,Yes
+2138820,Low,Moderate,Single transcripts,Cytoplasmic,Low,Moderate,Yes,No,Yes,Yes,Yes,No,No,"at ""cell bodies"" image, there are some cells with a high concentration of RNa whereas the protein concentration is the same for all the cells",N/A,Yes
+2138943,High,High,"Single transcripts	Nuclear	More in some cells than others	Other","Nuclear	Diffuse",Moderate,High,Yes,Yes,Yes,Yes,Yes,Yes,No,,Yes,Yes
+2138869,High,High,Single transcripts,"Cytoplasmic	Cell type specific",High,Moderate,Yes,Yes,Yes,Yes,Yes,No,No,"Discordance: whilst RNA is everywhere, protein is concentrated in the cells",Yes,Yes
+2138806,Moderate,Low,"Single transcripts	More in some cells than others	Other","Nuclear	Other",Low,Moderate,Yes,Yes,No,No,Yes,Yes,No,,N/A,Yes
+2138841,Low,High,Single transcripts,"Cytoplasmic	Cell type specific",Moderate,Moderate,Yes,Yes,Yes,Yes,Yes,No,No,,Yes,Yes
+2138884,High,Moderate,Single transcripts,"Punctate	Diffuse	Cell type specific",Moderate,High,No,No,Yes,Yes,Yes,Yes,No,,Yes,Yes

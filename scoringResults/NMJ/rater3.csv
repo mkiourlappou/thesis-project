@@ -1,0 +1,209 @@
+figure_id,What is the level of RNA expression?,What is the level of protein expression?,What patterns does the RNA make?,What patterns does the protein make?,Nascent transcript level,Cytosolic RNA level,Is there obvious RNA/protein discordance (whole image)?,Flag this gene as a potential one to use for a figure in the paper?,Is RNA present in axon terminal?,Is protein present in axon terminal?,Is RNA present in muscle?,Is protein present in muscle?,Is RNA present in post synaptic density?,Is protein present in post synaptic density?,Is RNA present in neuron?,Is protein present in neuron?,Is RNA distribution cell-type specific?,Is protein distribution cell-type specific?,Is figure quality too poor?,General comments
+2125613,Low,None,"Single transcripts	Nuclear",Cell edges,Low,Low,Yes,No,No,No,No,No,No,No,No,Yes,No,neuron,Yes,No label for what is shown in red (dlg?)
+2125621,Moderate,High,Nuclear,"Nuclear	Diffuse	Cytoskeleton (muscle fibres)",High,None,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,
+2137763,High,High,"Evenly scattered	Single transcripts","Diffuse	Cytoskeleton (muscle fibres)",Moderate,High,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,
+2137797,Moderate,Moderate,Evenly scattered,Cytoskeleton (muscle fibres),High,Moderate,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,
+2137799,Low,Low,Single transcripts,Punctate,Low,None,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,
+2137802,Moderate,Low,Single transcripts,Punctate,High,Low,Yes,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,No,
+2137819,High,Moderate,"Single transcripts	Nuclear	Perinuclear (muscle)",Cytoskeleton (muscle fibres),Moderate,High,No,No,No,No,Yes,Yes,Yes,No,No,No,No,muscle,No,
+2137821,Low,Moderate,Single transcripts,Nuclear,Low,Low,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,
+2137822,Low,Moderate,Nuclear,Other,High,None,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Other cells,neuron,Yes,"Unclear if RNA signal in the muscle is real. Needs to be looked at in detail and rescored
+"
+2137825,Moderate,High,"Single transcripts	Nuclear	Perinuclear (muscle)","Diffuse	Cytoskeleton (muscle fibres)",High,Moderate,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,
+2137826,High,High,Evenly scattered,"Punctate	Cytoskeleton (muscle fibres)",High,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,
+2137828,Moderate,Low,Single transcripts,Punctate,None,Moderate,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,"No nuclei in shot, can't judge transcription"
+2137829,Low,Moderate,Single transcripts,Other,Low,Low,No,No,No,No,No,No,Yes,No,Yes,Yes,No,neuron,No,
+2137830,High,Low,Evenly scattered,Nuclear,Low,High,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,Protein is seemingly only nucleolar
+2137831,Moderate,Low,"Single transcripts	Nuclear","Punctate	Diffuse",High,Moderate,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,
+2137832,Low,Moderate,Single transcripts,"Diffuse	Cytoskeleton (muscle fibres)",Moderate,Low,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,
+2137833,Low,Moderate,Single transcripts,"Punctate	Nuclear",Moderate,Low,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,muscle,No,
+2137834,High,High,Evenly scattered,"Punctate	Cytoskeleton (muscle fibres)",Moderate,High,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,
+2137835,Moderate,Low,Single transcripts,Punctate,Low,Moderate,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,neuron,No,
+2137836,Low,Low,Single transcripts,Punctate,Moderate,Low,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,
+2137837,High,High,Evenly scattered,Cytoskeleton (muscle fibres),Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,
+2137839,Low,None,Nuclear,None,Moderate,None,Yes,No,No,No,No,No,No,No,No,No,muscle,No,No,
+2137840,Low,Low,Other,Punctate,Moderate,None,Yes,No,Yes,Yes,No,No,No,No,No,No,No,neuron,No,Large RNA and protein accumulation in one bouton? Worth looking at data to figure out whats going on
+2137841,Low,Moderate,Nuclear,"Cell edges	Diffuse",Moderate,Low,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Axon terminal,No,
+2137842,Low,Moderate,Nuclear,"Diffuse	Cytoskeleton (muscle fibres)",Moderate,None,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,HRP didn't work? 
+2137843,Low,Low,"Single transcripts	Nuclear","Punctate	Cell edges",Moderate,Low,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No HRP?
+2137844,Moderate,High,Single transcripts,"Punctate	Cytoskeleton (muscle fibres)",High,Low,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,
+2137845,Moderate,Low,Evenly scattered,Nuclear,High,Moderate,Yes,No,No,No,Yes,No,Yes,No,No,No,No,muscle,No,"White strand across the image, need to pick a different z? Also no HRP"
+2137847,Low,Low,Nuclear,"Diffuse	Cytoskeleton (muscle fibres)",Low,Low,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,No,
+2137849,High,Low,"Evenly scattered	Nuclear","Nuclear	Cytoskeleton (muscle fibres)",High,Moderate,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,
+2137852,Low,High,Nuclear,Cytoskeleton (muscle fibres),High,None,Yes,No,No,No,No,Yes,No,No,No,No,muscle,muscle,No,
+2137853,High,Moderate,Evenly scattered,"Punctate	Diffuse",Low,High,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Large white spot in RNA channel. Real? If not it should be cut out of the image
+2137854,None,High,Nuclear,Cytoskeleton (muscle fibres),Moderate,None,Yes,No,No,No,No,Yes,No,No,No,No,muscle,muscle,No,"Blue could be more prominent, hard to see the neuron"
+2137855,Low,Low,"Single transcripts	Nuclear",Cytoskeleton (muscle fibres),Low,Low,Yes,No,No,No,Yes,Yes,No,No,No,No,No,muscle,Yes,"Not sure if it's a low signal problem but it's hard to pick out the RNA, might benefit from recontrasting
+"
+2137856,High,High,Evenly scattered,Cytoskeleton (muscle fibres),Moderate,High,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,
+2137857,Moderate,Low,"Single transcripts	Nuclear",Other,High,Moderate,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,neuron,No,
+2137858,Moderate,Low,Evenly scattered,"Punctate	Nuclear",Moderate,Moderate,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Protein is at edge of nucleus - nuclear envelope function?
+2137859,High,Moderate,Evenly scattered,"Punctate	Cell edges",Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,
+2137860,Moderate,Moderate,Evenly scattered,Other,None,Moderate,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,"a little hazy. Might need some recontrasting. HRP not there, label needs to be changed"
+2137861,High,High,Evenly scattered,"Punctate	Cytoskeleton (muscle fibres)",Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,
+2137862,High,Moderate,Evenly scattered,Punctate,Moderate,High,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,
+2137863,Low,None,Single transcripts,None,Low,None,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,
+2137864,Low,Low,Single transcripts,Nuclear,Low,Low,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,It's not great. Think it needed more z's. 
+2137865,Low,Low,Single transcripts,Punctate,Moderate,None,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,HRP is very faint
+2137866,None,None,,,None,None,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Lots of background. Very hard to interperet. 
+2137867,High,Low,Evenly scattered,"Punctate	Cytoskeleton (muscle fibres)",Low,High,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,
+2137868,Low,Moderate,"Single transcripts	Nuclear","Punctate	Cytoskeleton (muscle fibres)",High,Low,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,
+2137870,Low,High,Nuclear,"Punctate	Diffuse",Low,None,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,"High background in RNA. Image needs to be flipped vertically or the labels moved. Very high protein at top end of image. Another tissue? If it's not relevant should be cut out of figure. 
+"
+2137871,Low,High,Nuclear,"Punctate	Diffuse",Low,None,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,"Image needs to be rotated or labels moved as they can't be seen, background in RNA channel is horrendous"
+2137876,Moderate,Moderate,Evenly scattered,Punctate,Moderate,Moderate,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,
+2137878,High,High,Evenly scattered,Cell edges,High,High,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,
+2137880,Low,Moderate,Nuclear,Punctate,Low,None,No,No,No,No,No,No,No,No,No,Yes,No,neuron,No,"Background in RNA channel is high, don't think it's real signal. Also large aggregation near synapse, not sure it's real. "
+2137881,Low,Moderate,Single transcripts,"Punctate	Cytoskeleton (muscle fibres)",None,Low,No,No,No,No,No,Yes,No,No,No,No,muscle,muscle,No,
+2137882,Moderate,Moderate,"Evenly scattered	Single transcripts",Punctate,None,Moderate,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,
+2137883,Moderate,Moderate,Single transcripts,Cytoskeleton (muscle fibres),High,Moderate,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,
+2137884,Moderate,Low,Evenly scattered,Cytoskeleton (muscle fibres),None,Moderate,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,
+2137885,Moderate,Moderate,Evenly scattered,Nuclear,Moderate,Moderate,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,
+2137886,Moderate,Moderate,Single transcripts,Punctate,Moderate,Low,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,"Clusters of protein around the boutons and very high number of transcripts in the nuclei. Interesting
+"
+2137887,Low,Low,Single transcripts,Cytoskeleton (muscle fibres),None,Low,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,"Could do with some contrasting tweaks
+"
+2137888,High,High,Evenly scattered,Cytoskeleton (muscle fibres),High,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,
+2137892,Low,Moderate,Single transcripts,Cytoskeleton (muscle fibres),High,Low,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,This is not a great image. Worth looking at again? 
+2137893,None,Low,,"Diffuse	Cytoskeleton (muscle fibres)",None,None,Yes,No,No,No,No,Yes,No,No,No,No,No,muscle,Yes,Artefact in between the two muscle segments in the RNA channel? There's no signal so should be recontrasted?
+2137908,Moderate,High,Evenly scattered,Punctate,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,
+2137913,None,Moderate,None,Cell edges,None,None,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,
+2137914,None,None,None,None,None,None,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Doesn't seem to be expressed. It's overcontrasted in the RNA channel and should be adjusted. 
+2137916,Moderate,Low,"Single transcripts	Nuclear",Cytoskeleton (muscle fibres),High,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,
+2137917,Moderate,Moderate,Evenly scattered,"Nuclear	Diffuse	Cytoskeleton (muscle fibres)",Moderate,Moderate,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,
+2137918,High,High,Evenly scattered,Cell edges,None,Moderate,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,neuron,No,
+2137919,Low,Moderate,Single transcripts,Nuclear,Moderate,Low,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,"Needs to be recontrasted. RNA channel looks like there's RNA everywhere, including at the axon termini"
+2137921,High,Moderate,Evenly scattered,Cell edges,High,High,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,post synaptic density,No,
+2137926,Low,Moderate,"Single transcripts	Nuclear",Cell edges,Low,None,Yes,No,No,No,No,No,No,Yes,No,No,No,neuron,No,
+2137927,Low,Moderate,Single transcripts,Cell edges,None,Low,Yes,No,No,No,Yes,No,No,Yes,No,No,No,post synaptic density,Yes,"Channels are mislabelled, green channel isn't on? Scored off Omero. "
+2137935,None,None,,,None,None,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Not sure this can be scored reliably
+2137936,Low,Moderate,Nuclear,"Punctate	Diffuse",High,None,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,
+2137938,High,High,Evenly scattered,Diffuse,High,High,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,HRP didn't work?
+2137939,Low,Low,Single transcripts,Punctate,Low,Low,No,No,No,No,Yes,Yes,No,No,No,No,No,muscle,No,Very large signal in RNA channel at bottom of image near bouton. If it 's not real it will need a note or to be removed. 
+2137942,High,Moderate,Evenly scattered,Cytoskeleton (muscle fibres),Moderate,High,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,
+2137943,Moderate,Low,Single transcripts,Punctate,High,Moderate,No,No,No,No,Yes,Yes,Yes,No,No,No,No,muscle,No,
+2137947,Moderate,High,"Single transcripts	Nuclear",Cytoskeleton (muscle fibres),High,Moderate,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,"No dlg, hard to score PSD. DAPI was imaged but not selected for the figure so that should be changed"
+2137953,High,Low,"Evenly scattered	Nuclear",Nuclear,High,Moderate,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,muscle,No,No dlg1 so hard to image PSD. RNA channel needs to be recontrasted
+2137954,High,Low,Cell type specific,Punctate,Low,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Neuron PACKED with RNA. 
+2137955,High,Moderate,Evenly scattered,Other,Moderate,High,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,muscle,No,No,
+2137956,Low,Low,Single transcripts,Nuclear,Moderate,Low,Yes,No,No,No,Yes,No,Yes,No,No,No,No,muscle,No,
+2137957,Low,High,Single transcripts,Cell edges,None,Low,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Could do with recontrasting
+2137958,Low,Moderate,Single transcripts,Cytoskeleton (muscle fibres),Low,Low,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,
+2137959,High,High,Evenly scattered,Cytoskeleton (muscle fibres),Low,High,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,muscle,Yes,2 RNA transcripts in lower left bouton are actually outside the synapse. Might need to cut stack to show this. Also needs recontrasting. 
+2137960,Low,Low,Nuclear,Punctate,Moderate,None,No,No,No,No,No,Yes,No,No,No,No,No,No,No,
+2137961,Low,Low,Nuclear,Nuclear,None,None,No,No,No,No,No,No,No,No,No,No,No,No,No,
+2137962,Low,Moderate,Single transcripts,"Punctate	Cytoskeleton (muscle fibres)",None,Low,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Would benefit from recontrasting
+2137963,Moderate,Low,Evenly scattered,"Cell edges	Diffuse",High,Moderate,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,"I think there is RNA in the axon termini here without protein. z slice 17, smaller of the two boutons on the right handside. Figure could benefit from recontrasting"
+2137965,High,High,Evenly scattered,"Punctate	Diffuse",None,High,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,
+2137970,High,High,Evenly scattered,"Diffuse	Cytoskeleton (muscle fibres)",None,High,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,muscle,No,"RNA in bouton at top of image in around  z-slice 19. No dlg, HRP hard to see in figure."
+2137971,Moderate,Moderate,Evenly scattered,Punctate,Low,Moderate,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Not very clear figure. Could do with recontrasting
+2137972,Low,Low,Single transcripts,Diffuse,None,Low,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,RNA in axon termini at around z-slice 4 in the bouton near the centre of the image. Contrasting of DAPI could be better
+2137973,High,Moderate,Evenly scattered,"Punctate	Nuclear",Moderate,High,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No DLG so hard to assess PSD
+2137974,High,Moderate,Evenly scattered,"Cell edges	Diffuse",Moderate,High,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,
+2137976,Moderate,Low,Single transcripts,Nuclear,High,Low,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,RNA in axon terminal around z-slice 11 
+2137978,Low,Moderate,Single transcripts,Cytoskeleton (muscle fibres),Low,Low,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,Yes,Needs recontrasting. 
+2137981,Moderate,Low,Evenly scattered,Diffuse,Moderate,Low,No,No,No,No,Yes,Yes,Yes,No,No,No,No,muscle,No,"Gene name is BNIP, should the title on the figure change from the CG number? Should we cut out the really bright protein expression at the bottom?
+"
+2137983,Moderate,Moderate,Evenly scattered,"Punctate	Nuclear",Moderate,Moderate,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,RNA in axon terminal around slice 22
+2138009,Low,Low,Nuclear,Punctate,Low,None,No,No,No,No,No,Yes,No,No,No,No,muscle,muscle,No,
+2138060,Low,Moderate,Single transcripts,Nuclear,None,Low,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,
+2138061,Moderate,Moderate,Single transcripts,"Diffuse	Other",High,Low,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Figure is a bit of a mess TBH
+2138070,High,High,Evenly scattered,Punctate,High,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,
+2138072,High,High,Evenly scattered,Cytoskeleton (muscle fibres),None,High,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,"RNA in axon terminal, bouton furthest left around z-slice 24"
+2138073,Low,High,Single transcripts,Cytoskeleton (muscle fibres),Moderate,Low,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,
+2138077,None,Low,,Punctate,None,None,Yes,No,No,No,No,Yes,No,No,No,No,No,muscle,No,
+2138078,Moderate,Low,"Single transcripts	Nuclear",Nuclear,None,Low,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,
+2138081,High,Moderate,"Evenly scattered	Nuclear",Cell edges,Moderate,High,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,post synaptic density,No,
+2138082,Low,High,Single transcripts,"Punctate	Diffuse	Cytoskeleton (muscle fibres)",High,Low,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,
+2138083,Low,Moderate,Nuclear,"Punctate	Cytoskeleton (muscle fibres)",Low,None,Yes,No,No,No,No,Yes,No,No,No,No,No,muscle,No,
+2138085,Low,Moderate,Nuclear,"Punctate	Cell edges",Moderate,None,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,
+2138088,None,None,None,,None,None,No,No,No,No,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed at all
+2138090,High,High,"Evenly scattered	Nuclear	Perinuclear (muscle)",Cytoskeleton (muscle fibres),Moderate,High,No,No,No,No,Yes,Yes,Yes,No,No,No,No,muscle,No,"Large thing in RNA channel, can we pick different z range to get rid?
+"
+2138092,High,Moderate,"Evenly scattered	Nuclear","Cell edges	Cytoskeleton (muscle fibres)",Moderate,High,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,
+2138094,High,Moderate,"Evenly scattered	Nuclear	Perinuclear (muscle)",Nuclear,Moderate,High,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,
+2138096,Moderate,Moderate,Nuclear,"Cell edges	Diffuse",High,None,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,
+2138097,Moderate,Moderate,"Evenly scattered	Nuclear	Perinuclear (muscle)",Nuclear,Moderate,Moderate,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,
+2138098,High,Moderate,"Evenly scattered	Nuclear","Punctate	Diffuse",High,High,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Dlg label on merge but it's not there. 
+2138099,High,Moderate,"Evenly scattered	Nuclear	Perinuclear (muscle)","Punctate	Nuclear",Moderate,High,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,HRP is so bright you can't see the DAPI. Should we outline the nuclei in some way? 
+2138100,High,Low,Other,Punctate,None,None,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Very large RNA accumulation in the neuron. 
+2138101,Moderate,Moderate,Evenly scattered,Nuclear,Low,Moderate,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,
+2138102,Low,Low,Single transcripts,"Diffuse	Cytoskeleton (muscle fibres)",Moderate,Low,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,
+2138104,Low,Low,Single transcripts,Punctate,None,Low,No,No,No,No,No,Yes,Yes,Yes,No,Yes,neuron,No,Yes,No dlg and it doesn't look great. Borderline if this is acceptable. One very bright dot in RNA channel. Spurious?
+2138106,Low,Low,Single transcripts,"Punctate	Cytoskeleton (muscle fibres)",Low,Low,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,
+2138110,Moderate,High,Single transcripts,Cytoskeleton (muscle fibres),Moderate,Moderate,No,No,No,No,Yes,Yes,Yes,No,No,No,No,muscle,No,
+2138111,Low,Moderate,Nuclear,"Cell edges	Diffuse	Cytoskeleton (muscle fibres)",Moderate,None,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,
+2138112,Moderate,Low,"Evenly scattered	Nuclear	Perinuclear (muscle)",Punctate,Low,Moderate,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,
+2138113,Moderate,Moderate,"Evenly scattered	Nuclear	Perinuclear (muscle)","Cell edges	Diffuse",High,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,
+2138114,Low,Moderate,"Single transcripts	Perinuclear (muscle)",Punctate,None,Low,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,
+2138115,Moderate,Moderate,"Evenly scattered	Nuclear	Perinuclear (muscle)",Diffuse,High,Moderate,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Could be better contrasted?
+2138116,High,Moderate,"Evenly scattered	Perinuclear (muscle)",Diffuse,None,High,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,RNA in axon terminal z slice 3 & 4
+2138118,Low,Moderate,"Single transcripts	Nuclear	Perinuclear (muscle)",Nuclear,Low,Low,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Large accumulation/spot in the RNA channel. Is it real?
+2138122,High,Moderate,Evenly scattered,Punctate,Low,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,
+2138131,Low,Low,"Single transcripts	Nuclear","Nuclear	Other",None,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Very large RNA accumulation or is that not real? 
+2138142,Moderate,Low,Evenly scattered,"Punctate	Cytoskeleton (muscle fibres)",None,Moderate,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,"Very hard to interpret from the projection, could do with contrast adjustments"
+2138143,Moderate,Low,"Single transcripts	Nuclear	Perinuclear (muscle)",Punctate,Low,Moderate,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,
+2138144,Low,None,Nuclear,None,Low,None,No,No,No,No,No,No,No,No,No,No,No,No,No,Not a great image. Probably very low signal?
+2138145,Moderate,Moderate,"Evenly scattered	Nuclear	Perinuclear (muscle)",Diffuse,High,Moderate,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,DAPI can't be seen
+2138146,Low,Low,"Single transcripts	Nuclear	Perinuclear (muscle)",Punctate,None,None,No,No,No,No,Yes,Yes,No,No,No,No,No,muscle,No,
+2138154,Moderate,Moderate,"Single transcripts	Nuclear	Perinuclear (muscle)","Punctate	Diffuse",High,Moderate,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,muscle,No,RNA in axon terminal around z slice 12
+2138155,High,Moderate,"Evenly scattered	Nuclear	Perinuclear (muscle)",Other,Moderate,High,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,"Large protein expression top right, better to choose different z so it's not in picture? "
+2138163,Low,High,Single transcripts,"Punctate	Cell edges	Other",None,None,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,muscle,neuron,No,Could do with recontrasting to cut out lower blue signal
+2138164,Moderate,Moderate,"Evenly scattered	Nuclear	Perinuclear (muscle)","Nuclear	Cytoskeleton (muscle fibres)",Moderate,Moderate,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,
+2138169,Moderate,High,"Single transcripts	Perinuclear (muscle)","Cell edges	Diffuse",None,Moderate,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,
+2138175,High,High,"Evenly scattered	Nuclear	Perinuclear (muscle)","Cell edges	Cytoskeleton (muscle fibres)",Low,High,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,
+2138185,None,None,None,None,None,None,No,No,No,No,No,No,No,No,No,No,No,No,No,Not expressed?
+2138191,None,None,None,None,None,None,No,No,No,No,No,No,No,No,No,No,No,No,No,Not Expressed?
+2138196,None,None,None,None,None,None,No,No,No,No,No,No,No,No,No,No,No,No,No,Not expressed?
+2138198,Low,High,Nuclear,"Diffuse	Cytoskeleton (muscle fibres)",Low,None,Yes,No,No,No,No,Yes,No,No,No,No,No,muscle,Yes,"Needs recontrasting, green is overdone dlg didn't work? "
+2138200,High,Moderate,"Evenly scattered	Nuclear	Perinuclear (muscle)","Punctate	Diffuse",None,High,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,"Large white blob in RNA signal, remove it? RNA in axon terminal in z slice 9"
+2138201,High,Moderate,"Evenly scattered	Perinuclear (muscle)",Diffuse,None,High,No,No,No,No,Yes,Yes,Yes,No,No,No,No,muscle,No,
+2138202,Moderate,High,"Evenly scattered	Nuclear	Perinuclear (muscle)","Punctate	Nuclear	Diffuse	Cytoskeleton (muscle fibres)",High,Moderate,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Large aggregation in RNA channel. Real?
+2138203,Moderate,Low,"Evenly scattered	Perinuclear (muscle)",Punctate,None,Moderate,No,No,No,No,Yes,Yes,No,No,Yes,No,No,muscle,No,
+2138204,Moderate,Low,"Single transcripts	Nuclear	Perinuclear (muscle)",Cytoskeleton (muscle fibres),Low,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,RNA in axon terminal top right bouton z slice 17
+2138205,Moderate,High,Evenly scattered,"Diffuse	Cytoskeleton (muscle fibres)",Low,Moderate,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,muscle,No,
+2138206,None,None,None,None,None,None,No,No,No,No,No,No,No,No,No,No,No,No,No,Not expressed? Not sure I believe the RNA signal is real
+2138207,High,Moderate,"Evenly scattered	Nuclear	Perinuclear (muscle)",Cytoskeleton (muscle fibres),High,High,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,
+2138208,None,Low,,Punctate,None,None,Yes,No,No,No,No,Yes,No,No,No,No,No,muscle,No,
+2138209,Low,Low,Nuclear,Other,Low,None,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,
+2138210,Low,Moderate,"Single transcripts	Nuclear","Punctate	Diffuse",Low,Low,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,RNA in axon terminal around z slice 23
+2138211,Low,Moderate,Nuclear,Nuclear,Moderate,None,No,No,No,No,No,No,No,No,No,No,No,No,No,
+2138212,Low,Moderate,"Single transcripts	Nuclear","Punctate	Diffuse",Moderate,Low,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,
+2138213,Low,Low,"Single transcripts	Nuclear",Cytoskeleton (muscle fibres),Moderate,Low,No,No,No,No,No,Yes,Yes,No,No,No,No,muscle,No,
+2138214,None,Low,None,Nuclear,None,None,No,No,No,No,No,No,No,No,No,No,No,No,No,
+2138215,Low,Low,Nuclear,Cytoskeleton (muscle fibres),Moderate,None,Yes,No,No,No,No,Yes,No,No,No,No,No,muscle,No,
+2138216,Low,Low,Single transcripts,Cytoskeleton (muscle fibres),None,Low,No,No,No,No,Yes,Yes,Yes,No,No,No,No,muscle,No,
+2138217,Moderate,Moderate,"Single transcripts	Nuclear	Perinuclear (muscle)","Punctate	Cytoskeleton (muscle fibres)",Moderate,Low,No,No,No,No,Yes,Yes,Yes,No,No,No,No,muscle,No,
+2138218,Moderate,Moderate,"Evenly scattered	Nuclear	Perinuclear (muscle)","Diffuse	Cytoskeleton (muscle fibres)",Low,Moderate,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,muscle,No,RNA in axon terminal slice 19
+2138219,High,High,Other,"Nuclear	Other",None,None,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Large accumulations of RNA in the neuron? Real?
+2138220,High,Low,"Evenly scattered	Nuclear	Perinuclear (muscle)",Diffuse,None,High,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,RNA at axon terminal z-slice 22
+2138221,Moderate,Moderate,"Evenly scattered	Nuclear	Perinuclear (muscle)","Punctate	Cytoskeleton (muscle fibres)",Low,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,
+2138222,Low,None,"Single transcripts	Nuclear	Perinuclear (muscle)",None,Low,Low,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,
+2138223,High,High,"Evenly scattered	Nuclear	Perinuclear (muscle)","Punctate	Diffuse",Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,
+2138224,Low,Moderate,Single transcripts,"Punctate	Diffuse",Moderate,Low,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,
+2138225,Moderate,High,Evenly scattered,"Cytoskeleton (muscle fibres)	Other",None,Moderate,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,
+2138226,High,Moderate,"Evenly scattered	Nuclear	Perinuclear (muscle)","Punctate	Cytoskeleton (muscle fibres)",Moderate,High,No,No,No,No,Yes,Yes,Yes,No,No,No,No,muscle,No,
+2138227,Moderate,Moderate,"Evenly scattered	Nuclear	Perinuclear (muscle)","Cell edges	Other",Moderate,Moderate,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,
+2138228,Low,Moderate,"Single transcripts	Nuclear	Perinuclear (muscle)","Punctate	Cell edges",Moderate,Low,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,
+2138230,Low,Low,"Single transcripts	Nuclear	Perinuclear (muscle)",Other,Low,Low,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,No,"Strange protein expression pattern (wiggly line), is that real?"
+2138231,Low,Moderate,Single transcripts,"Punctate	Cell edges	Diffuse",None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,
+2138232,Low,Low,"Single transcripts	Nuclear",Cell edges,Low,Low,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,
+2138233,None,None,,,None,None,No,No,No,No,No,No,No,No,No,No,No,No,Yes,NOT SCORED: This is the wrong image for this figure. It's for line CPTI1880 - Ptp69d
+2138234,High,High,"Evenly scattered	Nuclear	Perinuclear (muscle)","Diffuse	Other",High,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,
+2138235,High,Low,"Evenly scattered	Nuclear	Perinuclear (muscle)",Cytoskeleton (muscle fibres),High,High,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,
+2138236,High,High,"Evenly scattered	Nuclear	Perinuclear (muscle)",Cytoskeleton (muscle fibres),High,Moderate,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,RNA in axon terminal around slice 10/11. Are we bothered about the big hole in the middle of the prep?
+2138237,Low,None,Single transcripts,None,None,Low,No,No,Yes,No,No,No,No,No,No,No,No,No,No,stack range in merge is different to the individual channels. Green signal in protein panel isn't in the merge. MErge stack needs to be widened. Is RNA signal in the middle real? I've marked it as present in the axon terminal
+2138238,High,None,"Evenly scattered	Nuclear	Perinuclear (muscle)","Diffuse	Cytoskeleton (muscle fibres)",Moderate,High,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Large signal in RNA channel. Real?
+2138239,None,None,,,None,None,No,No,No,No,No,No,No,No,No,No,No,No,Yes,NOT SCORED: This figure is a mess
+2138240,Low,Low,Nuclear,"Punctate	Cytoskeleton (muscle fibres)",Low,None,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,
+2138242,Low,Low,Other,"Punctate	Diffuse",None,Low,No,No,No,No,No,Yes,No,No,Yes,No,No,muscle,No,"Large RNA accumulation, Real?"
+2138244,Low,High,"Single transcripts	Nuclear	Perinuclear (muscle)","Punctate	Cell edges	Cytoskeleton (muscle fibres)",Low,Low,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,"protein is over exposed in boutons, we ok with that?"
+2138261,Moderate,Moderate,"Evenly scattered	Nuclear	Perinuclear (muscle)","Diffuse	Other",Moderate,Moderate,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,
+2138269,Low,Moderate,"Single transcripts	Nuclear","Punctate	Cytoskeleton (muscle fibres)",High,Low,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,
+2138270,Moderate,High,"Single transcripts	Nuclear",Nuclear,Moderate,Moderate,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,muscle,No,
+2138273,Low,Low,Single transcripts,"Punctate	Nuclear	Cytoskeleton (muscle fibres)",None,Low,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,
+2139921,High,Moderate,"Evenly scattered	Nuclear	Perinuclear (muscle)",Diffuse,Moderate,High,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,neuron,No,
+2140570,Moderate,High,"Single transcripts	Nuclear",Cytoskeleton (muscle fibres),High,Low,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,"Saturated, figure needs to be recontrasted"
+2140571,None,Low,,Punctate,None,None,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,Large dot in RNA channel real? If not then the figue shouldn't include it. HRP isn't visible in the HRP and DAPI image
+2140582,Low,Low,Nuclear,"Diffuse	Cytoskeleton (muscle fibres)",Moderate,None,No,No,No,No,No,Yes,No,No,No,No,No,No,No,
+2142954,Low,Moderate,Nuclear,Punctate,Moderate,None,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,

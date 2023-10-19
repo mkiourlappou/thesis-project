@@ -1,0 +1,35 @@
+Cohen Kappa,index,Simple Agreement
+0.14753333333333332,OL:Is RNA present in neuropil?,0.5533333333333333
+0.49490000000000006,OL:Is protein present in soma?,0.8133333333333334
+0.5341,OL:Is protein present in neuropil?,0.7633333333333333
+0.40346666666666664,OL:Is RNA present in soma?,0.8116666666666666
+0.5758666666666666,VNC:Is protein present in neuropil?,0.7866666666666667
+0.16230000000000003,VNC:Is RNA present in midline glia?,0.375
+0.33616666666666667,VNC:Is RNA present in neuropil?,0.625
+0.5089666666666667,VNC:Is protein present in soma?,0.79
+0.3955666666666667,VNC:Is RNA present in soma?,0.815
+0.17736666666666667,VNC:Is protein present in midline glia?,0.35333333333333333
+0.27909999999999996,NMJ:Is RNA present in neuron?,0.572139303482587
+0.373,NMJ:Is RNA present in post synaptic density?,0.6633499170812603
+0.3495,NMJ:Is protein present in neuron?,0.7976782752902155
+0.3414,NMJ:Is protein present in muscle?,0.6948590381426203
+0.2592666666666667,NMJ:Is RNA present in axon terminal?,0.5986733001658374
+0.48456666666666665,NMJ:Is protein present in post synaptic density?,0.814262023217247
+0.2437,NMJ:Is RNA present in muscle?,0.7844112769485904
+0.32256666666666667,NMJ:Is protein present in axon terminal?,0.7810945273631841
+0.47059999999999996,MB:Is protein present in MB calyx?,0.73
+0.32733333333333337,MB:Is protein present in Kenyon cell somata?,0.67
+0.45776666666666666,MB:Is RNA present in MB calyx?,0.7966666666666667
+0.5182000000000001,MB:Is protein present in MB lobes?,0.7533333333333333
+0.30013333333333336,MB:Is RNA present in Kenyon cell somata?,0.6333333333333333
+0.33066666666666666,MB:Is RNA present in MB lobes?,0.7316666666666666
+0.3184,CB:Is protein present in NBs?,0.645
+0.5946333333333333,CB:Is RNA present in anlagen?,0.7316666666666668
+0.12513333333333335,CB:Is RNA present in other cells?,0.38666666666666666
+0.15363333333333334,CB:Is protein present in other cells?,0.41333333333333333
+0.433,CB:Is RNA present in NBs?,0.7733333333333334
+0.2974666666666667,CB:Is protein present in anlagen?,0.5566666666666666
+0.42963333333333337,nerve:Is RNA present in nerve?,0.7625000000000001
+0.5431666666666667,nerve:Is protein present in glia?,0.7875
+0.4925333333333333,nerve:Is protein present in nerve?,0.7458333333333332
+0.44083333333333335,nerve:Is RNA present in glia?,0.8416666666666667

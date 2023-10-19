@@ -1,0 +1,202 @@
+figure_id,What is the level of RNA expression?,What is the level of protein expression?,"If there is RNA expression, what patterns does the RNA make?","If there is protein expression, what patterns does the protein make?",Nascent transcript level,Cytosolic RNA level,Is there obvious RNA/protein discordance (whole image)?,Flag this gene as a potential one to use for a figure in the paper?,Is RNA present in Kenyon cell somata?,Is protein present in Kenyon cell somata?,Is RNA present in MB lobes?,Is protein present in MB lobes?,Is RNA present in MB calyx?,Is protein present in MB calyx?,Is figure quality too poor?,General comments,,soma_RNAnoProtein,soma_ProteinnoRNA,lobes_RNAnoProtein,lobesproteinNoRNA,calyxRNAnoProtein,calyxProteinNoRNA,figure_id
+2138311,Low,Low,Single transcripts,Punctate,Low,Low,No,No,Yes,Yes,No,Yes,No,Yes,No,Could do with contrasting again,,0,1,0,1,0,1,2138431
+2138540,High,Low,Evenly distributed,Punctate,High,Moderate,No,No,Yes,Yes,No,No,Yes,No,No,,,0,1,0,1,0,1,2138135
+2138893,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed,,0,1,0,1,0,1,2137895
+2138431,None,Moderate,,Diffuse,None,None,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Is the protein in or just at the edge of the lobes/calyx? No RNA at all but this much protein? Can we look at other compartments to see if it's the same?,,1,0,0,1,0,1,2138248
+2138798,High,High,Evenly distributed,"Punctate	Large aggregations",Low,High,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Protein needs better contrasting,,1,0,0,1,0,1,2138622
+2138452,Low,Moderate,Single transcripts,Cytoplasmic,Low,Low,No,No,Yes,Yes,No,No,No,No,Yes,"There's a lot of haze in RNA channel. Seems to be background levels. Probably missing some real signal in here?",,1,0,0,1,0,1,2138329
+2137992,High,Moderate,Evenly distributed,"Punctate	Diffuse",Moderate,High,No,No,No,No,Yes,No,No,No,No,Cell bodies image isn't brilliant,,1,0,0,1,0,1,2137808
+2138248,Moderate,High,Single transcripts,Large aggregations,Low,Low,Yes,No,Yes,No,No,Yes,No,Yes,No,,,1,0,0,1,0,1,2138659
+2138519,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed,,0,0,0,1,0,1,2138311
+2138348,Moderate,Low,Evenly distributed,"Punctate	Diffuse",Low,Moderate,No,No,Yes,Yes,No,Yes,No,No,No,RNA channel could do with better contrasting,,0,0,0,1,0,1,2137945
+2138464,High,None,Evenly distributed,,Moderate,High,Yes,No,Yes,No,No,No,No,No,No,,,0,0,0,1,0,1,2138935
+2138415,High,Moderate,More in some cells than others,"Cell edges	Diffuse",Moderate,High,No,No,Yes,Yes,No,Yes,Yes,No,No,,,0,0,0,1,0,1,2139976
+2138468,Low,Moderate,Single transcripts,Punctate,Low,Low,No,No,Yes,Yes,No,No,No,Yes,Yes,Cell bodies image is poor,,0,0,0,1,0,1,2138505
+2138576,Low,Moderate,Single transcripts,"Punctate	Large aggregations",None,Low,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Lobe image needs to be recontrasted,,0,0,0,1,0,1,2138411
+2138616,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Not sure this is actually expressed. Strange signal ,,0,0,0,1,0,1,2138167
+2137774,Moderate,None,More in some cells than others,,None,Moderate,Yes,No,No,No,No,No,No,No,No,,,0,0,0,1,0,1,2138728
+2138159,Moderate,Moderate,Evenly distributed,Cytoplasmic,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,Yes,No,,,0,0,0,1,0,1,2138151
+2138393,None,Low,,Cell edges,None,None,No,No,No,No,No,No,No,No,No,IS the protein signal real?,,0,0,0,1,0,1,2138876
+2137902,Low,Moderate,Single transcripts,"Diffuse	Cytoplasmic",None,Low,Yes,No,Yes,No,No,Yes,No,No,No,,,0,0,0,1,0,1,2138864
+2138128,Low,Moderate,Single transcripts,Cytoplasmic,Low,Low,No,No,Yes,Yes,No,No,No,No,No,,,0,0,0,1,0,1,2138838
+2137778,High,High,More in some cells than others,"Punctate	Large aggregations	Cytoplasmic",Low,High,No,No,No,Yes,Yes,Yes,Yes,Yes,No,,,0,0,0,1,0,1,2138926
+2138036,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,,,0,0,0,1,0,1,2138345
+2138063,High,High,Evenly distributed,"Diffuse	Cytoplasmic",High,High,Yes,No,Yes,Yes,Yes,No,Yes,No,No,,,0,0,0,1,0,1,2138363
+2138585,Moderate,Low,Evenly distributed,Diffuse,Moderate,Moderate,Yes,No,Yes,No,No,No,Yes,No,No,,,0,0,0,1,0,1,2138443
+2137945,Low,Moderate,Single transcripts,Diffuse,None,Low,Yes,No,No,No,No,Yes,No,Yes,Yes,Contrasting could be better,,0,0,0,1,0,1,2138936
+2138839,High,Moderate,More in some cells than others,"Punctate	Diffuse",High,High,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,,,0,0,0,1,0,1,2138424
+2138944,High,Moderate,Evenly distributed,Cytoplasmic,Low,High,No,No,Yes,Yes,No,Yes,No,No,No,RNA needs recontrasting,,0,0,0,1,0,1,2138308
+2138935,High,Moderate,More in some cells than others,"Punctate	Large aggregations",High,High,Yes,No,Yes,Yes,No,Yes,No,Yes,No,,,0,0,0,1,0,1,2138662
+2138856,High,High,Evenly distributed,Punctate,Low,High,No,No,Yes,Yes,Yes,Yes,Yes,No,No,,,0,0,0,1,0,1,2138877
+2137812,High,Moderate,Evenly distributed,"Diffuse	Large aggregations",Low,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,0,0,0,1,0,1,2137940
+2138765,Moderate,Moderate,Evenly distributed,Diffuse,Low,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,0,0,1,0,0,1,2138420
+2138057,Moderate,None,Evenly distributed,,Low,Moderate,Yes,No,No,No,No,No,No,No,No,Cell bodies image isn't great,,0,0,1,0,0,1,2138457
+2138706,Moderate,Low,More in some cells than others,Diffuse,None,Moderate,No,No,Yes,Yes,No,No,No,No,No,,,0,1,0,0,0,1,2138845
+2138677,High,High,Evenly distributed,Cytoplasmic,High,High,No,No,Yes,Yes,No,No,No,No,No,,,1,0,0,0,0,1,2138038
+2138669,Low,Low,More in some cells than others,Diffuse,Low,Low,Yes,No,Yes,No,No,No,No,No,No,,,1,0,0,0,0,1,2138043
+2138038,High,Moderate,Evenly distributed,Diffuse,Low,High,Yes,No,Yes,No,Yes,Yes,No,Yes,No,,,1,0,0,0,0,1,2138633
+2138829,High,Moderate,Evenly distributed,Diffuse,Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,1,0,0,0,0,1,2139896
+2138837,Moderate,High,Evenly distributed,Cytoplasmic,None,Moderate,Yes,No,Yes,Yes,No,No,No,No,No,RNA needs to be recontrasted,,1,0,0,0,0,1,2138316
+2138173,Low,Moderate,Single transcripts,Cell edges,Low,Low,No,No,No,Yes,Yes,No,No,No,No,Cell bodies image isn't great,,1,0,0,0,0,1,2137950
+2138622,High,Moderate,Evenly distributed,"Diffuse	Large aggregations",High,High,Yes,No,Yes,No,No,Yes,No,Yes,No,,,0,0,0,0,0,1,2138468
+2138599,High,High,Evenly distributed,Large aggregations,Moderate,High,Yes,No,Yes,No,No,No,No,No,No,,,0,0,0,0,0,1,2138159
+2138550,High,Moderate,More in some cells than others,Diffuse,Moderate,High,No,No,Yes,Yes,Yes,No,Yes,Yes,No,,,0,0,0,0,0,1,2138358
+2138450,Low,Moderate,Single transcripts,"Punctate	Diffuse",Low,Low,Yes,No,Yes,No,No,Yes,No,No,No,,,0,0,0,0,0,1,2138067
+2138313,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,"Channels missing in merge, hard to interperet the RNA signal",,0,0,0,0,0,1,2138103
+2138521,Low,Moderate,More in some cells than others,"Diffuse	Large aggregations	Cytoplasmic",High,Low,No,No,Yes,Yes,No,No,No,No,No,,,0,0,0,0,0,1,2138875
+2138796,High,Moderate,Evenly distributed,"Diffuse	Large aggregations",High,High,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,,,0,0,0,0,0,1,2138031
+2138358,Low,Moderate,Single transcripts,"Punctate	Diffuse",None,Low,Yes,No,Yes,Yes,No,No,No,Yes,Yes,"Contrasitng is messy and it seems blurry for some reason. No RNA signal in cell bodies image?",,0,0,0,0,0,1,2138853
+2138566,Low,Moderate,Single transcripts,"Punctate	Cell edges",None,Low,Yes,No,Yes,Yes,No,No,No,No,No,,,0,0,0,1,1,0,2138415
+2138337,Moderate,Low,Evenly distributed,Diffuse,Low,Moderate,No,No,Yes,No,No,No,No,No,No,,,1,0,1,0,1,0,2138179
+2139976,Moderate,Moderate,More in some cells than others,"Punctate	Diffuse",Low,Moderate,No,No,Yes,Yes,No,Yes,No,Yes,No,,,1,0,1,0,1,0,2138795
+2138505,High,Moderate,Evenly distributed,"Punctate	Diffuse",Moderate,High,Yes,No,Yes,Yes,No,Yes,No,Yes,No,,,1,0,1,0,1,0,2138836
+2138329,Moderate,Moderate,Evenly distributed,"Punctate	Diffuse",None,None,Yes,No,Yes,No,No,Yes,No,Yes,No,,,1,0,1,0,1,0,2138594
+2138491,Moderate,Moderate,More in some cells than others,"Punctate	Large aggregations",Low,Moderate,Yes,No,Yes,Yes,No,No,Yes,Yes,No,,,1,0,1,0,1,0,2138590
+2138726,Moderate,Moderate,More in some cells than others,Large aggregations,Low,Moderate,Yes,No,Yes,Yes,Yes,No,No,No,No,,,0,0,1,0,1,0,2138798
+2137979,Moderate,High,Evenly distributed,"Cell edges	Diffuse",Moderate,Moderate,No,No,Yes,Yes,No,No,No,No,No,,,0,0,1,0,1,0,2138063
+2138878,None,None,,,None,None,No,No,No,No,No,No,No,No,No,"Doesn't seem yo be expressed",,0,0,1,0,1,0,2138408
+2138387,High,High,Evenly distributed,"Diffuse	Cytoplasmic",High,High,No,No,Yes,Yes,No,No,No,No,No,,,0,0,1,0,1,0,2138048
+2138909,Low,Low,Evenly distributed,Punctate,Low,Low,No,No,No,Yes,No,No,No,No,No,RNA channel needs contrasting,,0,0,1,0,1,0,2138140
+2137808,High,High,Evenly distributed,Diffuse,Moderate,High,Yes,No,Yes,No,No,Yes,No,Yes,No,,,0,0,1,0,1,0,2138756
+2139235,High,Low,Evenly distributed,"Cell edges	Diffuse",Moderate,High,No,No,Yes,No,No,No,Yes,No,Yes,This is on the central brain template,,1,0,0,0,1,0,2138585
+2138917,High,Moderate,Evenly distributed,Diffuse,Low,High,No,No,Yes,Yes,Yes,Yes,No,No,No,Could be better contrasted,,1,0,0,0,1,0,2139235
+2137875,Moderate,Moderate,Evenly distributed,"Punctate	Cell edges",None,Low,No,No,Yes,Yes,No,No,No,No,No,,,1,0,0,0,1,0,2138462
+2138462,High,Low,More in some cells than others,Punctate,High,High,Yes,No,Yes,No,Yes,Yes,Yes,No,No,,,1,0,0,0,1,0,2138658
+2138250,High,Moderate,Evenly distributed,Diffuse,Low,High,No,No,Yes,Yes,No,No,Yes,No,No,,,0,0,0,0,1,0,2138540
+2137986,Moderate,Low,Evenly distributed,Diffuse,Low,Moderate,No,No,Yes,No,Yes,Yes,Yes,Yes,No,,,0,0,0,0,1,0,2138576
+2138558,None,Low,,Punctate,None,None,No,No,No,No,No,No,No,No,Yes,Lobe image needs to be recontrasted,,0,0,0,0,1,0,2138856
+2137994,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Not expressed?,,0,0,0,0,1,0,2138250
+2138554,High,Moderate,More in some cells than others,Diffuse,Low,High,No,No,Yes,No,No,No,No,No,Yes,Cell bodies image isn't great,,0,0,0,0,1,0,2138849
+2138278,None,Low,,Punctate,None,None,No,No,No,No,No,Yes,No,No,No,Really low expression,,0,0,0,0,1,0,2138731
+2138680,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,"neg control in cell bodies is mental. Not sure we can use this, it might need to be reimaged",,1,0,0,1,0,0,2137902
+2138366,High,Moderate,Evenly distributed,"Punctate	Large aggregations",High,High,Yes,No,Yes,Yes,No,Yes,No,No,No,,,1,0,0,1,0,0,2138450
+2138437,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed,,1,0,0,1,0,0,2138025
+2138895,Moderate,Low,Evenly distributed,Diffuse,None,Moderate,No,No,No,No,No,No,No,No,No,,,1,0,0,1,0,0,2138545
+2138411,Moderate,Moderate,Evenly distributed,"Punctate	Diffuse	Large aggregations",Low,Moderate,No,No,Yes,Yes,No,Yes,No,Yes,No,,,0,0,0,1,0,0,2138348
+2138264,High,Moderate,Evenly distributed,Cytoplasmic,Moderate,High,No,No,Yes,Yes,No,No,No,No,No,,,0,0,0,1,0,0,2138839
+2138535,Low,None,Single transcripts,,Low,None,No,No,No,No,No,No,No,No,Yes,Very hazy in RNA channel. Needs recontrasting,,0,0,0,1,0,0,2138944
+2138682,Low,Low,Single transcripts,Punctate,Low,Low,No,No,Yes,No,No,No,No,No,No,,,0,0,0,1,0,0,2138796
+2137783,Moderate,Moderate,More in some cells than others,"Large aggregations	Cytoplasmic",Moderate,Moderate,No,No,Yes,Yes,Yes,No,No,No,No,,,0,0,0,1,0,0,2138278
+2137996,High,Moderate,Evenly distributed,"Cell edges	Diffuse	Large aggregations",Moderate,High,No,No,No,No,No,No,No,No,No,,,0,0,0,1,0,0,2138366
+2138376,High,High,Evenly distributed,"Diffuse	Cytoplasmic",None,High,No,No,Yes,Yes,No,No,No,No,No,LOTS of transcripts but couldn't see any nascent transcripts. Can we check this for very high stability?,,0,0,0,1,0,0,2137984
+2137984,Moderate,Low,Evenly distributed,"Punctate	Large aggregations",Low,Moderate,No,No,No,No,No,Yes,No,No,No,Cell bodies image is a bit fuzzy,,0,0,0,1,0,0,2138397
+2138659,Moderate,Moderate,Evenly distributed,Diffuse,Low,Moderate,Yes,No,Yes,No,No,Yes,No,Yes,No,,,0,0,0,1,0,0,2138910
+2138624,Low,None,Single transcripts,,Low,Low,No,No,Yes,No,No,No,No,No,No,,,0,0,0,1,0,0,2138506
+2138724,High,High,Evenly distributed,Cytoplasmic,Moderate,High,No,No,Yes,Yes,No,No,No,No,No,,,0,0,0,1,0,0,2137788
+2139883,High,Moderate,Evenly distributed,Diffuse,Low,High,No,No,Yes,Yes,No,No,No,No,No,,,0,0,0,1,0,0,2138400
+2138747,Moderate,Low,Evenly distributed,Diffuse,Low,Moderate,No,No,Yes,Yes,Yes,No,No,No,No,Needs recontrasting,,0,0,0,1,0,0,2138648
+2138067,Moderate,Moderate,Evenly distributed,Diffuse,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,Yes,No,,,0,0,0,1,0,0,2138341
+2138736,Low,None,Single transcripts,,Low,Low,Yes,No,Yes,No,No,No,No,No,No,,,0,1,1,0,0,0,2138173
+2138167,High,Moderate,Evenly distributed,Diffuse,None,High,Yes,No,Yes,Yes,No,Yes,No,Yes,No,,,0,0,1,0,0,0,2137992
+2138840,High,Low,More in some cells than others,Diffuse,Moderate,High,No,No,Yes,No,No,No,No,No,Yes,"RNA needs to be recontrasted, calyx not visible",,0,0,1,0,0,0,2138550
+2138728,None,Low,,Punctate,None,None,Yes,No,No,No,No,Yes,No,Yes,No,,,0,0,1,0,0,0,2138726
+2138179,High,Low,Evenly distributed,Diffuse,Low,High,Yes,No,Yes,No,Yes,No,Yes,No,No,,,0,0,1,0,0,0,2137783
+2137977,None,Moderate,,Cell edges,None,None,Yes,No,No,Yes,No,No,No,No,No,"Contrasting could be better, green is hazy",,0,0,1,0,0,0,2138747
+2138815,Low,Moderate,Single transcripts,Punctate,Moderate,Low,No,No,Yes,Yes,No,No,No,No,Yes,"Needs recontrasting. Not sure it's in the right place, doesn't look like this is the calyx to me",,0,0,1,0,0,0,2138826
+2138151,Low,Low,Single transcripts,Diffuse,None,Low,No,No,No,No,No,Yes,No,Yes,No,,,0,0,1,0,0,0,2138326
+2138876,High,Moderate,Evenly distributed,Punctate,Low,High,Yes,No,Yes,Yes,No,Yes,No,Yes,No,,,0,0,1,0,0,0,2138275
+2138043,Moderate,Moderate,Evenly distributed,Diffuse,High,Moderate,Yes,No,Yes,No,Yes,Yes,No,Yes,No,,,0,0,1,0,0,0,2138879
+2138397,Low,Low,Single transcripts,"Diffuse	Cytoplasmic",None,None,Yes,No,No,No,No,Yes,No,No,No,,,0,0,1,0,0,0,2137759
+2138864,Moderate,Moderate,Evenly distributed,"Diffuse	Large aggregations",Low,Moderate,Yes,No,Yes,Yes,No,Yes,No,Yes,No,RNA needs recontrasting,,0,0,1,0,0,0,2138473
+2138919,Low,Moderate,Single transcripts,"Diffuse	Cytoplasmic",Low,Low,No,No,Yes,Yes,No,No,No,No,No,,,0,1,0,0,0,0,2137778
+2138845,None,Low,,Diffuse,None,None,Yes,No,No,Yes,No,No,No,Yes,Yes,Not contrasted well,,0,1,0,0,0,0,2138909
+2138750,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,Autofluorescence in cell bodies image makes it impossible to score. Needs to be reimaged?,,0,1,0,0,0,0,2137977
+2138838,High,High,Evenly distributed,Large aggregations,Low,High,Yes,No,Yes,Yes,No,Yes,No,Yes,No,RNA needs to be recontrasted,,0,1,0,0,0,0,2138799
+2138633,None,Low,Single transcripts,Large aggregations,None,Low,Yes,No,Yes,No,No,No,No,Yes,Yes,Lobe image isn't great,,0,1,0,0,0,0,2138758
+2138826,High,High,More in some cells than others,Cytoplasmic,Low,High,No,No,No,No,Yes,No,No,No,No,,,1,0,0,0,0,0,2138464
+2138926,High,Low,More in some cells than others,"Punctate	Cell edges",High,High,Yes,No,Yes,Yes,No,Yes,No,Yes,No,,,1,0,0,0,0,0,2138669
+2138857,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed,,1,0,0,0,0,0,2138599
+2138849,None,Low,,Other,None,None,Yes,No,No,No,No,No,Yes,No,Yes,Needs to be recontrasted. Protein at edge of calyx?,,1,0,0,0,0,0,2138337
+2138496,Moderate,High,Evenly distributed,Cytoplasmic,Low,Moderate,No,No,Yes,Yes,No,No,No,No,Yes,Lobe image is not quite good enough,,1,0,0,0,0,0,2137986
+2138025,Moderate,Moderate,More in some cells than others,"Punctate	Large aggregations",Low,Moderate,No,No,Yes,No,No,Yes,No,No,No,,,1,0,0,0,0,0,2138554
+2138392,Low,Moderate,More in some cells than others,Punctate,Low,Low,No,No,Yes,Yes,No,No,No,No,No,,,1,0,0,0,0,0,2138682
+2137803,Low,Low,Single transcripts,Punctate,None,Low,No,No,Yes,No,No,No,No,No,No,,,1,0,0,0,0,0,2138624
+2137911,None,None,,,None,None,No,No,No,No,No,No,No,No,No,,,1,0,0,0,0,0,2138736
+2138910,High,High,Evenly distributed,Large aggregations,Low,High,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Protein channel is saturated,,1,0,0,0,0,0,2138840
+2138506,High,High,Evenly distributed,"Diffuse	Cytoplasmic",High,High,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,,,1,0,0,0,0,0,2137803
+2139875,High,High,Evenly distributed,Cytoplasmic,Low,High,No,No,Yes,Yes,No,No,No,No,No,,,1,0,0,0,0,0,2139879
+2138326,Moderate,Moderate,Evenly distributed,"Diffuse	Cytoplasmic",Low,Moderate,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,,,1,0,0,0,0,0,2138892
+2139879,High,None,More in some cells than others,,Low,High,Yes,No,Yes,No,No,No,No,No,No,,,1,0,0,0,0,0,2138693
+2138338,Low,Low,Evenly distributed,"Diffuse	Cytoplasmic",Low,Moderate,No,No,Yes,Yes,No,No,No,No,No,,,1,0,0,0,0,0,2138894
+2138345,High,High,Evenly distributed,"Cell edges	Diffuse	Other",Moderate,High,No,No,Yes,Yes,No,Yes,No,Yes,No,Not sure if protein is at the edge of the calyx and lobes or not,,1,0,0,0,0,0,2138571
+2137794,Low,Moderate,More in some cells than others,"Cytoplasmic	Cell type specific",Low,Moderate,No,No,No,No,No,No,No,No,No,,,1,0,0,0,0,0,2138772
+2138795,Moderate,None,Evenly distributed,,Low,Moderate,Yes,No,Yes,No,Yes,No,Yes,No,No,,,1,0,0,0,0,0,2137761
+2138799,Low,Low,Single transcripts,Punctate,None,Low,No,No,No,Yes,No,No,No,No,No,Super low expression,,1,0,0,0,0,0,2138052
+2138892,Moderate,None,Evenly distributed,,None,None,Yes,No,Yes,No,No,No,No,No,No,,,1,0,0,0,0,0,2137809
+2138516,Moderate,Moderate,"Evenly distributed	Single transcripts",Diffuse,Moderate,Moderate,No,No,Yes,Yes,No,No,Yes,Yes,No,,,1,0,0,0,0,0,2138644
+2138259,Moderate,Moderate,Evenly distributed,"Diffuse	Cytoplasmic",Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,RNA could be contrasted better. ,,1,0,0,0,0,0,2137923
+2138408,High,Moderate,Evenly distributed,Cytoplasmic,High,High,No,No,Yes,Yes,Yes,No,Yes,No,No,,,1,0,0,0,0,0,2137985
+2138579,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed,,1,0,0,0,0,0,2138426
+2138255,Moderate,Moderate,More in some cells than others,"Cell edges	Cytoplasmic",Low,Moderate,No,No,Yes,Yes,No,No,No,No,No,,,0,0,0,0,0,0,2138893
+2138363,Low,High,Single transcripts,"Punctate	Cell edges	Diffuse",None,Low,Yes,No,Yes,Yes,No,Yes,No,Yes,No,I think there may only be one transcript (in cell bodies image close to 3'oclock),,0,0,0,0,0,0,2138452
+2137891,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Not expressed?,,0,0,0,0,0,0,2138519
+2137788,High,Moderate,Evenly distributed,Large aggregations,Moderate,High,Yes,No,No,No,No,Yes,No,No,No,,,0,0,0,0,0,0,2138616
+2138797,High,Moderate,Evenly distributed,"Punctate	Diffuse",Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,0,0,0,0,0,0,2137774
+2138420,Low,Low,More in some cells than others,"Punctate	Large aggregations",Low,Low,No,No,Yes,Yes,Yes,No,No,Yes,No,,,0,0,0,0,0,0,2138393
+2138443,High,Moderate,Evenly distributed,"Punctate	Diffuse",High,High,No,No,Yes,Yes,No,Yes,No,Yes,No,,,0,0,0,0,0,0,2138128
+2138936,None,High,,"Diffuse	Large aggregations",None,None,Yes,Yes,No,No,No,Yes,No,Yes,No,"High protein in lobes and calyx, no RNA to be seen. Is this FasII?",,0,0,0,0,0,0,2138036
+2138836,High,None,Evenly distributed,,Low,High,Yes,No,Yes,No,Yes,No,Yes,No,No,RNA could be contrasted to be more prominent,,0,0,0,0,0,0,2137812
+2138594,High,None,More in some cells than others,,High,High,Yes,No,Yes,No,Yes,No,Yes,No,No,,,0,0,0,0,0,0,2138765
+2138631,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,"I don't think these are in the right place, looks like the anlagen ",,0,0,0,0,0,0,2138057
+2138731,High,High,Evenly distributed,"Diffuse	Cytoplasmic",Low,High,No,No,Yes,Yes,No,No,Yes,No,No,,,0,0,0,0,0,0,2138706
+2138103,High,Moderate,Evenly distributed,Diffuse,Moderate,High,No,No,Yes,Yes,Yes,Yes,No,Yes,No,,,0,0,0,0,0,0,2138677
+2139896,High,Moderate,Evenly distributed,Diffuse,High,High,Yes,No,Yes,No,Yes,Yes,No,Yes,No,,,0,0,0,0,0,0,2138829
+2137765,Moderate,Low,Evenly distributed,Cytoplasmic,Low,Moderate,No,No,No,No,No,No,No,No,No,,,0,0,0,0,0,0,2138837
+2138135,High,Moderate,Evenly distributed,Diffuse,Low,High,Yes,No,No,Yes,No,Yes,No,Yes,No,"Cell bodies image isn't brilliant",,0,0,0,0,0,0,2138313
+2138048,High,Moderate,Evenly distributed,"Cell edges	Cytoplasmic",Low,High,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Cell bodies image is poor,,0,0,0,0,0,0,2138521
+2138800,Moderate,Moderate,Evenly distributed,Cytoplasmic,Moderate,Moderate,No,No,Yes,Yes,No,No,No,No,No,,,0,0,0,0,0,0,2138566
+2138863,Moderate,Moderate,Evenly distributed,"Diffuse	Cytoplasmic",Moderate,Moderate,No,No,Yes,Yes,No,No,No,No,No,,,0,0,0,0,0,0,2138491
+2138275,Low,None,Single transcripts,,Low,Low,No,No,No,No,Yes,No,No,No,No,Cell bodies image is pretty crappy. Just low signal/expression?,,0,0,0,0,0,0,2137979
+2138424,High,High,Evenly distributed,"Punctate	Cell edges	Diffuse",Moderate,High,No,No,Yes,Yes,No,Yes,No,Yes,No,,,0,0,0,0,0,0,2138878
+2138693,Moderate,Low,Evenly distributed,Diffuse,Low,Moderate,No,No,Yes,No,No,No,No,No,No,,,0,0,0,0,0,0,2138387
+2138308,Moderate,Moderate,Evenly distributed,Punctate,High,Moderate,Yes,No,Yes,Yes,No,Yes,No,Yes,No,,,0,0,0,0,0,0,2138917
+2138316,Moderate,Moderate,More in some cells than others,"Diffuse	Cytoplasmic",Low,Moderate,No,No,Yes,No,No,No,No,Yes,No,,,0,0,0,0,0,0,2137875
+2138894,Low,None,Single transcripts,,Low,Low,No,No,Yes,No,No,No,No,No,No,,,0,0,0,0,0,0,2138558
+2137895,None,High,,"Cell edges	Large aggregations	Cytoplasmic",None,None,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Contrasting on the protein is not good. Is RNA signal real?,,0,0,0,0,0,0,2137994
+2138400,Moderate,Moderate,More in some cells than others,"Punctate	Large aggregations",Moderate,Moderate,No,No,Yes,Yes,No,Yes,No,No,No,,,0,0,0,0,0,0,2138680
+2138571,High,Low,Evenly distributed,"Diffuse	Cytoplasmic",Moderate,High,No,Yes,Yes,No,No,No,No,No,No,,,0,0,0,0,0,0,2138437
+2138140,High,High,More in some cells than others,Cytoplasmic,High,High,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Very large RNA aggregation - Multiple transcription foci or a large aggregation?,,0,0,0,0,0,0,2138895
+2138879,High,High,Evenly distributed,"Cell edges	Large aggregations",Low,High,No,No,Yes,Yes,Yes,No,Yes,Yes,No,,,0,0,0,0,0,0,2138264
+2138772,High,Low,Evenly distributed,"Punctate	Diffuse",Moderate,High,Yes,No,Yes,No,Yes,Yes,No,No,No,,,0,0,0,0,0,0,2138535
+2137761,Low,None,Single transcripts,,None,Low,Yes,No,Yes,No,No,No,No,No,No,,,0,0,0,0,0,0,2137996
+2138052,High,Moderate,Evenly distributed,"Punctate	Diffuse	Cytoplasmic",Moderate,High,No,No,Yes,No,No,No,No,No,No,,,0,0,0,0,0,0,2138376
+2137809,High,None,Evenly distributed,,High,High,Yes,No,Yes,No,No,No,No,No,No,,,0,0,0,0,0,0,2138724
+2138908,Low,Low,Evenly distributed,Punctate,Low,Low,Yes,No,No,No,No,No,No,No,No,,,0,0,0,0,0,0,2139883
+2138875,Low,Low,Single transcripts,"Punctate	Diffuse",Low,Low,No,No,Yes,Yes,No,No,No,Yes,No,Labels in Lobe composite are outside the image,,0,0,0,0,0,0,2138815
+2138660,None,None,,,None,None,No,No,No,No,No,No,No,No,No,,,0,0,0,0,0,0,2138919
+2138031,High,Moderate,Evenly distributed,Diffuse,Moderate,High,No,No,Yes,Yes,Yes,Yes,No,Yes,No,,,0,0,0,0,0,0,2138750
+2138648,High,High,Evenly distributed,"Punctate	Diffuse",Low,High,No,No,Yes,Yes,No,Yes,No,No,No,,,0,0,0,0,0,0,2138857
+2138756,High,Moderate,Evenly distributed,"Diffuse	Cytoplasmic",Moderate,High,No,No,Yes,Yes,Yes,No,Yes,No,No,,,0,0,0,0,0,0,2138496
+2137950,High,None,Evenly distributed,,Low,High,Yes,No,Yes,No,No,No,No,Yes,No,,,0,0,0,0,0,0,2138392
+2138590,High,None,Evenly distributed,,Moderate,High,Yes,No,Yes,No,Yes,No,Yes,No,No,,,0,0,0,0,0,0,2137911
+2138076,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,Lobe image doesn't show lobes. ,,0,0,0,0,0,0,2139875
+2138627,Low,Moderate,Single transcripts,Large aggregations,Low,Low,No,No,No,No,No,No,No,No,No,,,0,0,0,0,0,0,2138338
+2138744,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesnt seem to be expressed,,0,0,0,0,0,0,2137794
+2138644,Moderate,None,More in some cells than others,,Moderate,Moderate,Yes,Yes,Yes,No,No,No,No,No,No,LArge aggregations of RNA in a handful of cells,,0,0,0,0,0,0,2138516
+2138662,Low,Moderate,Single transcripts,"Punctate	Large aggregations",Low,Low,Yes,No,Yes,Yes,No,Yes,No,Yes,No,,,0,0,0,0,0,0,2138259
+2138033,High,High,Evenly distributed,"Diffuse	Large aggregations",Low,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,0,0,0,0,0,0,2138579
+2138877,High,High,Evenly distributed,"Diffuse	Large aggregations",High,High,Yes,No,Yes,Yes,No,Yes,No,Yes,No,,,0,0,0,0,0,0,2138255
+2138814,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed,,0,0,0,0,0,0,2137891
+2138818,Moderate,Moderate,More in some cells than others,"Cell edges	Cytoplasmic",Low,Moderate,No,No,Yes,Yes,No,No,No,No,No,,,0,0,0,0,0,0,2138797
+2138121,High,Moderate,Evenly distributed,"Punctate	Diffuse",Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,0,0,0,0,0,0,2138631
+2137759,Low,None,Evenly distributed,,Low,Low,Yes,No,No,No,Yes,No,No,No,No,,,0,0,0,0,0,0,2137765
+2138853,None,None,,,None,None,No,No,No,No,No,No,No,Yes,Yes,Bad contrasting. DAPI is saturated. No RNA signal? Hard to interperet,,0,0,0,0,0,0,2138800
+2138758,Low,Low,More in some cells than others,"Punctate	Large aggregations",Low,Low,Yes,No,No,Yes,No,No,No,No,No,,,0,0,0,0,0,0,2138863
+2138658,High,Low,Evenly distributed,Punctate,Moderate,High,Yes,No,Yes,No,No,No,Yes,No,No,,,0,0,0,0,0,0,2138908
+2137923,Low,None,Single transcripts,,None,Low,No,No,Yes,No,No,No,No,No,No,Large aggregations in RNA channel. Are they real?,,0,0,0,0,0,0,2138660
+2138754,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,Are the large accummulations of RNA real? Josh can you have a look and see what you think?,,0,0,0,0,0,0,2138076
+2137940,High,Moderate,Evenly distributed,Diffuse,Low,High,Yes,No,Yes,Yes,No,Yes,No,Yes,No,,,0,0,0,0,0,0,2138627
+2138457,High,Moderate,Evenly distributed,"Punctate	Diffuse",Moderate,High,No,No,Yes,Yes,Yes,No,No,Yes,No,Re-contrasting needed,,0,0,0,0,0,0,2138744
+2138545,High,Low,Evenly distributed,Diffuse,Low,High,Yes,No,Yes,No,No,Yes,No,No,No,,,0,0,0,0,0,0,2138033
+2137985,Moderate,Low,Evenly distributed,"Punctate	Cell edges	Diffuse",None,Low,No,No,Yes,No,No,No,No,No,No,,,0,0,0,0,0,0,2138814
+2138526,Low,Low,Single transcripts,"Diffuse	Cytoplasmic",None,Low,No,No,Yes,Yes,No,No,No,No,Yes,Needs to be recontrasted. ,,0,0,0,0,0,0,2138818
+2138426,Moderate,Low,Evenly distributed,Punctate,Low,Moderate,No,No,Yes,No,No,No,No,No,Yes,Quality of especially the cell bodies image isn't great,,0,0,0,0,0,0,2138121
+2138473,High,High,Evenly distributed,"Diffuse	Cytoplasmic",Moderate,High,No,No,Yes,Yes,Yes,No,No,No,No,,,0,0,0,0,0,0,2138754
+2138341,Moderate,Moderate,Evenly distributed,"Large aggregations	Cytoplasmic",Moderate,Moderate,No,No,Yes,Yes,No,Yes,No,No,No,,,0,0,0,0,0,0,2138526
+2140678,Low,None,More in some cells than others,,Low,Low,Yes,No,Yes,No,No,No,No,No,No,,,,,,,,,
+2140666,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Don't think it's expressed,,,,,,,,
+2140668,High,High,Evenly distributed,Punctate,Moderate,High,No,No,Yes,Yes,No,No,No,No,No,,,,,,,,,
+2140667,Low,None,Evenly distributed,,Low,Low,Yes,No,Yes,No,No,No,No,No,No,Could do with better contrasting to make RNA easier to see,,,,,,,,
+2140574,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed,,,,,,,,
+2140578,Moderate,High,More in some cells than others,Cell edges,Moderate,Moderate,No,No,Yes,Yes,Yes,No,No,No,No,,,,,,,,,
+2140583,Moderate,High,Evenly distributed,Cell edges,Low,Moderate,No,No,Yes,Yes,No,Yes,No,Yes,No,Could do with some recontrasting of the lobe image,,,,,,,,

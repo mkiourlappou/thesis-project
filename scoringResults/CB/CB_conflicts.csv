@@ -1,0 +1,23 @@
+Figure_ID,Question,Scorer 1,Scorer 2,Scorer 3
+2137792,Is RNA present in NBs?,nan,Yes,No
+2137924,What is the level of RNA expression?,Low,High,None
+2137933,What is the level of RNA expression?,Low,High,None
+2137966,Nascent transcript level,Low,High,None
+2138041,Cytosolic RNA level,None,Moderate,High
+2138046,Nascent transcript level,None,High,Low
+2138091,What is the level of RNA expression?,Moderate,High,None
+2138091,What is the level of protein expression?,High,Low,None
+2138174,What is the level of protein expression?,High,None,Moderate
+2138252,What is the level of protein expression?,Moderate,None,High
+2138418,Nascent transcript level,High,Moderate,None
+2138489,What is the level of protein expression?,Moderate,None,High
+2138514,Is protein present in NBs?,nan,Yes,No
+2138588,What is the level of RNA expression?,Moderate,None,High
+2138588,Is RNA present in NBs?,nan,No,Yes
+2138655,What is the level of RNA expression?,None,Low,High
+2138655,Cytosolic RNA level,None,Low,High
+2138692,Cytosolic RNA level,None,Low,High
+2138776,Is protein present in anlagen?,nan,Yes,No
+2139884,Nascent transcript level,Moderate,High,None
+2139884,Is RNA present in anlagen?,Yes,nan,No
+2139884,Is protein present in anlagen?,Yes,nan,No

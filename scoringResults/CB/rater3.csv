@@ -1,0 +1,201 @@
+figure_id,What is the level of RNA expression?,What is the level of protein expression?,"If there is RNA expression, what patterns does the RNA make?","If there is protein expression, what patterns does the protein make?",Nascent transcript level,Cytosolic RNA level,Is there obvious RNA/protein discordance (whole image)?,Flag this gene as a potential one to use for a figure in the paper?,Is RNA present in NBs?,Is protein present in NBs?,Is RNA present in anlagen?,Is protein present in anlagen?,Is RNA present in other cells?,Is protein present in other cells?,Is figure quality too poor?,General comments
+2138372,High,High,Evenly distributed,Diffuse	Cytoplasmic,High,High,No,No,Yes,No,Yes,Yes,Yes,Yes,No,
+2138694,High,Moderate,Evenly distributed,Punctate	Diffuse,High,High,No,No,Yes,Yes,No,Yes,Yes,Yes,No,
+2137980,High,Moderate,Evenly distributed,Cell edges	Diffuse,Low,High,No,No,Yes,No,N/A,No,Yes,Yes,No,
+2138786,High,High,Evenly distributed,Punctate	Diffuse	Cytoplasmic,Moderate,High,Yes,No,Yes,No,Yes,No,Yes,Yes,No,
+2138552,High,Low,Evenly distributed,Punctate,Moderate,High,Yes,No,Yes,No,No,No,Yes,Yes,No,Only the corner of the anlagen showing. We ok with that?
+2138256,Moderate,High,Evenly distributed,Cell edges	Diffuse	Large aggregations,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+2138356,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,"Doesn't seem to be expressed. DAPI is saturated, needs to be recontrasted. "
+2139974,High,Low,Evenly distributed,Punctate	Diffuse,Low,High,No,No,Yes,Yes,No,Yes,Yes,Yes,No,
+2140584,Moderate,Low,Evenly distributed,Punctate	Cell edges,Moderate,Moderate,No,No,Yes,Yes,N/A,No,Yes,Yes,Yes,Image is a bit noisy
+2138564,High,High,Evenly distributed,Nuclear	Diffuse	Cytoplasmic,High,High,No,No,Yes,Yes,N/A,No,Yes,Yes,No,
+2138568,High,Low,Evenly distributed,Cell edges,Low,High,No,No,Yes,No,No,No,Yes,Yes,No,
+2138476,Moderate,Low,More in some cells than others,Cell edges	Diffuse,Moderate,Moderate,No,No,Yes,No,N/A,No,Yes,Yes,No,
+2138147,High,Moderate,Evenly distributed,Diffuse	Large aggregations,Low,High,No,No,Yes,Yes,No,Yes,Yes,Yes,No,
+2138708,High,None,Evenly distributed,,Low,High,Yes,No,Yes,No,No,No,Yes,No,No,
+2138024,High,Moderate,More in some cells than others,Punctate	Large aggregations,Low,High,Yes,No,Yes,No,N/A,No,Yes,Yes,No,
+2137873,High,Moderate,Evenly distributed,Punctate	Diffuse	Large aggregations,Moderate,High,Yes,No,Yes,No,Yes,No,Yes,Yes,No,
+2138055,Moderate,Moderate,Nuclear	More in some cells than others,Punctate,High,Moderate,No,No,Yes,Yes,N/A,No,Yes,Yes,No,
+2138604,High,Low,Evenly distributed,Punctate	Diffuse,Low,High,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,"RNA signal is very faint, could be better contrasted"
+2138767,Moderate,Low,More in some cells than others,Diffuse,High,Moderate,Yes,No,Yes,No,Yes,No,Yes,Yes,No,
+2138136,Low,Low,Single transcripts,Punctate,None,None,No,No,Yes,No,N/A,No,Yes,Yes,No,
+2138667,Low,High,More in some cells than others,Cell edges	Diffuse,Low,Low,No,No,Yes,Yes,No,Yes,Yes,Yes,No,
+2138927,High,High,Evenly distributed,Nuclear	Cytoplasmic,High,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+2138827,High,Moderate,Evenly distributed,Nuclear	Diffuse	Cytoplasmic,High,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+2138939,High,High,Evenly distributed,Nuclear	Diffuse	Cytoplasmic,High,High,No,No,Yes,Yes,No,No,Yes,Yes,No,Anlagen picture is pretty poor. 
+2138751,Low,Low,Single transcripts,Cell edges,Low,Low,Yes,No,Yes,No,No,Yes,Yes,No,No,Anlagen image needs to be zoomed in a little
+2138597,High,High,Evenly distributed,Large aggregations,High,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+2138848,None,Low,,Cell edges	Diffuse,None,None,Yes,No,No,Yes,No,No,No,Yes,No,
+2138489,High,High,More in some cells than others,Large aggregations,High,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+2138718,High,Low,Evenly distributed,Cell edges	Diffuse,Low,Moderate,No,No,Yes,No,No,No,Yes,Yes,No,
+2138813,Low,Low,Single transcripts,Cell edges,None,Low,Yes,No,No,No,No,Yes,Yes,No,No,Protein on the top image shouldn't be in the figure?
+2137768,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed
+2138862,High,Low,Evenly distributed,Nuclear	Diffuse,Moderate,High,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"DAPI is saturated, generally not a very clean image"
+2137900,High,Moderate,More in some cells than others,Diffuse	Large aggregations,High,High,No,No,No,No,Yes,Yes,Yes,Yes,No,Lots of expression around the anlagen
+2138614,Moderate,Low,Evenly distributed,Cell edges	Diffuse,Low,Moderate,No,No,Yes,No,Yes,No,Yes,Yes,Yes,RNA contrasting is out. Merge is different to single panels. 
+2138714,Moderate,None,More in some cells than others,,Moderate,Moderate,Yes,No,Yes,No,No,No,Yes,No,No,
+2138138,High,High,More in some cells than others,Diffuse	Cytoplasmic,High,High,No,No,Yes,No,N/A,No,Yes,Yes,No,
+2140575,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,Doesn't seem to be expressed but the image is poor
+2138722,High,Low,Evenly distributed,Diffuse	Cytoplasmic,Moderate,High,No,No,Yes,No,Yes,No,Yes,Yes,No,
+2137928,Moderate,High,Evenly distributed,Diffuse	Cytoplasmic,Low,High,Yes,No,Yes,No,Yes,No,Yes,Yes,No,
+2138499,Low,High,Single transcripts,Diffuse,None,Low,Yes,No,No,Yes,N/A,No,Yes,Yes,Yes,I don't think that's the anlagen
+2138753,Low,Low,Single transcripts,Diffuse,None,Low,No,No,No,No,Yes,No,No,Yes,No,
+2138653,High,Moderate,Evenly distributed,Punctate,High,High,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+2137924,None,Low,,Diffuse,None,None,No,No,No,No,No,No,No,Yes,No,
+2137824,High,High,Evenly distributed,Cell edges	Large aggregations,High,High,No,No,Yes,No,Yes,Yes,Yes,Yes,No,
+2138730,High,High,Evenly distributed,Punctate	Large aggregations,High,High,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,
+2138161,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,NOT SCORED: The RNA signal in the merge and RNA panel don't match. Which is correct? Are they equally contrasted?
+2137990,High,Moderate,More in some cells than others,Punctate	Cell edges,Low,High,No,No,Yes,No,N/A,No,Yes,Yes,No,
+2137890,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed
+2138784,High,High,Evenly distributed,Diffuse	Cytoplasmic,High,High,No,No,Yes,No,Yes,No,Yes,Yes,No,
+2138891,High,High,Evenly distributed,Cell edges	Large aggregations,Moderate,High,No,No,Yes,No,Yes,Yes,Yes,Yes,No,
+2138370,High,High,Evenly distributed,Nuclear	Cytoplasmic,High,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+2138509,High,High,Evenly distributed,Punctate	Diffuse	Large aggregations,High,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Protein signal is saturated in top image
+2138574,High,Low,Evenly distributed,Punctate,Moderate,High,Yes,No,Yes,Yes,N/A,No,Yes,Yes,No,
+2138180,High,None,Evenly distributed,,High,High,Yes,No,Yes,No,N/A,No,Yes,No,No,
+2139876,High,Moderate,Evenly distributed,Nuclear	Diffuse	Cytoplasmic,Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+2138578,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed
+2138649,High,Moderate,Evenly distributed,Punctate,Low,High,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,RNA needs to be brighter
+2138921,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed
+2138821,High,Moderate,Evenly distributed,Diffuse	Cytoplasmic,Moderate,High,No,No,Yes,Yes,Yes,No,Yes,Yes,No,
+2138065,Moderate,Low,Evenly distributed,Punctate,Moderate,Moderate,Yes,No,Yes,No,N/A,No,Yes,Yes,No,
+2138583,High,High,Evenly distributed,Diffuse,High,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+2138165,High,Moderate,Evenly distributed,Cell edges	Large aggregations,High,High,No,No,Yes,No,Yes,Yes,Yes,Yes,No,
+2138745,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed
+2138738,Moderate,Moderate,More in some cells than others,Punctate,High,Moderate,No,No,Yes,Yes,No,No,Yes,Yes,No,
+2137804,Moderate,Low,Evenly distributed,Punctate,Low,High,No,No,Yes,Yes,N/A,No,Yes,Yes,No,
+2138610,High,None,Evenly distributed,,High,Moderate,Yes,No,Yes,No,No,No,Yes,No,No,
+2138041,High,None,Evenly distributed,,High,High,Yes,No,Yes,No,N/A,No,Yes,No,No,
+2138710,High,High,Evenly distributed,Diffuse	Cytoplasmic,High,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+2138905,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed
+2138874,High,Moderate,Evenly distributed,Punctate	Large aggregations,High,High,No,No,Yes,No,Yes,No,Yes,Yes,No,
+2138761,Moderate,Low,More in some cells than others,Diffuse	Cytoplasmic,Moderate,Moderate,No,No,Yes,No,N/A,No,Yes,Yes,No,
+2138399,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,signal in the RNA panel seems to be matching the DAPI exactly. Not sure this is correct. Doesn't seem to be expressed. 
+2138401,High,Moderate,Evenly distributed,Cell edges	Diffuse,High,High,No,No,Yes,No,Yes,No,Yes,Yes,No,"RNA in top row images could be brighter, little hard to see"
+2138317,High,High,Evenly distributed,Punctate	Diffuse	Cytoplasmic,Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+2138309,High,Low,Evenly distributed,Diffuse,High,High,No,No,Yes,No,No,Yes,Yes,Yes,No,
+2138425,None,High,,Punctate	Cytoplasmic,None,None,Yes,No,No,Yes,No,No,No,Yes,No,
+2138374,Low,Low,Single transcripts,Diffuse,None,Low,No,No,Yes,No,No,Yes,Yes,Yes,No,
+2138692,High,Moderate,Evenly distributed,Cell edges	Large aggregations,Low,High,No,No,Yes,Yes,No,Yes,Yes,Yes,No,RNA is too dim
+2138525,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed
+2138274,Low,Moderate,Single transcripts,Punctate	Nuclear,None,Low,Yes,No,No,Yes,N/A,No,Yes,Yes,No,
+2137781,High,None,More in some cells than others,,High,High,Yes,No,Yes,No,N/A,No,Yes,No,No,
+2138529,High,High,More in some cells than others,Diffuse	Cytoplasmic,High,Moderate,Yes,No,Yes,No,Yes,No,Yes,Yes,No,
+2138429,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,"Syp channel is too dim, needs recontrasting. Doesn't seem to be expressed."
+2138266,High,High,Evenly distributed,Diffuse	Cytoplasmic,Moderate,High,No,No,Yes,No,Yes,No,Yes,Yes,No,
+2138511,Low,None,Single transcripts,,None,Low,No,No,No,No,No,No,Yes,No,No,
+2138503,Low,Low,Single transcripts,Diffuse,Low,Low,Yes,No,Yes,No,No,No,Yes,Yes,No,
+2138252,Moderate,High,Evenly distributed,Punctate	Diffuse,Low,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Anlagen image isn't great. 
+2138460,High,Moderate,More in some cells than others,Cell edges	Cytoplasmic,High,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+2138548,High,High,Evenly distributed,Diffuse,Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+2138782,High,Low,More in some cells than others,Diffuse	Cytoplasmic,Moderate,High,Yes,No,Yes,No,N/A,No,Yes,Yes,No,
+2138435,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed
+2137896,Low,High,,Large aggregations,None,Low,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Protein channel is saturated. 
+2138889,High,Moderate,More in some cells than others,Diffuse	Large aggregations,High,High,Yes,No,Yes,No,Yes,No,Yes,Yes,No,
+2138315,Low,None,Single transcripts,,None,Low,Yes,No,Yes,No,Yes,No,Yes,No,No,
+2140670,Moderate,Low,More in some cells than others,Diffuse,Low,Moderate,Yes,No,No,No,Yes,Yes,Yes,Yes,No,
+2138831,Moderate,High,More in some cells than others,Cell edges	Diffuse	Cytoplasmic,Low,Moderate,No,No,Yes,Yes,Yes,No,Yes,Yes,No,
+2138852,None,Low,,Diffuse,None,None,Yes,No,No,Yes,No,No,No,No,No,
+2137758,Moderate,High,Single transcripts,Punctate	Diffuse	Large aggregations,Low,Moderate,Yes,No,Yes,No,No,Yes,Yes,Yes,No,
+2138481,High,Low,Evenly distributed,Diffuse,Moderate,High,Yes,No,Yes,No,N/A,No,Yes,Yes,No,
+2138923,High,Moderate,Evenly distributed,Punctate	Diffuse	Large aggregations,Low,High,No,No,Yes,No,Yes,Yes,Yes,Yes,No,
+2138655,High,None,Evenly distributed,,Low,High,Yes,No,Yes,No,No,No,Yes,No,Yes,RNA signal is too dim
+2138700,Moderate,High,Evenly distributed,Cytoplasmic	Cell type specific,Moderate,High,No,No,Yes,Yes,No,Yes,Yes,No,No,Very noisy
+2138051,High,Moderate,Evenly distributed,Punctate,Moderate,High,No,No,Yes,No,N/A,No,Yes,Yes,No,
+2137969,Low,Low,Single transcripts,Punctate,Low,Low,No,No,Yes,Yes,Yes,No,Yes,Yes,No,
+2138907,Moderate,Low,Evenly distributed,Cell edges	Diffuse,None,Moderate,No,No,Yes,Yes,No,No,Yes,Yes,No,
+2138120,Low,Low,Single transcripts,Punctate,Low,Low,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+2138671,High,High,Evenly distributed,Diffuse	Cytoplasmic,Moderate,High,No,No,Yes,No,No,No,Yes,Yes,No,
+2138771,High,None,Evenly distributed,,Low,High,Yes,No,Yes,No,Yes,No,Yes,No,No,
+2137827,High,High,Evenly distributed,Cell edges,Moderate,High,No,No,Yes,No,Yes,Yes,Yes,Yes,No,
+2138945,High,High,Evenly distributed,Nuclear	Cytoplasmic,Moderate,High,No,No,Yes,Yes,No,No,Yes,Yes,No,
+2138938,Low,None,Single transcripts,,None,None,No,No,No,No,No,No,Yes,No,No,
+2139986,High,High,Evenly distributed,Cell edges	Diffuse	Cytoplasmic,Low,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+2138588,High,None,Evenly distributed,,High,High,Yes,No,Yes,No,N/A,No,Yes,No,No,
+2138861,Low,None,Single transcripts,,None,Low,No,No,No,No,No,No,Yes,No,No,Just one transcript? Real?
+2138046,Low,Low,Single transcripts,Cell edges	Large aggregations,Low,Low,No,No,Yes,No,N/A,No,Yes,Yes,No,
+2137775,Low,Moderate,Single transcripts,Punctate	Diffuse,None,Low,Yes,No,No,No,No,Yes,Yes,Yes,No,
+2138037,High,Low,Evenly distributed,Punctate	Cell edges,Moderate,High,Yes,No,Yes,No,N/A,No,Yes,Yes,No,
+2138280,Low,Low,Single transcripts	More in some cells than others,Cytoplasmic,Low,Low,No,No,No,No,No,No,Yes,Yes,No,
+2138873,High,High,More in some cells than others,Cell edges	Cytoplasmic,Low,High,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,
+2137811,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed
+2138129,High,High,Evenly distributed,Diffuse	Cytoplasmic,High,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+2138678,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed
+2138029,High,Low,Evenly distributed,Large aggregations,Low,High,Yes,No,Yes,No,N/A,No,Yes,Yes,No,
+2138810,Low,Low,Single transcripts,Punctate	Diffuse,None,Low,No,No,Yes,Yes,No,Yes,Yes,Yes,No,
+2137767,Moderate,Moderate,Single transcripts,Cell edges,Low,Moderate,No,No,Yes,Yes,N/A,No,Yes,Yes,No,
+2138418,Low,Low,Single transcripts,Punctate,None,Low,No,No,Yes,Yes,N/A,No,Yes,Yes,No,
+2138406,Moderate,Moderate,Evenly distributed,Nuclear	Diffuse	Cytoplasmic,Low,Moderate,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,RNA and syp signal in Anlagen is very faint. Needs recontrasting
+2138091,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,NOT SCORED. NBs can't be seen. Did the syp FISH fail? or does it need to be recontrasted?
+2138514,High,Low,Evenly distributed,Punctate	Cell edges	Diffuse,High,Moderate,No,No,Yes,No,N/A,No,Yes,Yes,Yes,dlg/syp is too hard to see
+2138245,Moderate,Moderate,Evenly distributed,Punctate	Large aggregations,Moderate,Moderate,No,No,Yes,No,Yes,Yes,Yes,Yes,No,
+2138441,Moderate,Moderate,More in some cells than others,Diffuse	Large aggregations,Moderate,Moderate,No,No,No,No,Yes,No,Yes,Yes,No,
+2138422,High,Low,Evenly distributed,Cell edges	Diffuse,Low,High,No,No,Yes,No,N/A,No,Yes,Yes,No,
+2137786,High,Moderate,Evenly distributed,Punctate	Large aggregations,None,High,No,No,Yes,No,N/A,No,Yes,Yes,No,
+2140679,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed
+2138361,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,NOT SCORED: syp dlg signal is impossible to see. Figure needs to  be redone
+2138787,Moderate,Low,More in some cells than others,Punctate,Low,Moderate,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,
+2138404,Moderate,Low,Evenly distributed,Diffuse	Cytoplasmic,Low,Moderate,No,No,Yes,Yes,No,No,Yes,Yes,No,"RNA signal needs to be brighter, its hard to see"
+2138785,High,High,Evenly distributed,Punctate	Diffuse,Low,High,No,No,Yes,No,Yes,No,Yes,Yes,No,
+2138890,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed
+2138451,Low,Low,Single transcripts	More in some cells than others,Punctate	Cell edges	Diffuse,Moderate,Low,No,No,Yes,No,No,No,Yes,Yes,No,
+2140669,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed
+2138271,None,Low,,Punctate,None,None,Yes,No,No,No,No,No,No,Yes,No,
+2138371,Moderate,High,Evenly distributed,Diffuse	Cytoplasmic,Low,Moderate,Yes,No,Yes,No,No,No,Yes,Yes,No,
+2138543,High,Moderate,Evenly distributed,Punctate	Diffuse,Moderate,High,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,
+2138494,High,High,Evenly distributed,Diffuse	Cytoplasmic,Moderate,High,No,No,Yes,No,N/A,No,Yes,Yes,Yes,Image seems blurry for some reason
+2138623,Moderate,Moderate,More in some cells than others,Punctate	Large aggregations,Moderate,Moderate,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Central Brain image is poorly contrasted. 
+2137937,High,Low,Evenly distributed,Large aggregations,Low,High,Yes,No,Yes,Yes,N/A,No,Yes,Yes,No,Could be better contrasted maybe?
+2139884,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,NOT SCORED: This is an OL image
+2138928,Low,Low,More in some cells than others,Punctate,None,Low,No,No,Yes,No,Yes,No,Yes,Yes,No,
+2138828,High,High,Evenly distributed,Diffuse	Cytoplasmic,Low,High,No,No,Yes,No,Yes,Yes,Yes,Yes,No,
+2137846,Moderate,High,More in some cells than others,Diffuse,Low,Moderate,No,No,No,No,Yes,No,Yes,Yes,Yes,Controls look awful. What's going on?
+2138486,Moderate,High,Evenly distributed,Diffuse	Cytoplasmic,High,Moderate,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Anlagen image doesn't seem to actually be the Anlagen? 
+2137813,High,High,Evenly distributed,Diffuse	Cytoplasmic,Moderate,High,No,No,Yes,Yes,No,No,Yes,Yes,No,
+2138664,Moderate,Moderate,More in some cells than others,Large aggregations,Low,Moderate,No,No,No,No,N/A,No,Yes,Yes,No,
+2138776,Moderate,Moderate,More in some cells than others,Diffuse	Cytoplasmic,High,Moderate,No,No,No,No,N/A,No,Yes,Yes,Yes,Don't think the anlagen image is in the right place
+2138524,Low,Low,Single transcripts,Punctate	Nuclear	Cytoplasmic,Low,Low,No,No,Yes,Yes,N/A,No,Yes,Yes,Yes,"Needs recontrasting, hard to see the signal"
+2138547,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed
+2137792,None,Moderate,,Cell edges,None,None,Yes,No,No,No,N/A,No,No,Yes,No,
+2138279,High,High,Evenly distributed,Cell edges,Low,High,No,No,Yes,No,N/A,No,Yes,Yes,No,
+2138455,High,Low,Evenly distributed,Punctate	Cell edges,Low,High,No,No,Yes,No,N/A,No,Yes,Yes,No,
+2138563,Moderate,High,Single transcripts,Punctate	Cell edges	Large aggregations,Low,Moderate,No,No,Yes,Yes,No,No,Yes,Yes,No,
+2138343,Low,High,Single transcripts,Cell edges	Diffuse	Cytoplasmic,None,Low,No,No,Yes,No,No,No,Yes,Yes,No,
+2138471,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,NOT SCORED This isn't the right image. Looks to be a MB one. 
+2137966,Low,Low,Evenly distributed,Cell edges	Diffuse,None,Low,No,No,Yes,No,No,No,Yes,Yes,No,
+2138123,High,High,Evenly distributed,Cytoplasmic,High,High,No,No,Yes,No,Yes,Yes,Yes,Yes,No,
+2138603,High,High,Evenly distributed,Cell edges	Large aggregations,High,High,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,RNA signal in the Anlagen is visible if faint in the merge but not in the single panel. 
+2138019,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed
+2138107,High,Moderate,Evenly distributed,Large aggregations,Moderate,High,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Large aggregations in the Anlagen real?
+2138832,Moderate,Moderate,More in some cells than others,Cell edges	Diffuse	Cytoplasmic,Moderate,Moderate,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,
+2138739,High,High,Evenly distributed,Punctate	Large aggregations,High,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Protein channel is saturated
+2137933,None,None,,,None,None,No,No,No,No,N/A,No,No,No,No,Doesn't seem to be expressed
+2139880,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed
+2137915,Moderate,Low,Evenly distributed,Punctate,None,Moderate,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,RNA needs to be contrasted so it can be seen easier
+2138601,High,None,Evenly distributed,,Moderate,High,Yes,No,Yes,No,Yes,No,Yes,No,No,
+2138701,High,None,Evenly distributed,,Moderate,High,Yes,No,Yes,No,No,No,Yes,No,No,Anlagen image is very dim
+2138770,Low,Low,More in some cells than others,Diffuse,Low,Low,No,No,No,No,N/A,No,Yes,Yes,Yes,RNA is a little dim
+2137907,Moderate,High,Evenly distributed,Punctate,Low,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+2138906,Low,None,Single transcripts,,None,Low,No,No,No,No,No,No,Yes,No,No,
+2138388,High,High,Evenly distributed,Diffuse	Cytoplasmic,High,Low,No,No,No,No,Yes,Yes,Yes,Yes,No,This seems to have HUGE transcription rates and almost no cytoplasmic RNA. Are we looking into this gene?
+2138592,High,None,Evenly distributed,,Low,High,Yes,No,Yes,No,N/A,No,Yes,No,No,
+2138174,Low,Moderate,Single transcripts,Cell edges,None,Low,No,No,No,No,N/A,No,Yes,Yes,No,
+2137952,High,None,Evenly distributed,,Low,High,Yes,No,Yes,No,Yes,No,Yes,No,No,
+2138830,High,Low,Evenly distributed,Diffuse	Cytoplasmic,Low,High,Yes,No,Yes,No,Yes,No,Yes,Yes,No,
+2138629,Moderate,High,More in some cells than others,Punctate	Large aggregations,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Anlagen needs to be zoomed in. Top image is very noisy
+2137823,Moderate,Low,Evenly distributed,Punctate	Cell edges,Low,Moderate,No,No,Yes,No,Yes,No,Yes,Yes,No,
+2138105,High,High,Evenly distributed,Cell edges	Diffuse,Moderate,High,No,No,Yes,Yes,N/A,No,Yes,Yes,No,
+2138166,Moderate,High,Evenly distributed,Punctate	Diffuse,Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+2138737,High,Moderate,More in some cells than others,Punctate,High,Moderate,No,No,Yes,Yes,No,Yes,Yes,Yes,No,
+2137755,High,None,Evenly distributed,,Low,High,Yes,No,Yes,No,N/A,No,Yes,No,No,
+2138922,Moderate,Moderate,More in some cells than others,Punctate	Cell edges,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+2138888,High,Moderate,Evenly distributed,Cell edges	Diffuse,Moderate,High,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,RNA signal in anlagen image should be recontrasted to be more visible
+2138896,None,Low,,Punctate,None,None,No,No,No,No,No,No,No,Yes,No,
+2138783,High,None,Evenly distributed,,Low,High,Yes,No,Yes,No,Yes,No,Yes,No,No,
+2138318,None,Moderate,,Diffuse	Large aggregations,None,None,Yes,No,No,No,No,No,No,Yes,No,
+2138314,None,Low,,Punctate,None,None,Yes,No,No,No,No,No,No,Yes,No,
+2140671,High,High,Evenly distributed,Punctate,High,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+2138322,Moderate,Moderate,More in some cells than others,Diffuse	Cytoplasmic,Low,Moderate,No,No,Yes,No,No,No,Yes,Yes,No,
+2138330,Moderate,High,Evenly distributed,Punctate	Cell edges	Large aggregations	Cytoplasmic,Low,Moderate,No,No,Yes,Yes,N/A,No,Yes,Yes,Yes,Protein panel shows the DAPI signal. 
+2138353,Moderate,Low,Evenly distributed,Punctate,Low,Moderate,No,No,No,No,No,No,Yes,Yes,No,RNA signal need to be brighter
+2140581,Moderate,Moderate,More in some cells than others,Cell edges	Cytoplasmic,Moderate,Moderate,No,No,Yes,No,N/A,No,Yes,Yes,No,

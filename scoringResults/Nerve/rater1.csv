@@ -1,0 +1,173 @@
+,figure_id,What is the level of RNA expression?,What is the level of protein expression?,What patterns does the RNA make?,What patterns does the protein make?,Nascent transcript level,Cytosolic RNA level,Is there obvious RNA/protein discordance (whole image)?,Flag this gene as a potential one to use for a figure in the paper?,Is RNA present in nerve?,Is protein present in nerve?,Is RNA present in glia?,Is protein present in glia?,Is RNA distribution cell-type specific?,Is protein distribution cell-type specific?,Is figure quality too poor?,General comments
+0,2140146,Low,Moderate,Single transcripts,Punctate	Diffuse,Low,Low,No,No,No,Yes,Yes,Yes,glia,No,No,"protein pattern: punctate in the glia, diffuse in the nerve"
+1,2140158,Moderate,Moderate,Evenly distributed,Punctate	Diffuse,Moderate,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+2,2140292,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,
+3,2140154,Moderate,Moderate,Evenly distributed	Single transcripts,Punctate	Diffuse,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+4,2140137,Moderate,Moderate,Single transcripts,Cell type specific,Moderate,High,Yes,No,Yes,No,Yes,Yes,nerve,glia,No,
+5,2140280,Moderate,High,Single transcripts	Nuclear	Other,Cell edges	Large aggregations,Moderate,Low,Yes,No,Yes,Yes,Yes,No,glia,nerve,No,
+6,2140162,Low,Low,Single transcripts,Punctate	Diffuse,None,Low,No,No,Yes,Yes,,No,No,nerve,No,
+7,2140170,High,High,Single transcripts,Punctate	Large aggregations,Moderate,Moderate,Yes,Yes,Yes,Yes,Yes,Yes,glia,nerve,No,Protein mainly in the nerve and RNA mainly in glia *even though not exclusive 
+8,2140273,High,High,Evenly distributed	Single transcripts	Nuclear	Other,Punctate	Nuclear	Large aggregations,High,High,Yes,Yes,Yes,No,Yes,Yes,No,glia,No,
+9,2140210,Moderate,High,Evenly distributed	Single transcripts	Nuclear	Other,Large aggregations,Moderate,High,Yes,Yes,Yes,Yes,Yes,Yes,glia,nerve,No,"protein: pattern of the nerve fibers.
+Discordance: RNA concentrated in the glia and protein in the nerve (even though not only in those compartments, just more concentrated there)."
+10,2140261,Moderate,Moderate,Single transcripts	Nuclear	Other,Punctate	Diffuse	Large aggregations,Low,Moderate,No,No,Yes,Yes,Yes,No,No,glia,No,
+11,2140202,Low,Moderate,Single transcripts,Punctate	Diffuse,Low,Moderate,Yes,No,No,Yes,Yes,Yes,glia,No,No,
+12,2140257,None,None,,,None,None,No,No,No,No,No,No,No,No,No,"even if the probe did not work, there is no YFP trap expression so is not a poor figure"
+13,2143384,None,None,,,None,None,No,No,No,No,No,No,No,No,No,NOT SCORED: the merge or the spplited channels are wrong
+14,2140183,Low,High,Single transcripts,Large aggregations	Cell type specific,Low,Moderate,Yes,Yes,Yes,No,,Yes,nerve,glia,No,
+15,2140234,Moderate,Low,Single transcripts,Diffuse,Moderate,Moderate,Yes,Yes,No,Yes,Yes,No,No,No,No,
+16,2140245,Moderate,Moderate,Single transcripts	Other,Punctate	Nuclear	Large aggregations,Moderate,Low,No,Yes,No,No,Yes,Yes,glia,glia,No,
+17,2140238,Moderate,None,Single transcripts,,Low,Moderate,Yes,No,Yes,No,,No,nerve,No,No,"since HRP and DAPI are ok, I would think that there is no expression of this YFP trap"
+18,2140226,Moderate,High,Evenly distributed	Single transcripts,Punctate	Large aggregations,Moderate,Moderate,Yes,Yes,Yes,Yes,Yes,No,No,nerve,No,it seems to me that the protein is in the connective tissue around the fibers rather than the glia but there is no specific marker for that so just an opinion
+19,2140191,Moderate,High,Single transcripts,Nuclear	Diffuse,Moderate,Low,No,Yes,No,No,Yes,Yes,glia,glia,No,
+20,2140300,Moderate,Moderate,Evenly distributed	Single transcripts	Nuclear,Diffuse,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+21,2140200,Moderate,None,Evenly distributed,,Low,Moderate,Yes,No,Yes,No,Yes,No,No,No,No,
+22,2140263,Low,Moderate,Evenly distributed	Single transcripts	Other,Punctate	Diffuse	Large aggregations,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+23,2140212,Moderate,None,Single transcripts,,Low,Moderate,Yes,No,Yes,No,Yes,No,No,No,No,
+24,2140271,High,Low,Nuclear,Diffuse,High,Low,Yes,No,Yes,Yes,Yes,No,glia,nerve,No,
+25,2140259,Low,None,Single transcripts,,Moderate,Low,Yes,Yes,Yes,No,Yes,No,No,No,No,
+26,2140224,High,High,Evenly distributed	Single transcripts,Nuclear	Large aggregations,High,Moderate,Yes,Yes,Yes,No,Yes,Yes,No,glia,No,
+27,2140193,Moderate,High,Single transcripts	Nuclear	Other,Diffuse,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,nerve,No,
+28,2143385,High,Moderate,Evenly distributed	Single transcripts	Other,Punctate	Diffuse	Large aggregations,High,Moderate,No,No,Yes,Yes,Yes,Yes,No,nerve,No,
+29,2143386,None,None,,,None,None,No,No,No,No,No,No,No,No,No,same image as the previous scored
+30,2140236,Moderate,Low,Nuclear	Other,Punctate	Diffuse,High,Moderate,Yes,No,,Yes,Yes,No,glia,nerve,No,
+31,2140255,Low,Low,Nuclear	Other,Diffuse,Moderate,Low,Yes,No,Yes,Yes,Yes,No,No,nerve,No,
+32,2140228,Moderate,High,Evenly distributed	Single transcripts	Nuclear	Other,Large aggregations,Moderate,Moderate,Yes,Yes,Yes,Yes,Yes,No,No,nerve,No,
+33,2140148,Moderate,Low,Single transcripts	Nuclear,Punctate	Diffuse,High,Low,No,No,Yes,Yes,Yes,No,No,nerve,No,Nascent RNA form large aggregations in the nucleus of the glia
+34,2140282,Moderate,Low,,Diffuse,Low,Moderate,Yes,No,Yes,Yes,Yes,No,No,nerve,No,
+35,2140156,Low,Moderate,Single transcripts,Punctate	Large aggregations,Low,Low,Yes,No,Yes,Yes,,Yes,,No,No,
+36,2140290,Moderate,Low,Single transcripts	Nuclear	Other,Diffuse,High,Low,No,No,Yes,Yes,Yes,No,No,nerve,No,
+37,2140144,Low,None,Single transcripts,,None,Low,No,No,No,No,Yes,No,glia,No,Yes,
+38,2140139,Moderate,High,Evenly distributed	Single transcripts,Other,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,nerve,No,protein pattern: higher concentration following the nerve fibers
+39,2140172,Low,Low,Evenly distributed,Diffuse,None,Low,No,No,,Yes,,Yes,No,No,Yes,
+40,2140160,High,High,Single transcripts,Large aggregations,High,Moderate,Yes,Yes,Yes,Yes,Yes,Yes,glia,nerve,No,
+41,2140185,Low,High,Evenly distributed,Large aggregations,Low,Low,No,No,Yes,Yes,,Yes,,glia,No,
+42,2140232,High,Low,Evenly distributed	Other,Punctate	Diffuse,High,High,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,RNA transcripts: single and aggregated; highly concentrated whereas the protein is less expressed (discordance not in the compartments but different level of expression)
+43,2140251,High,High,Single transcripts	Nuclear	Other,Nuclear	Diffuse	Large aggregations,High,High,Yes,Yes,Yes,Yes,Yes,Yes,glia,nerve,No,"Even RNA and protein are distributed in both compartments,  RNA is more concentrated in the glia and protein in the nerve"
+44,2140220,Moderate,High,Single transcripts,Nuclear	Large aggregations,Low,Moderate,No,Yes,No,No,Yes,Yes,glia,glia,No,
+45,2140197,High,Moderate,Single transcripts,Nuclear,None,None,Yes,Yes,Yes,No,Yes,Yes,No,glia,No,
+46,2140243,High,None,Evenly distributed	Single transcripts	Other,,Moderate,High,Yes,Yes,Yes,No,Yes,No,No,No,No,
+47,2140216,Moderate,Low,Single transcripts,Diffuse,High,Low,Yes,No,No,Yes,Yes,Yes,glia,No,No,
+48,2140208,Moderate,None,Single transcripts,,Low,Moderate,Yes,Yes,Yes,No,Yes,No,No,No,No,
+49,2140275,Low,Moderate,Evenly distributed	Single transcripts,Diffuse	Large aggregations,Low,Moderate,No,No,,Yes,Yes,Yes,glia,glia,No,
+50,2140204,High,Moderate,Evenly distributed	Single transcripts,Punctate	Diffuse	Large aggregations,Moderate,High,No,No,Yes,Yes,Yes,Yes,No,No,No,
+51,2140279,Low,Low,Single transcripts,Diffuse,Low,Low,No,No,Yes,Yes,Yes,No,No,nerve,No,
+52,2143387,High,High,Evenly distributed	Single transcripts	Nuclear	Other,Nuclear	Diffuse	Large aggregations	Other,High,High,No,No,Yes,Yes,Yes,Yes,No,No,No,HRP and DAPI channels should be in b/w in the spplited figures
+53,2140164,High,High,Evenly distributed	Single transcripts	Nuclear,Diffuse,Moderate,High,No,No,Yes,Yes,Yes,Yes,No,No,No,
+54,2140168,Moderate,Low,Single transcripts,Punctate	Diffuse,Moderate,Low,No,No,Yes,Yes,Yes,No,No,nerve,No,Not sure about protein in glia
+55,2140590,Low,Moderate,Evenly distributed,Large aggregations,Moderate,Low,No,No,Yes,No,Yes,Yes,No,No,No,
+56,2143388,Moderate,High,Single transcripts,Diffuse	Large aggregations,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,ERROR IN THE FIGURE!!!! the images are swapped in the glia pannel. RNA is the protein and viceversa (as you can see in the merge image)
+57,2140294,Moderate,High,Evenly distributed	Single transcripts,Punctate	Nuclear	Large aggregations,Low,Moderate,Yes,Yes,Yes,No,Yes,Yes,No,glia,No,
+58,2140140,Moderate,Low,Evenly distributed	Single transcripts,Punctate	Diffuse,Moderate,Moderate,Yes,No,Yes,Yes,Yes,No,No,nerve,No,
+59,2140286,Moderate,None,Single transcripts,,Moderate,Low,Yes,Yes,Yes,No,Yes,No,No,No,No,
+60,2140298,Low,None,Single transcripts,,None,Low,Yes,No,,No,No,No,No,No,Yes,"since the YFP trap is not shown in the YFP channel, might be that there is no expression rather than poor quality in the figure"
+61,2140152,Moderate,High,Single transcripts,Punctate	Diffuse	Large aggregations,Moderate,Low,No,Yes,Yes,Yes,Yes,Yes,No,No,No,
+62,2140174,High,Moderate,Evenly distributed	Single transcripts,Diffuse,Low,Moderate,No,No,Yes,Yes,Yes,No,No,nerve,No,
+63,2140166,Moderate,Low,Single transcripts,Diffuse,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+64,2140178,Moderate,Low,Evenly distributed	Single transcripts,Punctate	Diffuse,Low,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+65,2140150,Low,Low,Single transcripts,Diffuse,Low,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+66,2143389,None,None,,,None,None,No,No,No,No,No,No,No,No,No,"ERROR: the glia pannel seems a nucleus from the muscle (the YFP pattern shows the muscle sarcomeres I think), hence I think we should look for a better image."
+67,2140288,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,
+68,2140142,Low,Low,Single transcripts,Punctate	Diffuse,Moderate,None,No,No,No,Yes,Yes,No,glia,No,No,
+69,2140296,High,High,Single transcripts,Punctate	Diffuse	Large aggregations,Low,High,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,"discordance in the distribution, RNA is everywhere and the protein is focused in the the glia nucleus and the perimysium (I think is that but there is no marker for the connective tissue so not sure for referees)"
+70,2140241,Moderate,High,Single transcripts,Diffuse,Low,Moderate,No,No,Yes,Yes,,Yes,No,No,No,
+71,2143390,High,High,Single transcripts	Nuclear	Other,Nuclear	Large aggregations,High,Moderate,Yes,Yes,Yes,No,Yes,Yes,glia,glia,No,In case this image is selected: the image of the glia shows both compartments better
+72,2140195,Low,Low,Single transcripts	Nuclear,Diffuse,Low,None,No,No,Yes,Yes,No,No,,No,No,
+73,2140199,Moderate,High,Single transcripts,Punctate	Nuclear	Large aggregations,Moderate,Low,No,Yes,No,No,Yes,Yes,glia,glia,No,
+74,2140253,Moderate,High,Single transcripts,Punctate	Diffuse	Large aggregations,Low,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,No,No,
+75,2140187,High,High,Single transcripts,Punctate	Diffuse	Large aggregations,Moderate,Moderate,Yes,Yes,Yes,Yes,Yes,No,No,nerve,No,RNA in both nerve and glia but protein just in nerve
+76,2140230,None,Low,Evenly distributed	Single transcripts,Large aggregations,Low,Moderate,Yes,No,Yes,Yes,Yes,Yes,No,No,No,
+77,2140218,Moderate,High,Evenly distributed	Single transcripts,Punctate	Diffuse,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+78,2143392,High,Moderate,Evenly distributed	Single transcripts	Nuclear	Other,Punctate	Large aggregations,Moderate,High,No,Yes,Yes,Yes,Yes,Yes,No,No,No,"I would use the glia pannel and not the nerve one, not sure the probe worked in the ""nerve"" pannel"
+79,2140206,Low,Moderate,Single transcripts	Nuclear	Other,Nuclear,Moderate,Low,No,No,Yes,No,Yes,Yes,glia,glia,No,
+80,2140277,Moderate,Moderate,Evenly distributed	Single transcripts	Other,Nuclear	Diffuse	Large aggregations,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+81,2140214,None,None,Nuclear,,Low,None,No,Yes,No,No,Yes,No,glia,No,No,I think there is no expression and the RNA probe is labelling the gene so maybe it can be use as a control 
+82,2140269,Moderate,Low,Evenly distributed	Single transcripts	Nuclear,Diffuse,Moderate,Low,Yes,Yes,Yes,Yes,Yes,No,No,nerve,No,
+83,2140235,High,High,Evenly distributed	Single transcripts,Diffuse	Large aggregations,High,High,No,Yes,Yes,Yes,Yes,No,No,nerve,No,
+84,2140182,Moderate,Moderate,Single transcripts	Other,Diffuse	Large aggregations,Moderate,High,No,No,Yes,Yes,Yes,Yes,No,No,No,
+85,2140248,Low,Low,Single transcripts	Nuclear,Diffuse,Moderate,Low,No,No,,No,Yes,No,glia,nerve,No,
+86,2140190,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,
+87,2140227,High,Moderate,Other,Nuclear	Large aggregations,Low,High,Yes,Yes,Yes,No,No,Yes,nerve,glia,No,RNA highly aggregated
+88,2140239,High,High,Evenly distributed	Single transcripts	Other,Large aggregations,High,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,"even lower, there is protein signal in the nucleus of the glia cell"
+89,2140244,High,High,Single transcripts	Other,Nuclear	Diffuse	Large aggregations,High,Moderate,No,Yes,Yes,Yes,Yes,Yes,glia,glia,No,RNA and protein concentrated in the glia compartment but also expressed in the nerve
+90,2140211,Low,High,Single transcripts,Large aggregations,None,Moderate,Yes,No,Yes,Yes,Yes,No,No,nerve,No,
+91,2140272,Moderate,Low,Evenly distributed	Single transcripts,Diffuse,Low,Moderate,Yes,No,Yes,Yes,Yes,No,No,nerve,No,
+92,2140203,High,High,Evenly distributed	Single transcripts,Punctate	Diffuse,Moderate,High,No,No,Yes,No,Yes,Yes,No,No,No,
+93,2140260,Moderate,Low,Single transcripts	Nuclear	Other,Diffuse	Large aggregations,Moderate,Low,No,No,Yes,No,Yes,Yes,No,glia,No,
+94,2140589,Moderate,High,Evenly distributed	Single transcripts,Diffuse	Large aggregations,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+95,2140171,Low,High,Single transcripts	Nuclear,Punctate	Nuclear	Large aggregations	Cell type specific,Moderate,None,Yes,Yes,Yes,No,No,Yes,nerve,glia,No,
+96,2140293,Moderate,None,Evenly distributed	Single transcripts,,None,Moderate,Yes,No,Yes,No,Yes,No,No,No,No,
+97,2140159,High,High,Single transcripts	Nuclear	Other,Punctate	Diffuse	Large aggregations,High,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,No,No,
+98,2140147,Moderate,Moderate,Single transcripts,Diffuse,None,Low,Yes,No,No,Yes,Yes,Yes,glia,No,No,Discordance: protein in both compartments and RNA just in glia
+99,2140281,Moderate,Low,Evenly distributed	Single transcripts	Other,Diffuse,Moderate,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+100,2140155,Moderate,Low,Single transcripts	Nuclear,Diffuse,High,Moderate,Yes,Yes,No,Yes,Yes,No,glia,nerve,No,
+101,2140173,Moderate,High,Single transcripts,Diffuse	Large aggregations,Moderate,Low,Yes,Yes,Yes,Yes,Yes,No,No,nerve,No,Protein aggregated in the nerve followint the fiber pattern
+102,2140161,High,Moderate,Single transcripts,Diffuse,High,High,Yes,Yes,Yes,Yes,Yes,No,No,nerve,No,
+103,2140157,Moderate,High,Single transcripts,Punctate	Diffuse	Large aggregations,Moderate,Moderate,No,No,Yes,Yes,,Yes,No,No,No,
+104,2140283,Low,Moderate,Single transcripts	Nuclear,Diffuse	Large aggregations,Low,Low,Yes,No,,Yes,Yes,Yes,glia,nerve,No,
+105,2140149,Moderate,Low,Single transcripts,Diffuse,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+106,2140138,Low,None,Single transcripts,,Low,Low,No,No,Yes,No,Yes,No,No,No,No,
+107,2140145,Moderate,Low,Evenly distributed	Single transcripts,Punctate	Diffuse	Large aggregations,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+108,2140291,Low,Low,Single transcripts,Diffuse,None,Low,No,No,Yes,Yes,,No,,nerve,No,
+109,2140246,High,Low,Evenly distributed	Single transcripts	Nuclear	Other,Diffuse,High,High,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Discordance in levels of expression: low amounts of protein when comparing the RNA channel
+110,2140192,High,Low,Evenly distributed,Diffuse,Moderate,High,No,No,Yes,Yes,Yes,Yes,No,No,No,
+111,2140225,High,Moderate,Evenly distributed	Single transcripts,Punctate	Diffuse,High,High,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Discordance: not because they are in different compartments but because the RNA concentration is high compared to the amount of protein
+112,2140258,Low,Low,Single transcripts	Nuclear,Diffuse,Low,None,No,No,No,Yes,Yes,Yes,glia,No,No,
+113,2143393,Low,Moderate,Single transcripts,Large aggregations,Moderate,Low,Yes,No,Yes,No,No,No,No,No,No,I think the glia pannel shows the nerve compartment better than its pannel
+114,2140254,High,Moderate,Evenly distributed	Single transcripts	Nuclear	Other,Diffuse	Large aggregations,Moderate,High,Yes,Yes,Yes,Yes,Yes,No,No,nerve,No,
+115,2140237,Moderate,High,Evenly distributed	Nuclear	Other,Large aggregations,High,Moderate,Yes,Yes,Yes,Yes,Yes,No,No,nerve,No,
+116,2140180,None,Low,,Diffuse,Low,None,No,No,No,Yes,Yes,No,No,nerve,No,The RNA seems to be in the interface of the glia and nerve.  Not sure where to score it
+117,2140262,Moderate,None,Evenly distributed	Single transcripts,,Low,Moderate,Yes,Yes,Yes,No,Yes,No,No,No,No,
+118,2140201,Moderate,Low,Single transcripts,Nuclear	Diffuse,Moderate,Moderate,No,No,Yes,No,Yes,Yes,No,glia,No,
+119,2143394,Low,High,Single transcripts,Diffuse	Large aggregations,None,Low,Yes,No,Yes,Yes,Yes,No,No,nerve,No,ERROR in the glia pannel: RNA and protein are swapped I think
+120,2140270,Moderate,Low,Single transcripts	Nuclear	Other,Diffuse,Moderate,Low,Yes,No,Yes,Yes,Yes,No,No,nerve,No,
+121,2140213,High,High,Single transcripts	Nuclear	Other,Nuclear	Large aggregations,High,Moderate,Yes,Yes,Yes,No,Yes,Yes,No,glia,No,
+122,2140141,High,High,Single transcripts,Punctate	Large aggregations	Other,Moderate,High,Yes,Yes,Yes,Yes,Yes,No,No,nerve,No,"Protein pattern: large aggregations following the fiber pattern.
+Discordance: RNA is everywhere but protein is expressed in specific placed of the nerve."
+123,2140295,Low,Moderate,Nuclear,Nuclear	Diffuse	Large aggregations,Moderate,Low,No,No,,No,Yes,Yes,glia,glia,No,
+124,2140153,Moderate,Moderate,Single transcripts,Diffuse,Low,Moderate,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,The protein is highly expressed taking into account the number of transcripts
+125,2140299,Moderate,Low,Single transcripts,Punctate	Diffuse	Large aggregations,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+126,2140287,High,None,Other,,Moderate,High,Yes,No,Yes,No,Yes,No,No,No,No,
+127,2140165,Moderate,Low,Single transcripts,Diffuse,Moderate,Moderate,No,No,,Yes,Yes,Yes,glia,No,No,
+128,2143395,Moderate,Low,Single transcripts	Nuclear,Diffuse,Moderate,Low,No,No,No,Yes,Yes,Yes,glia,No,Yes,"ERROR IN THE FIGURE.  In the glia pannel the RNA and protein images are swapped (ok in the merge).
+In the nerve pannel the image shows trachea, best to use a middle z from the stack used in the glia pannel.
+
+I used the glia pannel for the scoring in this image"
+129,2140591,High,Low,Evenly distributed	Single transcripts,Diffuse,None,High,No,No,Yes,Yes,Yes,No,No,nerve,No,
+130,2143046,Low,Moderate,Single transcripts,Punctate,Moderate,Low,No,No,No,Yes,Yes,Yes,glia,No,No,FIGURE: There is only one pannel but the DAPI (nucleus of the glia) is there and maybe can be shown as well
+131,2140274,Moderate,Low,Evenly distributed	Nuclear	Other,Diffuse,Moderate,Low,No,No,,No,Yes,Yes,glia,glia,No,
+132,2140209,High,Low,Single transcripts	Nuclear	Other,Diffuse,High,High,Yes,Yes,Yes,No,Yes,Yes,No,No,No,
+133,2140217,Moderate,High,Single transcripts,Punctate,Low,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,No,No,
+134,2140266,Moderate,Low,Single transcripts,Diffuse,Moderate,Moderate,Yes,No,Yes,Yes,Yes,No,No,nerve,No,"I think glia pannel shows both compartments better than the nerve one?
+Discordance not in the compartment but in the concentration."
+135,2140278,Moderate,Low,Evenly distributed	Single transcripts,Diffuse,Moderate,Moderate,Yes,No,,Yes,Yes,Yes,No,No,No,
+136,2140205,High,Low,Single transcripts	Nuclear	Other,Punctate	Diffuse,Moderate,High,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,very low concentration of protein seeing the amount of RNA
+137,2140250,Low,Low,Single transcripts	Other,Punctate	Large aggregations,Low,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,"protein pattern: the punctate pattern aggregates as if it ""draws"" a line"
+138,2140233,High,High,Evenly distributed	Other,Large aggregations,High,High,Yes,No,Yes,Yes,Yes,No,No,nerve,No,"RNA: single and aggregated transcripts.
+Protein patern in the nerve is connective tissue? "
+139,2140184,Moderate,High,Single transcripts	Nuclear,Diffuse,Moderate,High,Yes,Yes,,Yes,Yes,No,glia,nerve,No,
+140,2140242,Moderate,High,Single transcripts,Nuclear,Low,Moderate,Yes,Yes,Yes,No,Yes,Yes,No,glia,No,
+141,2143396,Moderate,High,,Diffuse	Large aggregations,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,nerve,No,"I think there is an error in the glia pannel/protein channel.,  nerve fivers should be positive.  So I scored following the merge image"
+142,2140196,Low,Low,Evenly distributed,Diffuse,Low,None,No,No,,No,Yes,No,nerve,No,No,
+143,2140221,High,High,Single transcripts	Nuclear,Nuclear	Large aggregations,High,Low,No,Yes,No,No,Yes,Yes,glia,glia,No,
+144,2140207,High,High,Single transcripts,Cell edges	Diffuse	Large aggregations	Other,High,High,No,Yes,Yes,Yes,Yes,Yes,No,No,No,
+145,2140264,Moderate,High,Single transcripts	Nuclear	Other,Punctate	Nuclear,Moderate,Low,No,Yes,No,No,Yes,Yes,glia,glia,No,
+146,2140219,None,None,,,None,None,No,No,No,No,No,No,No,No,No,no expression 
+147,2140268,Moderate,None,Single transcripts	Nuclear	Other,,Low,Moderate,No,No,Yes,No,Yes,No,No,No,No,
+148,2143398,Moderate,None,Single transcripts	Nuclear	Other,,Moderate,Low,Yes,No,Yes,No,Yes,No,No,No,No,ERROR in the nerve pannel: the protein figure is the same as the RNA (there is no signal in the protein channel)
+149,2140276,Low,High,Single transcripts	Nuclear,Punctate	Nuclear	Large aggregations,High,Low,No,Yes,,No,Yes,Yes,glia,glia,No,
+150,2140194,High,High,Single transcripts	Other,Nuclear	Diffuse	Large aggregations,High,High,No,No,Yes,Yes,Yes,Yes,No,No,No,
+151,2140223,Moderate,High,Single transcripts	Nuclear	Other,Diffuse	Large aggregations,High,Moderate,Yes,Yes,Yes,Yes,Yes,No,No,nerve,No,"In case this figure is selected, the glia pannel is enough to show both compartments (nerve and glia)"
+152,2140240,Low,Low,Single transcripts,Diffuse,Low,Moderate,Yes,No,Yes,Yes,Yes,Yes,No,No,No,
+153,2140231,None,None,Single transcripts,Diffuse	Large aggregations,Low,Moderate,Yes,No,Yes,Yes,Yes,Yes,No,No,No,
+154,2140252,Moderate,High,Evenly distributed	Single transcripts,Diffuse,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,nerve,No,
+155,2140198,High,High,Single transcripts,Diffuse	Large aggregations,None,None,Yes,Yes,No,Yes,Yes,Yes,glia,nerve,No,protein concentrated in the nerve fibers but there is signal in the nucleus of the glia
+156,2140285,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,
+157,2140151,High,High,Single transcripts,Diffuse	Large aggregations,Low,High,No,Yes,Yes,Yes,Yes,Yes,No,No,No,"Protein pattern: diffuse in glia,  lare aggregations ""following"" the fibers"
+158,2140297,Moderate,High,Single transcripts,Punctate	Large aggregations,Low,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,No,No,
+159,2140143,High,Moderate,Single transcripts,Nuclear,High,Moderate,Yes,Yes,Yes,No,Yes,Yes,No,glia,No,
+160,2140289,High,Moderate,Evenly distributed	Nuclear	Other,Punctate	Nuclear	Large aggregations,Moderate,Moderate,Yes,No,Yes,No,Yes,Yes,No,glia,No,
+161,2140175,Low,Low,Single transcripts	Nuclear,Diffuse,Low,None,No,No,No,No,Yes,No,glia,No,No,
+162,2140179,Moderate,High,Single transcripts,Diffuse,Moderate,High,No,Yes,No,No,Yes,Yes,glia,glia,No,
+163,2143048,High,Moderate,Single transcripts,Diffuse	Large aggregations,Moderate,High,No,No,Yes,Yes,Yes,Yes,No,No,No,
+164,2140167,Low,High,Single transcripts,Nuclear	Large aggregations,Low,Low,No,Yes,No,No,Yes,Yes,glia,glia,No,

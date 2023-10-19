@@ -1,0 +1,171 @@
+,figure_id,What is the level of RNA expression?,What is the level of protein expression?,What patterns does the RNA make?,What patterns does the protein make?,Nascent transcript level,Cytosolic RNA level,Is there obvious RNA/protein discordance (whole image)?,Flag this gene as a potential one to use for a figure in the paper?,Is RNA present in nerve?,Is protein present in nerve?,Is RNA present in glia?,Is protein present in glia?,Is RNA distribution cell-type specific?,Is protein distribution cell-type specific?,Is figure quality too poor?,General comments
+0,2140146,Low,Low,Single transcripts,Punctate,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+1,2140158,Low,Low,Single transcripts,Punctate,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+2,2140292,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed
+3,2140154,Low,Moderate,Single transcripts,Punctate	Nuclear,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Contrasting looks all wrong
+4,2140137,High,High,Evenly distributed	More in some cells than others,Cell edges,Moderate,High,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Nerve images are massivley saturated
+5,2140280,Low,Moderate,Single transcripts,Cell edges	Large aggregations,Low,None,Yes,No,No,Yes,Yes,Yes,glia,No,No,
+6,2140162,Low,Low,Single transcripts,Punctate	Cell edges,None,Low,Yes,No,Yes,Yes,Yes,No,No,nerve,No,Nerve images could be slightly recontrasted. Glia image zoomed in a bit?
+7,2140170,High,High,Evenly distributed,Punctate	Cell edges	Large aggregations,None,High,No,No,Yes,Yes,Yes,Yes,No,No,No,
+8,2140273,Moderate,Moderate,Evenly distributed,Punctate	Large aggregations,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+9,2140210,Low,High,Single transcripts,Cell edges	Diffuse	Large aggregations,Low,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+10,2140261,Low,Low,Single transcripts,Punctate,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+11,2140202,None,Low,,Punctate,None,None,Yes,No,No,Yes,No,Yes,No,No,No,
+12,2140257,None,None,,,None,None,No,No,No,No,No,No,No,No,No,"Doesn't seem to be expressed
+"
+13,2143384,Low,None,Single transcripts	Nuclear	More in some cells than others,,None,None,Yes,No,No,No,Yes,No,glia,No,No,
+14,2140183,High,High,Evenly distributed,Large aggregations,None,High,No,No,Yes,Yes,No,No,No,No,Yes,"Not sure RNA signal is real, very faint. Also not sure those are actually glia in the glia images. "
+15,2140234,Moderate,None,Single transcripts,,None,Low,Yes,No,Yes,No,Yes,No,No,No,Yes,The merge image for the nerve needs to be recontrasted. It looks like there is protein signal but that's not the case in the protein panel. Something is up. 
+16,2140245,Low,Low,Single transcripts,Diffuse,None,Low,No,No,No,No,Yes,Yes,glia,glia,No,Hard to see RNA signal
+17,2140238,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed
+18,2140226,Low,Moderate,Single transcripts,Punctate,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+19,2140191,Low,Moderate,Single transcripts,Diffuse	Cell type specific,None,Low,No,No,No,No,Yes,Yes,glia,glia,No,
+20,2140300,Low,High,Single transcripts,Punctate	Diffuse,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+21,2140200,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Not expressed
+22,2140263,Moderate,Low,Evenly distributed,Punctate,High,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+23,2140212,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed
+24,2140271,Low,None,Single transcripts	More in some cells than others,,Moderate,Low,Yes,No,Yes,No,Yes,No,No,No,No,
+25,2140259,Low,None,Single transcripts	Cell type specific,,None,Low,Yes,No,Yes,No,No,No,nerve,No,No,
+26,2140224,Moderate,Moderate,Single transcripts	More in some cells than others,Diffuse	Large aggregations,None,Moderate,No,No,Yes,No,Yes,Yes,No,glia,No,
+27,2140193,Moderate,High,Evenly distributed,Punctate	Diffuse,None,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+28,2143385,High,Moderate,Evenly distributed,Punctate,Moderate,High,No,No,Yes,Yes,Yes,Yes,No,No,No,
+29,2143386,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,NOT SCORED: Figure the same as previous one
+30,2140236,Moderate,Low,Single transcripts	Nuclear,Punctate,Low,Low,No,No,No,No,Yes,Yes,glia,glia,No,
+31,2140255,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed
+32,2140228,Low,High,Single transcripts,Diffuse,None,Low,Yes,No,Yes,Yes,Yes,No,No,nerve,No,
+33,2140148,Moderate,Moderate,Single transcripts	Nuclear,Punctate	Large aggregations,High,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+34,2140282,Low,None,Single transcripts,,Low,Low,No,No,Yes,No,Yes,No,No,No,No,Needs better contrasting
+35,2140156,Low,Moderate,Single transcripts,Punctate	Large aggregations,None,Low,No,No,Yes,Yes,No,Yes,nerve,No,No,
+36,2140290,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,NOT SCORED: overall quality is poor. Hard to see where nerve is. 
+37,2140144,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,NOT SCORED: quality is very poor. 
+38,2140139,Low,Moderate,Single transcripts,Punctate	Other,None,Low,No,No,Yes,Yes,No,Yes,nerve,No,No,Not sure there's a great shot of the glia in this one. 
+39,2140172,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,"Is at NMJ, needs to be zoomed. No signal so doesn't seem to be expressed. "
+40,2140160,Moderate,High,Evenly distributed	Nuclear,Large aggregations,None,Moderate,No,No,Yes,Yes,Yes,No,No,nerve,No,
+41,2140185,None,Moderate,,Punctate	Cell edges	Large aggregations,None,None,Yes,No,No,Yes,No,Yes,No,No,No,
+42,2140232,High,None,Evenly distributed,,Low,High,Yes,No,Yes,No,Yes,No,No,No,No,
+43,2140251,High,High,Single transcripts	More in some cells than others,Diffuse	Large aggregations,High,High,No,No,Yes,Yes,Yes,Yes,No,No,No,
+44,2140220,Low,Moderate,Single transcripts	More in some cells than others,Large aggregations	Cell type specific,None,Low,No,No,No,No,Yes,Yes,glia,glia,No,
+45,2140197,Moderate,Moderate,Evenly distributed,Diffuse	Cell type specific,Low,Moderate,Yes,No,Yes,No,Yes,Yes,No,glia,No,
+46,2140189,Moderate,Moderate,Evenly distributed,Large aggregations,None,Moderate,No,No,Yes,Yes,Yes,No,No,nerve,No,RNA needs to be better contrasted
+47,2140243,High,None,Evenly distributed,,None,High,Yes,No,Yes,No,Yes,No,No,No,No,
+48,2140216,Low,Moderate,Single transcripts	More in some cells than others,Diffuse,None,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+49,2140208,Low,None,Single transcripts,,None,Low,No,No,Yes,No,Yes,No,No,No,No,
+50,2140275,Low,High,Single transcripts,Large aggregations	Other,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,Lots of protein outside the nerve - muscle?
+51,2140204,Moderate,Low,Single transcripts,Punctate,Low,Moderate,No,No,Yes,No,Yes,Yes,No,glia,No,
+52,2140279,Low,None,Single transcripts,,Low,Low,Yes,No,Yes,No,Yes,No,No,No,No,
+53,,Moderate,High,Single transcripts,Large aggregations,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+54,2140164,Moderate,High,Single transcripts	Nuclear	More in some cells than others,Cell edges	Diffuse,None,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+55,2140168,Low,Low,Single transcripts,Punctate	Diffuse,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+56,2143388,Low,Moderate,Single transcripts,Punctate	Cell edges,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+57,2140294,Low,Moderate,Single transcripts,Punctate	Diffuse,None,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,Protein signal in merge for nerve isn't showing up in the protein only panel. Is the contrasting consistent?
+58,2140140,Low,Low,Single transcripts,Punctate	Diffuse,None,Low,No,No,Yes,Yes,No,Yes,nerve,No,Yes,"Overall quality isn't great, do we think it's good enough?"
+59,2140286,Low,None,Single transcripts,,Moderate,Low,Yes,No,Yes,No,Yes,No,No,No,No,
+60,2140298,None,Low,,Punctate,None,None,No,No,No,Yes,No,No,No,nerve,No,
+61,2140152,Low,High,Single transcripts,Punctate	Large aggregations,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+62,2140174,Moderate,Moderate,Evenly distributed,Diffuse,None,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+63,2140166,Moderate,Moderate,Single transcripts	More in some cells than others,Punctate	Diffuse,None,Moderate,No,No,Yes,No,Yes,Yes,No,glia,No,
+64,2140178,Low,Low,Single transcripts,Punctate,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+65,2140150,Low,None,Single transcripts	Nuclear,,None,Low,Yes,No,No,No,Yes,No,glia,No,No,
+66,2143389,Low,Moderate,Single transcripts	Nuclear,Punctate	Diffuse,Moderate,Moderate,Yes,No,Yes,No,Yes,Yes,glia,No,No,
+67,2140288,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed
+68,2140142,High,Moderate,More in some cells than others	Other,Punctate,Low,High,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Nerve image isn't great. RNA is saturated. 
+69,2140296,Moderate,Moderate,Single transcripts,Punctate	Cell edges,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+70,2140241,Moderate,Low,Single transcripts,Diffuse,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+71,2143390,Moderate,Moderate,Cell type specific,Diffuse	Cell type specific,Low,Moderate,No,No,No,No,Yes,Yes,glia,glia,No,
+72,2140195,None,None,,,None,None,No,No,No,No,No,No,No,No,No,I think the RNA signal is an artefact? 
+73,2140199,None,Moderate,,Punctate	Nuclear,None,None,Yes,No,No,No,No,Yes,No,glia,No,
+74,2140253,Moderate,Moderate,Single transcripts,Punctate	Diffuse	Cell type specific,None,Moderate,No,No,Yes,No,Yes,Yes,No,glia,No,
+75,2140187,High,High,Evenly distributed,Diffuse	Large aggregations,None,High,No,No,Yes,Yes,Yes,Yes,No,No,No,
+76,2140230,Low,None,Single transcripts,,None,Low,Yes,No,Yes,No,Yes,No,No,No,No,
+77,2140218,High,High,Evenly distributed,Punctate	Diffuse,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+78,2143392,Moderate,Low,Evenly distributed,Punctate,None,None,No,No,Yes,Yes,Yes,Yes,No,No,No,
+79,2140206,Low,Low,Single transcripts,Diffuse,None,Low,No,No,No,No,Yes,Yes,glia,glia,No,
+80,2140277,Low,Moderate,Single transcripts,Punctate	Diffuse,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+81,2140214,Low,None,Single transcripts,,None,None,Yes,No,Yes,No,Yes,No,No,No,No,
+82,2140269,Low,None,Single transcripts,,None,Low,Yes,No,Yes,No,Yes,No,No,No,No,
+83,2140235,High,High,Evenly distributed,Diffuse	Large aggregations,Low,High,No,No,Yes,Yes,Yes,Yes,No,No,No,
+84,2140182,None,Low,,Punctate,None,None,No,No,No,Yes,No,Yes,No,No,No,
+85,2140248,Low,None,Single transcripts,,None,Low,Yes,No,No,No,Yes,No,glia,No,No,
+86,2140256,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed
+87,2140190,Moderate,None,,Diffuse	Large aggregations,None,None,Yes,No,No,Yes,No,No,No,No,No,
+88,2140227,Moderate,Low,Single transcripts	Cell type specific,Diffuse	Cell type specific,None,Low,Yes,No,Yes,No,No,Yes,nerve,glia,No,
+89,2140239,Moderate,High,Evenly distributed,Punctate	Diffuse	Large aggregations,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+90,2140244,Moderate,Moderate,Single transcripts	More in some cells than others,Nuclear	Large aggregations,None,Moderate,No,No,Yes,No,Yes,Yes,No,glia,No,
+91,2140211,Low,Moderate,Single transcripts,Large aggregations,None,Low,No,No,No,No,Yes,Yes,glia,glia,No,Not sure that is a glial cell?
+92,2140272,Low,None,Single transcripts,,None,Low,No,No,Yes,No,No,No,nerve,No,No,"Contrasting isn't great, I'd not be 100% sure of the RNA signal in the nerve"
+93,2140203,Moderate,Low,Single transcripts	Nuclear,Punctate,Low,Moderate,No,No,Yes,No,Yes,Yes,No,glia,No,
+94,2140260,Low,Moderate,Single transcripts,Punctate	Diffuse,None,Low,No,No,No,No,Yes,Yes,glia,glia,No,
+95,2140163,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,NOT SCORED: Same images as last figure
+96,2140171,Low,Low,Single transcripts,Punctate,None,Low,Yes,No,Yes,No,No,Yes,nerve,glia,No,"Hard to see, could do with recontrasting"
+97,2140293,Low,None,Single transcripts,,None,Low,Yes,No,Yes,No,Yes,No,No,No,No,
+98,2140159,Moderate,Low,Single transcripts	Nuclear,Punctate	Nuclear	Large aggregations,None,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+99,2140147,Low,Moderate,Single transcripts,Punctate	Cell edges,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+100,2140281,Moderate,None,Single transcripts	Cell type specific,,None,Moderate,Yes,No,No,No,Yes,No,glia,No,No,
+101,2140155,Moderate,Low,Single transcripts	Nuclear,Punctate,Moderate,Low,No,No,Yes,Yes,Yes,No,No,nerve,No,
+102,2140173,Moderate,Moderate,Single transcripts,Cell edges	Diffuse,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+103,2140161,Low,None,Single transcripts,,None,Low,No,No,Yes,No,Yes,No,No,No,No,"Large artefact in protein channel, glia image. Crop it out?"
+104,2140157,High,Moderate,More in some cells than others,Punctate,None,High,No,No,Yes,Yes,Yes,Yes,No,No,No,
+105,2140283,None,Low,,Diffuse,None,None,Yes,No,No,Yes,No,Yes,No,No,No,
+106,2140149,Moderate,Moderate,Single transcripts,Punctate,None,Moderate,No,No,Yes,Yes,No,Yes,No,No,No,
+107,2140138,Moderate,Moderate,Single transcripts,Diffuse,None,Moderate,No,No,Yes,No,Yes,Yes,No,glia,No,
+108,2140145,Moderate,High,Single transcripts,Punctate,Low,Moderate,No,No,Yes,No,Yes,Yes,No,glia,No,
+109,2140291,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed
+110,2140246,High,None,Evenly distributed,,Low,High,Yes,No,Yes,No,Yes,No,No,No,No,
+111,2140192,Moderate,None,Evenly distributed,,None,Moderate,Yes,No,Yes,No,Yes,No,No,No,No,
+112,2140225,High,Low,Evenly distributed,Punctate,None,High,No,No,Yes,Yes,Yes,Yes,No,No,No,
+113,2140258,Low,None,Single transcripts,,None,Low,Yes,No,Yes,No,Yes,No,No,No,No,
+114,,Low,Moderate,Single transcripts,Diffuse,Low,Low,No,No,No,Yes,Yes,Yes,glia,No,No,
+115,2140254,High,None,Evenly distributed,,None,High,Yes,No,Yes,No,Yes,No,No,No,No,
+116,2140237,Moderate,Moderate,Single transcripts,Diffuse	Large aggregations,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+117,2140180,None,Low,,Punctate,None,None,No,No,No,No,No,Yes,No,No,No,
+118,2140262,Low,None,Single transcripts,,None,None,Yes,No,Yes,No,Yes,No,No,No,No,
+119,2140201,Low,None,Single transcripts	More in some cells than others,,Low,Low,Yes,No,No,No,Yes,No,No,No,No,
+120,,Low,Moderate,Single transcripts,Punctate	Diffuse,None,None,No,No,Yes,Yes,No,Yes,nerve,No,No,
+121,2140270,Low,None,Single transcripts,,Low,Low,Yes,No,Yes,No,Yes,No,No,No,No,
+122,2140213,Moderate,Moderate,Evenly distributed	Single transcripts,Large aggregations	Cell type specific,High,Moderate,Yes,No,Yes,No,Yes,Yes,No,glia,No,
+123,2140141,Moderate,High,Evenly distributed,Large aggregations,None,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+124,2140295,Low,Low,Single transcripts	Nuclear,Diffuse,Moderate,Low,No,No,No,No,Yes,Yes,glia,glia,No,
+125,2140153,Moderate,Moderate,Single transcripts	More in some cells than others,Punctate	Large aggregations,None,High,No,No,Yes,Yes,Yes,Yes,No,No,No,
+126,2140299,Moderate,None,Evenly distributed,,Low,Moderate,Yes,No,Yes,No,Yes,No,No,No,No,
+127,2140287,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,NOT SCORED: This doesn't look right to me
+128,2140165,Low,None,Single transcripts,,None,Low,Yes,No,Yes,No,Yes,No,No,No,No,Nerve image is badly contrasted. There's no protein signal? Hard to tell
+129,,None,Moderate,,Large aggregations,None,None,No,No,No,No,Yes,No,No,No,Yes,"Is that even a glial cell in the bottom images? RNA and protein are in the wrong panels, protein panel is in blue for the nerve images. "
+130,2140169,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,NOT SCORED: Glia images are the same as previous figure
+131,2140274,Low,None,Single transcripts,,None,Low,Yes,No,No,No,Yes,No,glia,No,No,
+132,2140209,Moderate,Low,More in some cells than others,Punctate,High,Moderate,Yes,No,Yes,No,Yes,Yes,No,glia,No,
+133,2140217,Low,Moderate,Single transcripts,Punctate	Large aggregations,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,"RNA signal very faint, or not real?"
+134,2140266,Moderate,None,Single transcripts,,None,Low,Yes,No,Yes,No,Yes,No,No,No,No,
+135,2140278,Moderate,None,Single transcripts	More in some cells than others,,Low,Moderate,Yes,No,Yes,No,Yes,No,No,No,No,
+136,2140205,Moderate,Low,Single transcripts,Punctate,Moderate,Moderate,No,No,Yes,No,Yes,Yes,No,glia,No,
+137,2140250,None,Low,,Punctate,None,None,Yes,No,No,Yes,No,No,No,nerve,No,
+138,2140233,Moderate,Moderate,Single transcripts,Large aggregations,Low,Moderate,No,No,Yes,Yes,Yes,No,No,nerve,No,
+139,2140184,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed
+140,2140242,None,Moderate,,Punctate	Large aggregations,None,None,Yes,No,No,No,No,Yes,No,glia,No,
+141,2143396,Moderate,High,Evenly distributed,Diffuse	Large aggregations,None,High,No,No,Yes,Yes,Yes,Yes,No,No,No,
+142,2140196,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Not expressed
+143,2140221,Low,High,Single transcripts,Punctate	Diffuse	Large aggregations,Moderate,Low,No,No,No,No,Yes,Yes,glia,glia,No,
+144,2140207,High,High,Evenly distributed	More in some cells than others,Cell edges	Large aggregations,Moderate,High,No,No,Yes,Yes,Yes,Yes,No,No,No,
+145,2140264,Low,Moderate,Single transcripts	Cell type specific,Punctate	Cell type specific,None,Low,No,No,No,No,Yes,Yes,glia,glia,No,
+146,2140219,None,Low,,Punctate,None,None,No,No,No,Yes,No,No,No,nerve,No,
+147,2140268,Low,None,Single transcripts,,Moderate,Low,Yes,No,Yes,No,Yes,No,No,No,No,
+148,2143398,Low,None,Single transcripts,Cell type specific,None,Low,Yes,No,No,No,Yes,No,glia,No,No,
+149,2140276,Low,Low,Single transcripts,Punctate	Nuclear	Cell type specific,None,Low,Yes,No,Yes,No,Yes,Yes,No,glia,No,
+150,2140194,High,High,Evenly distributed,Punctate	Diffuse,Low,High,No,No,Yes,Yes,Yes,Yes,No,No,No,
+151,2140223,Moderate,Moderate,Single transcripts,Diffuse	Large aggregations,Low,Moderate,No,No,Yes,Yes,Yes,No,No,nerve,No,
+152,2140240,Low,Low,Single transcripts,Punctate,None,Low,No,No,Yes,No,Yes,Yes,No,glia,No,
+153,2140231,Moderate,High,Single transcripts,Diffuse	Large aggregations,None,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,"RNA is hard to see, could be better contrasted"
+154,2140186,Moderate,Moderate,Single transcripts	Nuclear,Punctate,Low,Low,No,No,No,No,Yes,Yes,No,No,No,
+155,2140252,Moderate,High,Single transcripts,Diffuse,None,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,I don't think the nerve image is in the right z. Nerve in the glial image is much better IMO
+156,2140198,High,Moderate,Evenly distributed,Large aggregations,None,Moderate,No,No,Yes,Yes,Yes,No,No,nerve,No,
+157,2140285,None,None,,,None,None,No,No,No,No,No,No,No,No,No,Doesn't seem to be expressed
+158,2140151,High,High,Single transcripts,Punctate	Diffuse	Large aggregations,None,High,No,No,Yes,Yes,Yes,Yes,No,No,No,
+159,2140297,Moderate,Moderate,Evenly distributed,Punctate	Cell edges,None,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+160,2140143,Moderate,Moderate,Single transcripts,Nuclear,Moderate,Moderate,No,No,Yes,No,Yes,Yes,No,glia,No,
+161,2140289,None,None,,,None,None,No,No,No,No,No,No,No,No,No,NOT SCORED: Hard to interperet
+162,2140175,Low,None,Single transcripts,,None,None,No,No,No,No,Yes,No,glia,No,No,
+163,2140179,Low,Moderate,Single transcripts,Diffuse	Large aggregations,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,Yes,"Glia image is very messy, hard to interepret."
+164,2140167,None,High,,Diffuse,None,None,Yes,No,No,No,No,Yes,No,glia,No,
+165,2140590,Low,Low,Single transcripts,Punctate	Large aggregations,None,Low,No,No,Yes,Yes,No,Yes,nerve,No,Yes,The images should be zoomed in
+166,2140589,Moderate,High,Evenly distributed,Punctate,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,Yes,RNA and protein in the glia merge look to be mixed up
+167,2140591,Moderate,None,Single transcripts,,None,Low,Yes,No,Yes,No,Yes,No,No,No,No,
+168,2143048,High,High,Evenly distributed,Muscle fibres	Diffuse	Large aggregations,None,High,No,No,Yes,No,Yes,Yes,No,No,No,

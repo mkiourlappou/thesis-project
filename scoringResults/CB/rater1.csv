@@ -1,0 +1,209 @@
+figure_id,What is the level of RNA expression?,What is the level of protein expression?,"If there is RNA expression, what patterns does the RNA make?","If there is protein expression, what patterns does the protein make?",Nascent transcript level,Cytosolic RNA level,Is there obvious RNA/protein discordance (whole image)?,Flag this gene as a potential one to use for a figure in the paper?,Is RNA present in NBs?,Is protein present in NBs?,Is RNA present in anlagen?,Is protein present in anlagen?,Is RNA present in other cells?,Is protein present in other cells?,Is figure quality too poor?,General comments,,figure_id,NB_RNA_no_protein,
+2138372,High,High,Evenly distributed,Nuclear,Moderate,High,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,RNA translationally up-regulated as NB progenies differentiate?,,2138848,0,1
+2138694,Moderate,Moderate,"Cell type specific	More in some cells than others",Cytoplasmic,Moderate,Moderate,No,No,Yes,Yes,No,No,Yes,Yes,No,More RNA/Protein in the NBs and early GMCs,,2138653,0,1
+2137980,Moderate,Moderate,Evenly distributed,"Diffuse	Cytoplasmic",Moderate,Moderate,No,No,Yes,Yes,N/A,N/A,Yes,Yes,No,,,2138180,0,1
+2138786,Moderate,Moderate,More in some cells than others,"Punctate	Nuclear",Moderate,Moderate,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,,,2138361,0,1
+2138552,Moderate,Low,Evenly distributed,"Punctate	Cytoplasmic",Moderate,Moderate,No,No,Yes,Yes,No,No,Yes,Yes,No,,,2138786,1,0
+2138256,Low,Moderate,More in some cells than others,"Punctate	Cytoplasmic	Cell type specific",High,Low,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Protein seems glial localised in CB. Might be translationally controlled in non-glial cells in the CB. ,,2138708,1,0
+2138356,Low,Low,Single transcripts,Cell type specific,None,Low,No,No,No,No,No,No,Yes,Yes,Yes,Protein expressed in some neuronal projections that populate optic lobe neuropils,,2138767,1,0
+2139974,Moderate,Moderate,Evenly distributed,"Punctate	Cytoplasmic",Moderate,Moderate,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,RNA in neuropil,,2138722,1,0
+2138564,High,High,Evenly distributed,"Punctate	Nuclear",High,High,No,No,Yes,Yes,N/A,N/A,Yes,Yes,No,,,2137928,1,0
+2138568,Moderate,Moderate,Evenly distributed,"Diffuse	Cytoplasmic",Moderate,Moderate,No,No,Yes,Yes,No,No,Yes,Yes,No,,,2138874,1,0
+2138476,Low,Low,"Single transcripts	More in some cells than others",Cytoplasmic,Moderate,Moderate,Yes,No,Yes,Yes,N/A,N/A,Yes,Yes,No,,,2138309,1,0
+2138147,Moderate,Moderate,Evenly distributed,"Cell type specific	Other",Low,Moderate,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,"Protein localised to neuropils and neuronal projections.
+RNAs are not much transcribed on the CB surface. ",,2138374,1,0
+2138708,Moderate,Low,Evenly distributed,Diffuse,Low,Moderate,Yes,No,Yes,No,No,No,Yes,Yes,No,,,2138529,1,0
+2138024,Moderate,Moderate,"Cell type specific	More in some cells than others","Punctate	Cytoplasmic",Moderate,Moderate,Yes,Yes,No,No,N/A,N/A,Yes,Yes,No,RNA is expressed in some cells that are not being translated. ,,2138503,1,0
+2137873,Moderate,Moderate,Evenly distributed,"Large aggregations	Cytoplasmic",Moderate,Moderate,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,"Anlagen - Lots of RNA, very small amount of Protein.
+Protein localisation enriched in neuropil regions. ",,2138771,1,0
+2138055,Moderate,Moderate,"More in some cells than others	Other","Punctate	Large aggregations	Cytoplasmic",High,Low,Yes,No,Yes,Yes,N/A,N/A,Yes,Yes,No,,,2138938,1,0
+2138604,Moderate,Low,Evenly distributed,"Diffuse	Cytoplasmic",Moderate,Moderate,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,,,2138418,1,0
+2138767,Moderate,Low,"Single transcripts	More in some cells than others",Nuclear,Moderate,Moderate,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,,,2138245,1,0
+2138136,Low,Moderate,Single transcripts,Cell edges,None,Low,No,No,Yes,Yes,N/A,N/A,Yes,Yes,No,,,2138441,1,0
+2138667,Moderate,High,Evenly distributed,"Nuclear	Diffuse	Cytoplasmic",Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138371,1,0
+2138927,High,High,Evenly distributed,Nuclear,High,Moderate,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Translational in some cells in the NB layer,,2138543,1,0
+2138827,High,Moderate,Evenly distributed,,Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138494,1,0
+2138939,High,High,Evenly distributed,Nuclear,High,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,anlagen figure should be recontrasted,,2138928,1,0
+2138751,Low,Low,More in some cells than others,"Diffuse	Cell type specific",Moderate,Low,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,"In the anlagen image, there are a few cells with massive transcription foci with no protein. ",,2138832,1,0
+2138597,High,High,Evenly distributed,Cell edges,High,High,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,,,2137933,1,0
+2138848,None,High,,"Nuclear	Diffuse	Cytoplasmic",None,None,No,No,No,Yes,No,Yes,No,Yes,Yes,YFP FISH did not work,,2137915,1,0
+2138489,High,Moderate,More in some cells than others,"Punctate	Large aggregations	Cytoplasmic",High,High,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,,,2138601,1,0
+2138718,Moderate,Low,Evenly distributed,Cytoplasmic,Low,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138701,1,0
+2138813,None,Low,Single transcripts,Cell type specific,None,None,No,No,No,No,No,Yes,Yes,Yes,No,,,2137907,1,0
+2137768,Low,Low,Single transcripts,Cytoplasmic,Low,Low,No,No,No,No,Yes,Yes,Yes,Yes,No,,,2138388,1,0
+2138862,Low,Low,Evenly distributed,"Diffuse	Cytoplasmic",None,Low,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138896,1,0
+2137900,Moderate,Moderate,Cell type specific,"Cytoplasmic	Cell type specific",Moderate,Moderate,No,No,No,No,Yes,No,Yes,Yes,No,,,2138783,1,0
+2138614,Moderate,Low,Evenly distributed,Diffuse,Low,Moderate,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138322,1,0
+2138714,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,,,2138372,0,0
+2138138,Moderate,High,Evenly distributed,Cytoplasmic,High,Moderate,No,No,Yes,Yes,N/A,N/A,Yes,Yes,No,,,2138694,0,0
+2138722,Low,Low,Single transcripts,Nuclear,Low,Low,Yes,No,Yes,No,N/A,N/A,Yes,Yes,No,,,2137980,0,0
+2137928,Low,Moderate,"Evenly distributed	Single transcripts",Nuclear,Low,Low,Yes,Yes,Yes,No,Yes,No,Yes,No,No,RNA not translated in some cells including NBs,,2138552,0,0
+2138499,Low,High,Single transcripts,Cytoplasmic,None,Low,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,,,2138256,0,0
+2138753,Low,Low,Single transcripts,Diffuse,Moderate,Low,No,No,No,No,No,No,Yes,Yes,No,,,2138356,0,0
+2138653,Moderate,High,Evenly distributed,"Punctate	Large aggregations",Moderate,Moderate,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Translational regulation in some cells in the NB layer,,2139974,0,0
+2137924,Low,Low,Single transcripts,Diffuse,None,Low,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Some cells next to anlagen have very high transcription level but not much accumulation of cytosolic transcripts.,,2138564,0,0
+2137824,Moderate,Moderate,Evenly distributed,Cell edges,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138568,0,0
+2138730,High,High,Evenly distributed,"Punctate	Diffuse	Cytoplasmic",Moderate,High,No,No,Yes,Yes,No,Yes,Yes,Yes,No,,,2138476,0,0
+2138161,Low,Moderate,Evenly distributed,Cytoplasmic,Low,Low,No,No,Yes,Yes,N/A,N/A,Yes,Yes,No,,,2138147,0,0
+2137990,Moderate,Moderate,More in some cells than others,"Punctate	Cytoplasmic",Moderate,Moderate,Yes,No,Yes,Yes,N/A,N/A,Yes,Yes,No,Protein expression looks uniform despite some cells having more RNA.,,2138024,0,0
+2137890,Low,None,"Cell type specific	More in some cells than others",,None,Low,Yes,No,No,No,Yes,No,Yes,No,No,"Very small amount of RNA, no detectable protein expression. ",,2137873,0,0
+2138784,High,High,Evenly distributed,Cytoplasmic,Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138055,0,0
+2138891,High,High,Evenly distributed,"Cell edges	Other",Moderate,Moderate,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Might be translationally regulated in the NBs?,,2138604,0,0
+2138370,High,High,Evenly distributed,Nuclear,Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138136,0,0
+2138509,High,High,Evenly distributed,"Nuclear	Diffuse	Cytoplasmic",High,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138667,0,0
+2138574,High,Moderate,,"Punctate	Cytoplasmic",Moderate,High,No,No,Yes,Yes,N/A,N/A,Yes,Yes,No,,,2138927,0,0
+2138180,Moderate,Moderate,Evenly distributed,Cytoplasmic,Moderate,Moderate,No,No,No,Yes,N/A,N/A,Yes,Yes,No,,,2138827,0,0
+2139876,Moderate,High,Evenly distributed,"Nuclear	Cytoplasmic",Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138939,0,0
+2138578,Low,Low,Evenly distributed,"Diffuse	Cytoplasmic",None,Low,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138751,0,0
+2138649,High,None,Evenly distributed,"Large aggregations	Cytoplasmic",High,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138597,0,0
+2138921,None,None,,,None,None,No,No,No,No,N/A,N/A,No,No,No,,,2138489,0,0
+2138821,Moderate,Moderate,Evenly distributed,"Nuclear	Diffuse",Moderate,Moderate,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,,,2138718,0,0
+2138065,Moderate,Low,Evenly distributed,"Diffuse	Cell type specific",Low,Moderate,No,No,Yes,Yes,N/A,N/A,Yes,Yes,No,,,2138813,0,0
+2138583,High,High,Evenly distributed,"Nuclear	Diffuse",Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2137768,0,0
+2138165,Moderate,Moderate,Evenly distributed,"Cytoplasmic	Other",Low,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,"Might be translationally controlled in NBs. 
+Protein localised to cytoplasm, nuclear envelop and neuronal projections. ",,2138862,0,0
+2138745,None,None,,,None,None,No,No,No,No,No,No,No,No,No,,,2137900,0,0
+2138738,Moderate,Moderate,Single transcripts,"Punctate	Cytoplasmic",Moderate,Moderate,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,,,2138614,0,0
+2137804,Moderate,Low,Evenly distributed,"Diffuse	Cytoplasmic",Moderate,Moderate,Yes,No,Yes,Yes,N/A,N/A,Yes,Yes,No,"RNA expression is rather evenly distributed, but not protein. ",,2138714,0,0
+2138610,Low,Low,Evenly distributed,"Diffuse	Cytoplasmic",High,Low,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,,,2138138,0,0
+2138041,Moderate,Low,More in some cells than others,Cytoplasmic,High,None,Yes,No,Yes,Yes,N/A,N/A,Yes,Yes,No,Translation regultion? RNA expression pattern does not match uniform protein distribution.,,2138499,0,0
+2138710,High,High,Evenly distributed,Cytoplasmic,Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138753,0,0
+2138905,Low,None,,,None,Low,No,No,No,No,No,No,Yes,No,No,,,2137924,0,0
+2138874,High,Moderate,More in some cells than others,"Punctate	Cytoplasmic",High,Moderate,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Stability and translational control,,2137824,0,0
+2138761,High,High,Evenly distributed,Cytoplasmic,Moderate,High,No,No,Yes,Yes,N/A,N/A,Yes,Yes,No,,,2138730,0,0
+2138399,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,FISH didn't work,,2138161,0,0
+2138401,Moderate,Moderate,Evenly distributed,Cytoplasmic,Moderate,Moderate,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,,,2137990,0,0
+2138317,High,High,Evenly distributed,Nuclear,Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2137890,0,0
+2138309,High,Low,Evenly distributed,Punctate,High,High,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,,,2138784,0,0
+2138425,Low,Moderate,Single transcripts,"Punctate	Cytoplasmic	Cell type specific",None,None,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,,,2138891,0,0
+2138374,Moderate,Low,Evenly distributed,Cytoplasmic,Low,Moderate,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,,,2138370,0,0
+2138692,Moderate,Low,Evenly distributed,"Large aggregations	Cytoplasmic",Moderate,None,No,No,No,No,No,No,Yes,Yes,No,,,2138509,0,0
+2138525,None,None,,,None,None,No,No,No,No,No,No,No,No,No,,,2138574,0,0
+2138274,Low,Moderate,Single transcripts,"Punctate	Nuclear	Cell type specific",Moderate,Low,Yes,No,Yes,Yes,N/A,N/A,Yes,Yes,No,"Maybe translationally up-regulated in NBs?
+Protein enriched in NBs. ",,2139876,0,0
+2137781,Moderate,Moderate,More in some cells than others,Cytoplasmic,Moderate,Moderate,Yes,No,No,No,N/A,N/A,Yes,Yes,No,Protein expression seems rather uniform despite some cells having much more RNAs/nascent RNAs,,2138578,0,0
+2138529,High,High,More in some cells than others,"Nuclear	Cytoplasmic",High,High,Yes,No,Yes,No,Yes,No,Yes,Yes,No,,,2138649,0,0
+2138429,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,FISH didn't work,,2138921,0,0
+2138266,Moderate,High,Evenly distributed,Nuclear,Moderate,Moderate,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Translationally down-regulated in anlagen.,,2138821,0,0
+2138511,None,None,,,None,None,No,No,No,No,No,No,No,No,No,,,2138065,0,0
+2138503,Low,Low,"Single transcripts	More in some cells than others",Cytoplasmic,Moderate,Low,Yes,No,Yes,No,No,No,Yes,Yes,No,,,2138583,0,0
+2138252,Moderate,Moderate,More in some cells than others,"Punctate	Large aggregations	Cytoplasmic",Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138165,0,0
+2138460,High,None,"Single transcripts	More in some cells than others","Diffuse	Cell type specific",High,High,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,,,2138745,0,0
+2138548,High,High,Evenly distributed,Cytoplasmic,Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138738,0,0
+2138782,Moderate,Low,"Single transcripts	More in some cells than others",Nuclear,Moderate,Moderate,Yes,No,No,No,N/A,N/A,Yes,Yes,No,Translationa control in some progeny cells,,2137804,0,0
+2138435,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,FISH didn't work,,2138610,0,0
+2137896,Moderate,High,Cell type specific,"Cytoplasmic	Cell type specific",Moderate,Moderate,No,No,No,No,No,No,Yes,Yes,No,,,2138041,0,0
+2138889,High,High,Evenly distributed,Cell edges,High,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138710,0,0
+2138315,Low,Low,Single transcripts,Cytoplasmic,Moderate,Low,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138905,0,0
+2138831,Moderate,High,More in some cells than others,"Diffuse	Cytoplasmic",Moderate,Moderate,No,No,Yes,Yes,No,No,Yes,Yes,No,Looks similar to Imp. Some NBs have high proteins level whereas most others don't. Are they mushroom body NBs?,,2138761,0,0
+2138852,Low,Low,"Single transcripts	More in some cells than others","Punctate	Cytoplasmic",Low,Low,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138399,0,0
+2137758,Moderate,Moderate,"Single transcripts	More in some cells than others","Punctate	Diffuse",Moderate,High,No,No,No,No,Yes,Yes,Yes,Yes,No,,,2138401,0,0
+2138481,Moderate,Low,Evenly distributed,Cytoplasmic,Moderate,Moderate,No,No,No,No,N/A,N/A,Yes,Yes,No,,,2138317,0,0
+2138923,High,Low,Evenly distributed,Cytoplasmic,Low,High,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Translational control in some progeny cells,,2138425,0,0
+2138655,None,None,,,None,None,No,No,No,No,No,No,No,No,No,,,2138692,0,0
+2138700,Moderate,Moderate,Evenly distributed,"Cytoplasmic	Cell type specific",Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138525,0,0
+2138051,Moderate,Moderate,Evenly distributed,"Punctate	Cytoplasmic",Low,Moderate,No,No,Yes,Yes,N/A,N/A,Yes,Yes,No,,,2138274,0,0
+2137969,Low,Low,"Single transcripts	More in some cells than others","Punctate	Nuclear	Cytoplasmic",High,Low,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2137781,0,0
+2138907,Low,Low,Evenly distributed,"Nuclear	Diffuse	Cytoplasmic",None,Low,No,No,Yes,Yes,No,No,Yes,Yes,No,,,2138429,0,0
+2138120,Moderate,Low,Evenly distributed,"Punctate	Cytoplasmic",Low,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138266,0,0
+2138671,Moderate,Moderate,Evenly distributed,Nuclear,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138511,0,0
+2138771,High,None,Evenly distributed,,Low,Moderate,Yes,Yes,Yes,No,No,No,Yes,No,No,,,2138252,0,0
+2137827,Moderate,Moderate,Evenly distributed,"Cell edges	Cytoplasmic",Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138460,0,0
+2138945,High,High,Evenly distributed,"Nuclear	Diffuse	Cytoplasmic",High,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Protein transport to neuropil regions (next to anlagen),,2138548,0,0
+2138938,Low,None,Single transcripts,,Low,Low,Yes,No,Yes,No,N/A,N/A,Yes,No,No,,,2138782,0,0
+2139986,Moderate,Moderate,Single transcripts,Cytoplasmic,Low,Low,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,More RNA in the anlagen plane,,2138435,0,0
+2138588,Moderate,Moderate,"Evenly distributed	Single transcripts",Cytoplasmic,Moderate,Moderate,No,No,N/A,N/A,N/A,N/A,Yes,Yes,No,NBs missing in the CB figure. ,,2137896,0,0
+2138861,None,None,,,None,None,No,No,No,No,No,No,No,No,No,,,2138889,0,0
+2138046,Low,Low,Single transcripts,"Punctate	Cell edges",None,Low,No,No,Yes,Yes,N/A,N/A,Yes,Yes,No,,,2138315,0,0
+2137775,Low,Low,More in some cells than others,Cytoplasmic,Moderate,Low,No,No,No,No,No,No,Yes,Yes,No,,,2138831,0,0
+2138037,High,High,Evenly distributed,"Punctate	Cell edges",Moderate,High,No,No,Yes,Yes,N/A,N/A,Yes,Yes,No,,,2138852,0,0
+2138280,Low,Low,More in some cells than others,Cytoplasmic,Moderate,Low,No,No,No,No,No,No,Yes,Yes,No,,,2137758,0,0
+2138873,Moderate,High,More in some cells than others,"Punctate	Cell edges	Other",Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Protein in plasma membrane and nuclear envelop,,2138481,0,0
+2137811,Low,None,Single transcripts,,None,Low,No,No,No,No,No,No,Yes,No,No,Very few transcripts. Protein expression not detectable. ,,2138923,0,0
+2138129,High,High,Evenly distributed,"Nuclear	Diffuse	Cytoplasmic",Low,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138655,0,0
+2138678,Low,Low,"Single transcripts	More in some cells than others",Cytoplasmic,Moderate,Low,No,No,Yes,Yes,No,No,Yes,Yes,No,,,2138700,0,0
+2138029,Moderate,Moderate,Evenly distributed,"Diffuse	Cytoplasmic",Moderate,Moderate,No,No,Yes,Yes,N/A,N/A,Yes,Yes,No,,,2138051,0,0
+2138810,Low,Low,Evenly distributed,Punctate,None,Low,No,No,Yes,Yes,No,No,No,Yes,No,,,2137969,0,0
+2137767,Moderate,Moderate,Evenly distributed,Other,Low,Low,No,No,Yes,Yes,N/A,N/A,Yes,Yes,No,"Protein labels the nuclear envelope.
+Anlagen figure missing. ",,2138907,0,0
+2138418,Low,Low,More in some cells than others,"Punctate	Large aggregations	Cytoplasmic",High,None,Yes,Yes,Yes,No,N/A,N/A,Yes,Yes,No,,,2138120,0,0
+2138406,Moderate,Moderate,Evenly distributed,"Nuclear	Diffuse	Cytoplasmic",Moderate,Moderate,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,,,2138671,0,0
+2138091,Moderate,High,Evenly distributed,"Nuclear	Large aggregations",Moderate,Moderate,No,No,N/A,N/A,N/A,N/A,Yes,Yes,No,No NBs in the central brain image,,2137827,0,0
+2138569,Low,Low,Evenly distributed,"Punctate	Nuclear",Low,Low,Yes,Yes,Yes,Yes,N/A,No,Yes,No,No,,,2138945,0,0
+2138514,Low,Moderate,Evenly distributed,Cytoplasmic,Moderate,Low,No,No,N/A,N/A,N/A,N/A,Yes,Yes,No,CB figure does not show NBs.,,2139986,0,0
+2138245,Moderate,Moderate,Evenly distributed,Cell type specific,None,None,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,I think there are discordance. Might benefit from re-screen. ,,2138588,0,0
+2138441,Low,Moderate,"Single transcripts	More in some cells than others",Cytoplasmic,High,Low,No,Yes,Yes,No,Yes,No,Yes,Yes,No,,,2138861,0,0
+2138422,Moderate,Moderate,Evenly distributed,Cytoplasmic,Low,Moderate,No,No,Yes,Yes,N/A,N/A,Yes,Yes,No,,,2138046,0,0
+2137786,Moderate,Moderate,Evenly distributed,"Punctate	Cytoplasmic",Moderate,Moderate,No,No,Yes,Yes,N/A,N/A,Yes,Yes,No,,,2137775,0,0
+2138361,None,Moderate,,Cytoplasmic,None,None,No,No,No,Yes,No,No,No,Yes,Yes,FISH didn't work,,2138037,0,0
+2138787,Low,Moderate,Single transcripts,"Punctate	Cell type specific",None,Low,Yes,No,No,No,Yes,No,Yes,Yes,No,,,2138280,0,0
+2138404,Moderate,Moderate,Evenly distributed,Cytoplasmic,Moderate,Moderate,No,No,Yes,Yes,No,No,Yes,Yes,No,,,2138873,0,0
+2138785,High,Moderate,Evenly distributed,"Punctate	Cytoplasmic",Moderate,High,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Protein translationally controlled in the anlagen?,,2137811,0,0
+2138890,None,None,,,None,None,No,No,No,No,No,No,No,No,No,,,2138129,0,0
+2138451,Low,Low,Cell type specific,Cytoplasmic,High,Low,Yes,Yes,No,No,No,No,Yes,Yes,No,,,2138678,0,0
+2138271,Low,Moderate,Single transcripts,Cytoplasmic,Low,Low,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Protein expressed mostly in glial and some neuronal cells. Looks like Imp to me. ,,2138029,0,0
+2138371,Moderate,Moderate,Evenly distributed,Nuclear,Moderate,Moderate,Yes,Yes,Yes,No,No,No,Yes,Yes,No,,,2138810,0,0
+2138543,Moderate,Low,Evenly distributed,Diffuse,Moderate,Moderate,Yes,No,Yes,No,Yes,No,Yes,Yes,No,,,2137767,0,0
+2138494,High,High,Evenly distributed,Nuclear,Moderate,High,Yes,No,Yes,No,N/A,N/A,Yes,Yes,Yes,"I think there's translational control in NBs, but the figure is of poor quality. ",,2138406,0,0
+2138623,Low,Low,"Single transcripts	More in some cells than others",Cell type specific,Low,Low,No,No,No,No,No,No,Yes,Yes,No,,,2138091,0,0
+2137937,Moderate,Low,Evenly distributed,"Cytoplasmic	Cell type specific",Moderate,Moderate,Yes,No,Yes,Yes,N/A,N/A,Yes,Yes,No,Protein not much translated in NBs.,,2138569,0,0
+2139884,Moderate,Moderate,Evenly distributed,Cytoplasmic,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138514,0,0
+2138928,Low,Low,Single transcripts,Punctate,None,Low,Yes,No,Yes,No,No,No,Yes,Yes,No,Translational control in cells next to anlagen + maybe NBs,,2138422,0,0
+2138828,High,High,Evenly distributed,"Nuclear	Diffuse	Cytoplasmic",Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2137786,0,0
+2137846,Low,Moderate,Evenly distributed,Cell type specific,None,Low,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Protein localisation enriched in neuropils ,,2138787,0,0
+2138486,Low,Moderate,Evenly distributed,"Large aggregations	Other",Low,Low,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Protein localised to nucleolus? omega-speckle?,,2138404,0,0
+2137813,Moderate,High,Evenly distributed,"Nuclear	Diffuse	Cytoplasmic",High,Moderate,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,"Protein expression is diffuce across cytoplasm and nucleus but excluded from the nucleolus.
+Nascent transcript level does not match cytosolic RNA level in some cells (e.g. glial cells) ",,2138785,0,0
+2138664,Low,Moderate,Cell type specific,Cell type specific,Low,Low,No,No,No,No,N/A,N/A,Yes,Yes,No,,,2138890,0,0
+2138776,Low,Moderate,Cell type specific,"Nuclear	Cell type specific",Moderate,Low,No,No,No,No,N/A,N/A,Yes,Yes,No,anlagen image does not show the anlagen,,2138451,0,0
+2138524,Moderate,Moderate,Evenly distributed,Nuclear,Moderate,Moderate,No,No,Yes,Yes,N/A,N/A,Yes,Yes,No,,,2138271,0,0
+2138547,Low,Low,Cell type specific,Cytoplasmic,Moderate,Low,No,No,No,No,No,No,Yes,Yes,No,Protein and RNA seems glial-expressed,,2138623,0,0
+2137792,None,Moderate,,"Cytoplasmic	Other",None,None,No,No,N/A,Yes,N/A,N/A,N/A,Yes,Yes,"FISH did not seem to have worked.
+There's more protein in some cell types.",,2137937,0,0
+2138279,Moderate,Moderate,Evenly distributed,Cytoplasmic,Moderate,Moderate,No,No,Yes,Yes,N/A,N/A,Yes,Yes,No,,,2139884,0,0
+2138455,Moderate,Moderate,Evenly distributed,Cytoplasmic,Moderate,Moderate,No,No,Yes,Yes,N/A,N/A,Yes,Yes,No,,,2138828,0,0
+2138563,Moderate,High,Cell type specific,Cell type specific,Moderate,Moderate,No,No,No,No,No,No,Yes,Yes,No,RNA and Protein - glial,,2137846,0,0
+2138343,Moderate,Moderate,Evenly distributed,"Cytoplasmic	Other",Moderate,Moderate,No,No,Yes,Yes,No,No,Yes,Yes,No,Protein expression in CB glia. ,,2138486,0,0
+2138471,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,This is not the central brain..,,2137813,0,0
+2137966,Low,Low,Single transcripts,Cell edges,Low,Low,No,No,Yes,Yes,Yes,No,Yes,Yes,No,,,2138664,0,0
+2138123,High,High,Evenly distributed,Nuclear,High,High,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Translational control in NBs and some progeny cells,,2138776,0,0
+2138603,High,High,Evenly distributed,"Cell edges	Other",Low,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138524,0,0
+2138019,None,None,,,None,None,No,No,No,No,N/A,N/A,No,No,No,,,2138547,0,0
+2138107,Moderate,Moderate,"Evenly distributed	Other","Diffuse	Cytoplasmic",Low,Moderate,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Large RNA aggregation in anlagen cells. ,,2137792,0,0
+2138832,Moderate,High,Single transcripts,Cytoplasmic,High,Low,Yes,No,Yes,No,No,No,Yes,Yes,No,Massive transcription foci - not matching cytoplasmic RNAs,,2138279,0,0
+2138739,High,High,Evenly distributed,"Punctate	Large aggregations",Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138455,0,0
+2137933,Low,None,Single transcripts,,None,None,No,No,Yes,No,N/A,N/A,Yes,No,Yes,,,2138563,0,0
+2139880,Low,None,Single transcripts,,None,Low,Yes,No,No,No,No,No,Yes,No,No,,,2138343,0,0
+2137915,Low,Low,Single transcripts,"Punctate	Diffuse",None,Low,Yes,No,Yes,No,Yes,No,Yes,Yes,No,,,2138471,0,0
+2138601,Moderate,Moderate,More in some cells than others,"Diffuse	Cytoplasmic",High,Moderate,Yes,No,Yes,No,No,No,Yes,Yes,No,Protein expression quite specific to a few glial looking cells next to anlagen. Not very much translated in the CB plane. ,,2137966,0,0
+2138701,Moderate,Low,Evenly distributed,"Cell edges	Cytoplasmic",Moderate,Moderate,Yes,No,Yes,No,No,No,Yes,Yes,No,,,2138123,0,0
+2138770,Low,Moderate,Evenly distributed,Cytoplasmic,Low,Low,No,No,No,No,N/A,N/A,Yes,Yes,No,,,2138603,0,0
+2137907,Low,Moderate,"Single transcripts	More in some cells than others","Punctate	Diffuse",High,Low,Yes,No,Yes,No,Yes,No,Yes,Yes,No,,,2138019,0,0
+2138906,Low,Low,"Single transcripts	Cell type specific","Punctate	Nuclear",None,Low,No,No,Yes,Yes,No,No,Yes,Yes,No,Very specifically expressed in some cells next to anlagen,,2138107,0,0
+2138388,High,High,More in some cells than others,Cytoplasmic,High,High,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,,,2138739,0,0
+2138592,High,Moderate,Evenly distributed,"Cell edges	Cytoplasmic",Moderate,High,No,No,Yes,Yes,N/A,N/A,Yes,Yes,No,,,2139880,0,0
+2138174,Low,High,Single transcripts,Cytoplasmic,None,Low,No,No,Yes,Yes,N/A,N/A,Yes,Yes,Yes,,,2138770,0,0
+2137952,High,Low,Evenly distributed,"Nuclear	Diffuse",Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,,,2138906,0,0
+2138830,High,Moderate,Evenly distributed,"Nuclear	Diffuse	Cytoplasmic",Moderate,High,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Translationally controlled in NBs and early progeny,,2138592,0,0
+2138629,Moderate,High,More in some cells than others,"Cytoplasmic	Cell type specific",Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138174,0,0
+2137823,Low,Low,"Evenly distributed	Single transcripts","Diffuse	Cytoplasmic",Low,Low,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,"Anlagen - RNA present, almost no protein",,2137952,0,0
+2138105,High,High,Evenly distributed,Cytoplasmic,High,High,No,No,Yes,Yes,N/A,N/A,Yes,Yes,No,,,2138830,0,0
+2138166,High,High,Evenly distributed,"Punctate	Cytoplasmic",High,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138629,0,0
+2138737,Moderate,Moderate,More in some cells than others,"Punctate	Cytoplasmic",Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2137823,0,0
+2137755,Moderate,Moderate,Evenly distributed,"Diffuse	Cytoplasmic",Moderate,Moderate,No,No,Yes,Yes,N/A,N/A,Yes,Yes,Yes,Anlagen figure missing,,2138105,0,0
+2138922,Low,Moderate,More in some cells than others,Cell edges,High,Low,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138166,0,0
+2138888,High,Moderate,Evenly distributed,"Nuclear	Diffuse	Cytoplasmic",Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,,2138737,0,0
+2138896,Low,Low,Single transcripts,Punctate,None,Low,Yes,No,Yes,No,N/A,N/A,Yes,Yes,Yes,,,2137755,0,0
+2138783,Low,Low,Single transcripts,Nuclear,Low,Low,Yes,No,Yes,No,Yes,No,Yes,Yes,No,,,2138922,0,0
+2138318,Low,Low,Single transcripts,Cell type specific,None,Low,No,No,No,No,No,No,Yes,Yes,No,Protein expression mainly in the MBs,,2138888,0,0
+2138314,Moderate,Moderate,Evenly distributed,"Punctate	Cytoplasmic",Moderate,Moderate,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,,,2138318,0,0
+2138322,Low,Moderate,"Single transcripts	More in some cells than others","Punctate	Cytoplasmic",Moderate,Low,Yes,No,Yes,No,Yes,No,Yes,Yes,No,"Translational control in NBs, anlagen, and some progeny cells. ",,2138314,0,0
+2138330,Low,Moderate,"Single transcripts	More in some cells than others",Cytoplasmic,Moderate,Low,No,No,Yes,Yes,N/A,N/A,Yes,Yes,No,The Protein panel wrongly shows the DAPI channel. ,,2138330,0,0
+2138353,Low,None,Evenly distributed,,Low,Low,Yes,No,No,No,No,No,Yes,No,No,,,2138353,0,0
+2140584,Low,Low,Evenly distributed,Cytoplasmic,Moderate,Low,No,No,Yes,Yes,N/A,No,Yes,Yes,No,,,,,
+2140575,Low,Low,Single transcripts,Cytoplasmic,None,Low,No,No,No,No,No,Yes,No,Yes,Yes,venus FISH didn't work.,,,,
+2140670,Low,Moderate,"Single transcripts	More in some cells than others","Large aggregations	Cytoplasmic",Low,Moderate,Yes,No,No,No,Yes,Yes,Yes,No,No,,,,,
+2140679,Low,None,Single transcripts,,None,Low,Yes,No,No,No,No,No,Yes,No,No,,,,,
+2140669,Low,None,Single transcripts,,Low,Low,Yes,No,No,No,Yes,No,Yes,No,No,,,,,
+2140671,High,High,Evenly distributed,"Punctate	Nuclear",Moderate,High,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,,,,,
+2140581,Low,Low,"Single transcripts	More in some cells than others","Cytoplasmic	Cell type specific",High,Low,Yes,No,No,No,N/A,No,Yes,Yes,No,,,,,

@@ -1,0 +1,206 @@
+figure_id,What is the level of RNA expression?,What is the level of protein expression?,What patterns does the RNA make?,What patterns does the protein make?,Nascent transcript level,Cytosolic RNA level,Is there obvious RNA/protein discordance (whole image)?,Flag this gene as a potential one to use for a figure in the paper?,Is RNA present in axon terminal?,Is protein present in axon terminal?,Is RNA present in muscle?,Is protein present in muscle?,Is RNA present in post synaptic density?,Is protein present in post synaptic density?,Is RNA present in neuron?,Is protein present in neuron?,Is RNA distribution cell-type specific?,Is protein distribution cell-type specific?,Is figure quality too poor?,General comments
+2137880,Moderate,High,Single transcripts,Other,Moderate,Moderate,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,neuron,neuron,No,"Could be in neuron or glia, it is clearly in the last bit of the neuron but not in boutons."
+2137799,Low,None,Single transcripts,Nuclear,Low,None,No,No,No,No,Yes,No,No,No,No,No,No,No,No,"Almost no RNA, two punctae only."
+2137892,Moderate,None,Single transcripts,Diffuse,High,Low,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,"Very blurry, muscle looks broken and protein distribution is unclear."
+2138082,Low,Low,Nuclear,Diffuse,Low,Low,No,No,No,No,No,No,Yes,No,No,No,No,No,No,
+2138090,High,Moderate,Evenly scattered,"Diffuse	Cytoskeleton (muscle fibres)",Low,High,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Massive snake-like artifact in RNA channel. No HRP staining present.
+2137861,High,Moderate,"Evenly scattered	Single transcripts","Punctate	Diffuse	Cytoskeleton (muscle fibres)",Moderate,High,No,No,Yes,No,Yes,Yes,Yes,No,No,No,muscle,No,No,
+2137961,Moderate,Moderate,Nuclear,Nuclear,High,Low,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,No,
+2137802,Low,None,"Nuclear	Perinuclear (muscle)",None,Moderate,Low,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Many bright punctae nearby nuclei.
+2137973,None,Moderate,"Evenly scattered	Single transcripts","Punctate	Other",Moderate,High,No,No,Yes,Yes,Yes,Yes,No,No,N/A,No,Axon terminal,Axon terminal,No,No dlg hence cannot make decisions about post-synaptic density.
+2137845,High,Moderate,"Evenly scattered	Nuclear",Nuclear,High,Moderate,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,
+2137938,High,Moderate,"Evenly scattered	Single transcripts",Diffuse,Moderate,High,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No HRP staining.
+2137926,Low,Moderate,Nuclear,Cell edges,Low,Low,No,No,No,No,No,No,No,Yes,No,No,No,No,No,It seems like the dlg or the protein channel bled through to the RNA channel. 
+2137826,High,Low,"Evenly scattered	Single transcripts	Nuclear",Diffuse,Moderate,High,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,"Bright, ubiquitous punctae everywhere. Bright transcription foci."
+2138100,Moderate,Low,Other,Diffuse,Low,Low,Yes,No,Yes,Yes,No,No,No,No,No,No,Other cells,No,No,Might be a glial cell. HRP signal is missing.
+2137857,High,Moderate,"Single transcripts	Cell type specific",Other,High,Moderate,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Other cells,Other cells,No,Seems to be in glia.
+2137957,Low,High,Single transcripts,"Cell edges	Other",None,Low,No,No,No,No,Yes,Yes,Yes,Yes,N/A,No,No,No,No,Protein overlaps perfectly with dlg expression.
+2137849,High,Moderate,Evenly scattered,"Punctate	Nuclear",High,Moderate,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Lots of RNA and protein in the nucleus
+2137834,High,Low,"Evenly scattered	Single transcripts","Diffuse	Cytoskeleton (muscle fibres)",Moderate,High,No,No,No,No,Yes,Yes,Yes,No,Yes,No,muscle,muscle,No,Ubiquitous RNA punctae everywhere in the muscle.
+2138112,Moderate,Low,Single transcripts,Punctate,Low,Moderate,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,
+2137971,Moderate,Low,Single transcripts,Other,Low,Moderate,No,No,No,No,Yes,No,Yes,Yes,N/A,No,No,post synaptic density,No,
+2137871,Moderate,Moderate,"Single transcripts	Nuclear","Cell edges	Other",Moderate,Moderate,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Other cells,No,I would hypothesise the protein is in glia.
+2137863,Low,None,Nuclear,None,Moderate,Low,No,No,No,No,No,No,No,No,No,No,No,No,No,
+2137963,Low,Low,"Single transcripts	Nuclear",Other,Moderate,Moderate,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,post synaptic density,No,
+2138110,Moderate,Low,Single transcripts,"Diffuse	Cytoskeleton (muscle fibres)",Low,Moderate,No,No,No,No,Yes,Yes,Yes,No,N/A,No,No,No,No,Seems a little concentrated in the post-synaptic density.
+2137836,Low,Low,Single transcripts,Diffuse,Moderate,Low,No,No,No,No,No,No,Yes,No,No,No,No,No,No,
+2137936,Moderate,Moderate,Nuclear,Cell edges,High,None,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Axon terminal,Yes,Blurry figure.
+2137855,Low,Moderate,"Single transcripts	Nuclear",Diffuse,Low,Low,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,
+2137955,High,Moderate,Evenly scattered,Cell edges,Moderate,Low,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,
+2138073,Low,Low,Single transcripts,Diffuse,Low,Low,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No HRP signal.
+2137828,Moderate,Moderate,"Single transcripts	Cell type specific",Cell edges,None,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Other cells,Other cells,No,This is likely a glial protein!
+2137959,Moderate,Low,"Evenly scattered	Single transcripts",Diffuse,Low,Moderate,No,No,Yes,No,Yes,Yes,Yes,No,N/A,No,No,No,No,
+2137859,High,High,"Evenly scattered	Single transcripts",Cell edges,Moderate,High,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,post synaptic density,No,
+2138102,Low,Low,Single transcripts,Cell edges,Moderate,Low,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,
+2137947,Moderate,Moderate,"Single transcripts	Nuclear",Diffuse,Low,Moderate,No,No,Yes,No,Yes,Yes,N/A,No,N/A,No,No,No,Yes,No dlg staining.
+2137847,Low,Low,Nuclear,Diffuse,Low,None,No,No,No,No,No,No,No,No,No,No,No,No,No,RNA only in the nuclei.
+2138061,High,Moderate,"Single transcripts	Nuclear",Cell edges,High,Low,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,neuron,No,
+2137882,Moderate,Moderate,Evenly scattered,Punctate,None,Moderate,No,No,Yes,No,Yes,Yes,No,No,Yes,No,muscle,muscle,No,
+2137797,Moderate,Low,"Evenly scattered	Nuclear	Perinuclear (muscle)",Cytoskeleton (muscle fibres),High,Moderate,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,
+2138092,Moderate,Moderate,"Evenly scattered	Single transcripts",Cell edges,Moderate,High,No,No,No,No,Yes,No,No,Yes,No,No,No,post synaptic density,No,No HRP. Appears like there is no RNA in post-synaptic plasticity but there is a lot of protein.
+2138106,Low,Low,Single transcripts,Punctate,None,Low,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,
+2137943,High,High,"Nuclear	Perinuclear (muscle)",Nuclear,High,Moderate,No,No,No,No,Yes,Yes,Yes,No,No,No,No,muscle,No,Protein in muscle cell nuclei.
+2137843,Moderate,High,"Single transcripts	Nuclear","Cell edges	Other",High,Low,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Axon terminal,No,Circles of protein filling in the postsynaptic density and overlapping with the HRP signal.
+2138114,Low,Low,Single transcripts,Punctate,None,Moderate,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,
+2137832,Low,Low,"Single transcripts	Nuclear",Diffuse,Moderate,Low,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Not sure if protein is there at all. Very diffuse.
+2137932,Low,Low,None,Punctate,Moderate,None,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,"RNA channel looks very overcontrasted and I am not sure where the single molecules are, or if there are any at all."
+2137851,Low,Low,Single transcripts,Punctate,Moderate,Low,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Random blobs which maybe look like unspecific/contamination?
+2138077,Low,Low,Single transcripts,Diffuse,None,Low,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,Yes,NMJ is destroyed here at least partially.
+2137867,High,Moderate,Evenly scattered,Punctate,Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Punctate of protein and RNA everywhere in the image.
+2137916,High,Moderate,"Single transcripts	Nuclear","Diffuse	Cytoskeleton (muscle fibres)",High,Moderate,No,No,No,No,Yes,Yes,Yes,No,No,No,No,muscle,No,
+2137908,Moderate,Moderate,"Evenly scattered	Single transcripts","Punctate	Diffuse",Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Many bright spots of both the RNA and the protein.
+2138096,Moderate,Moderate,Nuclear,Cell edges,High,None,Yes,No,No,Yes,Yes,No,No,No,N/A,No,No,Axon terminal,No,
+2138088,None,None,None,None,None,None,No,No,No,No,No,No,No,No,No,No,No,No,Yes,"Everything is fuzzy, no single RNA molecules, no protein."
+2137886,Moderate,High,Single transcripts,Punctate,High,Moderate,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,post synaptic density,No,Punctate like Bruchpilot. No HRP so answers based on guesswork.
+2138094,Moderate,Moderate,"Evenly scattered	Nuclear",Nuclear,Moderate,Moderate,Yes,No,No,No,Yes,Yes,Yes,No,N/A,No,No,muscle,No,Nuclear protein.
+2138098,Moderate,Moderate,"Evenly scattered	Nuclear",Other,High,Moderate,No,No,Yes,Yes,Yes,Yes,N/A,No,N/A,No,No,Other cells,No,protein in axon terminal and tracheal cells.
+2137888,High,Moderate,Evenly scattered,"Diffuse	Cytoskeleton (muscle fibres)",High,High,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,
+2137884,Moderate,Low,Single transcripts,"Punctate	Diffuse",None,Moderate,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,There's a big blob of protein in the middle and I am not sure it is true signal.
+2137853,High,High,"Evenly scattered	Perinuclear (muscle)",Cell edges,Moderate,High,Yes,No,No,No,Yes,No,No,Yes,No,No,muscle,post synaptic density,No,Perfect overlap of the Dlg and the protein.
+2137953,High,Moderate,"Single transcripts	Nuclear",Nuclear,High,Moderate,No,No,Yes,No,Yes,Yes,N/A,No,N/A,No,No,No,Yes,No dgl staining
+2137830,High,Low,Evenly scattered,Nuclear,Low,High,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,muscle,No,The protein appears to be solely in the nucleolus.
+2137930,Low,Moderate,"Single transcripts	Nuclear	Perinuclear (muscle)","Diffuse	Cytoskeleton (muscle fibres)",Moderate,Low,No,No,No,No,Yes,Yes,Yes,No,No,No,No,muscle,No,
+2137841,Low,High,"Single transcripts	Nuclear","Cell edges	Other",High,Low,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Axon terminal,Axon terminal,No,"""Circles"" of protein filling in the post-synaptic density."
+2137822,Moderate,High,"Single transcripts	Nuclear",Other,High,Moderate,No,No,No,Yes,No,No,No,No,No,No,No,post synaptic density,No,"Again not sure what is signal, went by intuition. Transcription foci very bright, but otherwise not sure."
+2138104,Low,None,Single transcripts,None,None,Low,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Extremely diffuse protein and RNA channels. Almost no single molecules can be seen. No dlg.
+2137914,Low,None,Other,None,None,Low,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,"Very diffuse RNA signal, no protein signal."
+2137918,Moderate,High,"Evenly scattered	Single transcripts",Cell edges,Low,High,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,post synaptic density,No,No HRP - cannot answer questions about axon terminal with confidence.
+2137865,Moderate,Low,"Single transcripts	Nuclear",Punctate,Moderate,Low,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,
+2137965,High,High,"Evenly scattered	Single transcripts",Other,Low,Moderate,No,No,No,No,Yes,No,Yes,Yes,N/A,No,post synaptic density,post synaptic density,No,
+2137927,Moderate,Low,Single transcripts,Punctate,None,Low,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,
+2138101,Low,Moderate,Single transcripts,Nuclear,Low,Low,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Nuclear protein.
+2137839,Low,None,Nuclear,None,High,None,No,No,No,No,No,No,No,No,No,No,No,No,No,"Almost no RNA, as far as I am concerned, anywhere outside the nucleus."
+2137939,Low,Low,Nuclear,Punctate,Low,None,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Barely see any single molecules of RNA in the muscle.
+2137844,Moderate,Moderate,Single transcripts,Cell edges,High,Moderate,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Axon terminal,No,
+2137935,Low,Low,None,Other,Low,None,No,No,No,No,Yes,Yes,No,No,No,No,No,Other cells,No,No single molecules of RNA visible. Seems like protein is in the trachea which is in the corner of the image.
+2137835,Moderate,Low,Single transcripts,Other,Low,Low,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,neuron,No,No protein anywhere in the synapse. Only present in a nerve which is lying on top of the synapse.
+2138113,Moderate,Moderate,"Single transcripts	Nuclear",Cell edges,Moderate,Moderate,No,No,No,No,Yes,No,Yes,Yes,No,No,No,post synaptic density,No,
+2138070,High,Moderate,"Evenly scattered	Other","Punctate	Cell edges",Moderate,High,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,post synaptic density,No,
+2137956,None,Moderate,Single transcripts,Nuclear,High,Low,No,No,No,No,Yes,Yes,Yes,No,No,No,No,muscle,No,
+2137856,High,High,Evenly scattered,Cytoskeleton (muscle fibres),Moderate,High,No,No,No,No,Yes,Yes,Yes,No,Yes,No,muscle,muscle,No,
+2137960,Moderate,Low,Nuclear,Diffuse,Moderate,None,No,No,No,No,Yes,Yes,Yes,No,No,No,No,muscle,No,
+2137860,Low,Low,Single transcripts,Other,Low,Low,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Other cells,Yes,"I suspect there is an artifact in this figure, where a piece of something strongly fluorescent in green channel is lying on top of the prep."
+2137972,Low,Low,Single transcripts,Other,None,Low,No,No,Yes,Yes,No,No,Yes,Yes,N/A,No,No,No,No,No dlg or HRP visible.
+2138083,Low,Low,Nuclear,Punctate,Low,Low,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,"Very diffuse RNA, not sure what is signal and what isn't."
+2137981,Moderate,Moderate,"Evenly scattered	Single transcripts",Cell edges,Low,Moderate,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Other cells,neuron,No,Lots of protein in the neuron which is in the corner of the image.
+2137881,Low,Low,Single transcripts,Diffuse,None,Low,No,No,Yes,No,Yes,Yes,Yes,No,N/A,No,No,No,No,
+2137893,None,Low,None,Diffuse,None,None,Yes,No,No,No,No,Yes,No,No,No,No,No,muscle,Yes,No RNA visible at all.
+2138081,High,High,Evenly scattered,"Cell edges	Other",Moderate,High,No,No,No,No,Yes,No,Yes,Yes,No,No,No,post synaptic density,No,
+2137983,Low,Moderate,Single transcripts,Nuclear,Moderate,Low,No,No,Yes,No,Yes,Yes,N/A,No,No,No,No,muscle,No,
+2137883,Moderate,Low,Evenly scattered,Diffuse,High,Moderate,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,
+2137829,Moderate,High,"Single transcripts	Cell type specific",Cell edges,None,Moderate,No,Yes,No,No,No,No,No,No,Yes,Yes,Other cells,Other cells,No,"This, likely, is a glial protein."
+2137954,High,Low,"Single transcripts	Cell type specific",Punctate,Low,Moderate,Yes,No,Yes,No,Yes,No,Yes,No,N/A,No,Other cells,No,No,"RNA seems to be concentrated nearby the initial bit of the synapse, possibly in glia."
+2137854,Moderate,Moderate,"Nuclear	Perinuclear (muscle)","Diffuse	Cytoskeleton (muscle fibres)",High,Low,No,No,No,No,Yes,Yes,No,No,No,No,muscle,No,No,
+2138072,High,Moderate,Single transcripts,Cytoskeleton (muscle fibres),Low,High,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Axon terminal,No,No, Clearly lots of RNA in axon terminal.
+2138111,Low,High,Nuclear,Cell edges,Moderate,None,Yes,No,No,No,No,No,No,Yes,No,No,No,post synaptic density,No,
+2137837,High,Low,Evenly scattered,"Diffuse	Cytoskeleton (muscle fibres)",Moderate,Moderate,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Ubiquitous evenly spaced single transcripts and VERY diffuse protein.
+2138060,Low,Moderate,Single transcripts,Nuclear,Low,Low,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,"RNA single transcripts everywhere, protein in nuclei only."
+2137825,Moderate,None,"Single transcripts	Nuclear",None,High,Moderate,No,No,No,No,Yes,No,No,No,No,No,No,No,No,
+2137858,High,Moderate,"Evenly scattered	Single transcripts",Nuclear,Moderate,Moderate,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,muscle,muscle,Yes,HRP stain missing.
+2137958,Low,Moderate,Nuclear,"Diffuse	Cytoskeleton (muscle fibres)",Low,None,No,No,No,No,Yes,Yes,No,No,N/A,No,No,muscle,No,
+2137870,Moderate,Moderate,"Single transcripts	Perinuclear (muscle)",Other,Moderate,Moderate,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Other cells,Other cells,No,Seems to be in the neuron and in the glia at the NMJ.
+2137970,Moderate,Low,Evenly scattered,Diffuse,Low,Moderate,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,"No DLG, so guessing that there is RNA in post-synaptic density based on its distribution nearby HRP stain."
+2137913,None,High,None,Cell edges,None,None,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,"Protein overlaps perfectly with Dlg. Not a single molecule of RNA which I can see, not even in the nuclei. No HRP visible."
+2137962,Moderate,Moderate,Single transcripts,Punctate,None,Moderate,No,No,Yes,No,Yes,Yes,Yes,No,N/A,No,No,No,No,
+2137862,High,Moderate,Evenly scattered,"Punctate	Cytoskeleton (muscle fibres)",Moderate,High,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,
+2137899,Moderate,Moderate,Nuclear,"Nuclear	Diffuse	Cytoskeleton (muscle fibres)",Moderate,None,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,I see no RNA outside the muscle nuclei.
+2137887,Low,Low,Evenly scattered,Cytoskeleton (muscle fibres),None,Low,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,
+2138085,Low,Moderate,"Single transcripts	Nuclear",Cell edges,Low,Low,No,No,No,No,Yes,No,Yes,Yes,No,No,No,post synaptic density,No,
+2138097,Moderate,Moderate,Evenly scattered,Nuclear,Low,Moderate,Yes,No,No,No,Yes,Yes,Yes,No,N/A,No,No,No,No,Nuclear protein. No HRP signal.
+2137866,Moderate,Moderate,Single transcripts,"Cell edges	Other",Moderate,Low,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Other cells,Other cells,No,Might be a glial protein.
+2137978,Low,Low,Nuclear,"Nuclear	Other",Low,None,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No HRP signal visible. Protein seems perinuclear.
+2137878,High,High,Evenly scattered,Cell edges,Moderate,High,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,post synaptic density,No,Perfect overlap of protein and Dlg.
+2137974,High,Moderate,"Evenly scattered	Single transcripts",Other,Moderate,High,Yes,No,Yes,Yes,Yes,No,Yes,No,N/A,No,Other cells,Other cells,No,Seems like protein is in perisynaptic glia.
+2137917,Moderate,Moderate,Evenly scattered,Nuclear,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Protein in muscle nuclei and in axon terminal where HRP is.
+2137842,Low,Low,Nuclear,Diffuse,High,Low,No,No,No,No,Yes,Yes,No,No,No,No,No,muscle,No,"Very diffuse protein in the muscle. I can only see one single RNA molecule in the muscle, rest is in the nuclei in transcription foci."
+2137942,High,Moderate,"Evenly scattered	Single transcripts",Cytoskeleton (muscle fibres),Low,High,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,
+2137821,Low,Moderate,"Nuclear	Perinuclear (muscle)",Nuclear,Moderate,Low,No,No,No,No,Yes,Yes,No,No,No,No,muscle,No,No,Bright nuclei full of that protein.
+2137921,High,High,Evenly scattered,Cell edges,Moderate,High,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,post synaptic density,No,
+2137833,Low,Low,"Single transcripts	Nuclear","Punctate	Nuclear",High,Moderate,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,Protein in big puncta in the nucleus.
+2137868,Moderate,Moderate,"Single transcripts	Nuclear","Diffuse	Cytoskeleton (muscle fibres)",Moderate,Low,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,
+2137876,Moderate,Moderate,"Single transcripts	Nuclear",Punctate,Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,"Bright protein punctate everywhere in the muscle, quite ubiquitous."
+2137976,Moderate,Moderate,"Evenly scattered	Nuclear",Nuclear,Moderate,Low,No,No,No,No,Yes,Yes,Yes,No,N/A,No,No,muscle,No,
+2137763,Moderate,Low,Single transcripts,Diffuse,Low,Moderate,No,No,Yes,No,Yes,Yes,Yes,No,N/A,No,No,No,No,
+2137864,Low,Moderate,Nuclear,"Nuclear	Cytoskeleton (muscle fibres)",Moderate,Moderate,No,No,No,No,Yes,Yes,Yes,No,No,No,No,muscle,No,
+2137919,Low,Moderate,"Single transcripts	Nuclear	Cell type specific",Nuclear,High,Low,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,muscle,No,Protein in muscle cell nuclei.
+2137819,Low,None,Single transcripts,None,Moderate,Low,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Not sure what is signal and what is not on the figure.
+2137831,Moderate,Low,Single transcripts,Diffuse,High,Moderate,No,No,No,No,Yes,No,No,No,No,No,No,No,No,"Very very diffuse protein distribution, almost not sure if it is there."
+2137852,Moderate,Moderate,Nuclear,"Diffuse	Cytoskeleton (muscle fibres)",High,Moderate,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,
+2138009,Low,Low,Single transcripts,Punctate,Moderate,Low,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Not sure what is signal and what is unspecific here.
+2138078,Low,Low,"Single transcripts	Nuclear",Punctate,Low,Low,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Nucleolus protein.
+2137840,Low,Moderate,Single transcripts,Punctate,High,None,No,No,No,No,No,No,No,No,No,No,No,No,No,RNA only seems to be in transcription foci. Protein is making one giant blob in the middle of the image and there is no more anywhere else.
+2137885,Moderate,Moderate,Evenly scattered,Nuclear,Moderate,Moderate,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No HRP visible so cannot accurately answer about nerve.
+2138099,High,Moderate,Single transcripts,"Punctate	Nuclear",Moderate,High,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No dlg signal. Nuclear protein.
+2138211,Low,Moderate,"Single transcripts	Nuclear",Nuclear,Low,Low,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Nuclear protein.
+2138203,Moderate,Low,Evenly scattered,Punctate,None,Low,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Synapse and muscle might be destroyed in this image.
+2139921,High,High,Evenly scattered,Cell edges,Moderate,High,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Axon terminal,No,
+2138235,High,Low,Evenly scattered,Diffuse,Moderate,High,Yes,No,Yes,No,Yes,No,Yes,No,N/A,No,No,No,No,
+2138244,Low,High,Single transcripts,Cell edges,Low,Low,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,post synaptic density,No,Dlg stain seems to have failed. Protein seems to have the exact pattern dlg would have.
+2138227,Moderate,High,"Single transcripts	Cell type specific","Cell edges	Other",Moderate,Moderate,No,No,No,No,Yes,No,Yes,Yes,N/A,No,No,post synaptic density,No,No dlg signal but protein looks exactly like dlg would.
+2138155,Moderate,High,Single transcripts,Cell edges,Moderate,Moderate,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Other cells,No,"Protein is around the axon terminal but not everywhere where HRP is, and everywhere in the nerve, so probably glial."
+2138163,Low,High,None,Cell edges,Low,None,No,No,No,Yes,No,No,No,No,N/A,No,No,Axon terminal,No,"RNA signal is literally a haze, I don't see any single molecules. The only bright spot seems to be random and a bit too big to be a single molecule. Protein seems to be neuron specific."
+2138145,Moderate,High,Single transcripts,Cell edges,Moderate,Low,No,No,No,No,Yes,No,Yes,Yes,No,No,No,post synaptic density,No,"Green and Red channels seem shifted one versus another where they should be overlapping, and there is a massive black artefact in the bottom of the image."
+2138201,Moderate,Low,Evenly scattered,Diffuse,None,Moderate,No,No,Yes,No,Yes,No,Yes,No,N/A,No,No,No,No,
+2138213,Low,Low,"Single transcripts	Nuclear",Diffuse,Moderate,Low,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Protein and RNA signal super diffuse.
+2138270,Moderate,Moderate,"Single transcripts	Perinuclear (muscle)","Nuclear	Other",Moderate,Low,No,No,Yes,No,Yes,Yes,Yes,No,N/A,No,No,muscle,No,Protein is nuclear. HRP pale.
+2138225,High,High,Evenly scattered,"Cell edges	Cytoskeleton (muscle fibres)",Low,High,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,post synaptic density,Yes,"No dlg signal, but protein looks exactly like dlg would look."
+2138237,Low,Low,Single transcripts,Diffuse,None,Low,No,No,Yes,No,No,No,No,No,No,No,No,No,No,"No dlg, RNA signal very diffuse protein and RNA. There is an artefact in the protein channel which I don't see in the overlay image. I only see one single molecule of RNA."
+2138118,Low,Low,"Single transcripts	Nuclear",Nuclear,Moderate,Low,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Nuclear protein. No HRP signal so cannot tell if the RNA is in the axon terminal or the postsynaptic density.
+2138169,Moderate,High,Cell type specific,Cell edges,None,Moderate,Yes,No,Yes,No,Yes,No,Yes,Yes,N/A,No,Axon terminal,post synaptic density,No,"The entire RNA signal looks very bright and it is probably not single molecules, not sure if real. Protein aligns perfectly with DLG."
+2138122,Moderate,Moderate,"Evenly scattered	Single transcripts",Punctate,Low,Moderate,No,No,Yes,No,Yes,No,Yes,Yes,No,No,post synaptic density,post synaptic density,No,"Not sure if protein, and therefore RNA, pre- or posysynaptic"
+2138233,Low,High,Evenly scattered,Cell edges,Low,Low,No,No,No,No,Yes,No,Yes,Yes,N/A,No,No,post synaptic density,No,Figure same as Ptp69D.
+2138196,Low,None,Single transcripts,None,Low,Low,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Figure quality might be too poor.
+2138221,Moderate,High,Evenly scattered,"Punctate	Cell edges",Low,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Axon terminal,No,
+2138242,Low,Low,Single transcripts,"Punctate	Cell edges",None,Low,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,RNA and protein extremely diffuse. No dlg signal.
+2138217,Moderate,Low,"Evenly scattered	Nuclear",Diffuse,Moderate,Moderate,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,
+2138209,Moderate,Low,Single transcripts,"Diffuse	Cytoskeleton (muscle fibres)",Moderate,Low,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Cannot see single RNA molecules.
+2138205,Moderate,Moderate,Evenly scattered,Diffuse,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,N/A,No,No,No,No,
+2138240,Low,Low,Single transcripts,Punctate,Low,Low,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,"RNA very diffuse, single molecules very pale."
+2138223,High,High,"Evenly scattered	Single transcripts","Cell edges	Other",Moderate,High,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,post synaptic density,No,"Protein ""fills in"" DLG, seems to be presynaptic."
+2138198,Moderate,High,"Single transcripts	Nuclear",Cell edges,Moderate,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Axon terminal,No,"RNA signal is a bright haze, not sure if there is any there. Compared to other genes, I see no single transcripts there."
+2138231,Low,Moderate,Single transcripts,"Cell edges	Other",Moderate,Low,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,post synaptic density,No,Protein definitely in the nerve and in the boutons.
+2138219,High,High,Other,"Punctate	Nuclear	Other",None,High,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Axon terminal,neuron,No,"RNA seems really diffuse, looks like HRP signal exactly. Very confusing. Protein looks very bright and like it is in the neuron."
+2138207,High,Moderate,Evenly scattered,"Cytoskeleton (muscle fibres)	Other",Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,No,N/A,No,No,Axon terminal,No,Protein either in axon terminal or in glia. This figure is the same as for CG9650.
+2138215,Moderate,Low,Single transcripts,Diffuse,Moderate,Moderate,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,smFISH really diffuse
+2138175,Moderate,None,Evenly scattered,Diffuse,Low,Moderate,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No DLG signal.
+2138116,High,Moderate,Evenly scattered,Diffuse,None,High,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,RNA is dense and everywhere.
+2138143,Low,Low,Single transcripts,Other,Moderate,Low,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,
+2138146,Low,Low,Single transcripts,Cell edges,Low,Low,No,No,No,No,No,No,Yes,No,No,No,No,No,No,
+2138154,Moderate,Low,Evenly scattered,Diffuse,Moderate,Moderate,No,No,No,No,Yes,Yes,Yes,No,N/A,No,No,No,No,Bright green blob in right top corner seems to be an artefact.
+2138234,Moderate,Moderate,Single transcripts,"Cell edges	Other",Moderate,Moderate,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Other cells,Other cells,Yes,"This is a bad image, I know this for a fact because this is a glial protein which I work with. The protein and RNA should be around the axon terminal start and the RNA is but protein seems really diffuse and weird. I will answer the questions based on my images which I took before. Also, no dlg signal. Next time I do smFISH I can do a better image for this protein if necessary."
+2138226,High,Low,Evenly scattered,Punctate,Moderate,High,No,No,Yes,Yes,Yes,Yes,Yes,No,N/A,No,No,No,No,
+2138191,Low,None,Single transcripts,None,None,None,No,No,No,No,No,No,No,No,No,No,No,No,No,"Signal blurry, no clear spots. Not sure if there is any RNA or protein there. "
+2138238,High,High,Evenly scattered,"Cell edges	Cytoskeleton (muscle fibres)",Low,None,No,No,No,No,Yes,Yes,Yes,Yes,N/A,No,No,post synaptic density,No,Protein seems to be in the same places as dlg.
+2138210,Moderate,Moderate,Evenly scattered,Cell edges,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,N/A,No,No,neuron,Yes,RNA singal super bright. No Dlg signal.
+2138273,Low,Low,"Single transcripts	Nuclear","Punctate	Nuclear",Low,Low,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Can't see HRP. Nucleolar protein possibly.
+2138202,High,High,"Evenly scattered	Nuclear",Cell edges,High,High,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,post synaptic density,No,Protein aligns perfectly with Dlg.
+2138261,Low,Moderate,Single transcripts,Other,Low,Low,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,neuron,No,"It is possible this NMJ is destroyed, I see loose nerves and it seems that the muscle is a bit broken. Protein very clearly is everywhere in the nerve."
+2138224,Low,Low,Single transcripts,"Punctate	Diffuse",Moderate,Low,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,"Both RNA and protein really diffuse, not sure if it is there or not. No dlg signal."
+2138228,Low,High,Evenly scattered,Cell edges,Low,Low,No,No,No,No,Yes,No,Yes,Yes,N/A,No,No,post synaptic density,No,Protein definitely posystnaptic. Figure same as sdc.
+2138236,Moderate,Low,Evenly scattered,Diffuse,Moderate,Moderate,No,No,Yes,No,Yes,No,Yes,No,N/A,No,No,No,No,Weird black artefact in the middle of the NMJ.
+2138200,Moderate,Moderate,Evenly scattered,"Punctate	Cell edges",Low,Moderate,No,No,Yes,No,Yes,Yes,Yes,No,N/A,No,No,No,No,
+2138212,Low,Low,Cell type specific,Cell edges,Low,Low,No,No,Yes,Yes,Yes,No,No,No,N/A,No,Other cells,Other cells,No,Protein and RNA seem to be in axon terminal and perisynaptic glia.
+2138144,Moderate,Low,"Single transcripts	Nuclear",Diffuse,Moderate,Low,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,"RNA signal overcontrasted, I cannot see single molecules at all."
+2138208,Low,Low,Single transcripts,Punctate,None,Low,No,No,Yes,No,Yes,Yes,No,No,N/A,No,No,No,Yes,
+2138216,Low,Low,Single transcripts,Diffuse,None,Low,No,No,Yes,No,Yes,No,Yes,No,N/A,No,No,No,No,Almost no protein.
+2138204,Moderate,Low,Evenly scattered,Diffuse,Low,Moderate,No,No,Yes,No,Yes,Yes,Yes,No,N/A,No,Axon terminal,No,No,RNA might be either in axon terminal or in perisynaptic glia.
+2138185,Moderate,None,Evenly scattered,None,None,Moderate,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,RNA so faint I am not sure it is signal. No protein signal.
+2138232,Low,Low,Single transcripts,"Cell edges	Other",Moderate,Low,No,No,Yes,Yes,Yes,No,No,No,N/A,No,Other cells,Other cells,Yes,"No dlg signal. Protein seems to be at the beginning of the axon terminal, possibly it is in the perisynaptic glia."
+2138131,Low,Moderate,Nuclear,Nuclear,Moderate,None,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,"Seems to be nuclear only, in glial nuclei inside the nerve and muscle nuclei."
+2138164,Moderate,Low,"Single transcripts	Nuclear",Nuclear,Low,None,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,muscle,No,Possibly nucleolar protein. Massive bright green spots in the nuclei.
+2138115,Low,Moderate,Single transcripts,Cell edges,Low,Low,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,neuron,No,"Not sure what is signal and what isn't. Additionally, HRP signal is invisible."
+2138142,Low,Low,Evenly scattered,Diffuse,Low,Low,No,No,Yes,No,Yes,Yes,Yes,No,N/A,No,No,muscle,Yes,
+2138206,Moderate,Low,Single transcripts,Diffuse,None,Moderate,No,No,No,No,No,No,No,No,No,No,No,No,No,NMJ is really bad and maybe destroyed.
+2138218,Moderate,Low,Single transcripts,Diffuse,Moderate,Moderate,No,No,Yes,No,Yes,Yes,Yes,No,N/A,No,No,No,No,"Very diffuse, not sure what signal. Not sure if there is any protein at all."
+2138269,Moderate,Low,"Single transcripts	Nuclear","Diffuse	Cytoskeleton (muscle fibres)",High,Low,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,
+2138214,None,Moderate,Single transcripts,Nuclear,None,None,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Nucleolar protein. Seems like FISH didn't work.
+2138222,Moderate,None,Single transcripts,None,Moderate,Moderate,No,No,Yes,No,Yes,No,No,No,N/A,No,No,No,No,"No HRP signal, no protein signal."
+2138230,Low,Moderate,Single transcripts,Other,Moderate,Low,Yes,No,Yes,No,Yes,Yes,Yes,No,N/A,No,No,No,No,Looks like protein is only in a tiny piece of folded trachea lying in the bottom of the image.
+2138220,High,Low,Evenly scattered,Diffuse,Moderate,High,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No dlg signal. Protein extremely diffuse.
+2142954,Moderate,Moderate,"Single transcripts	Nuclear","Diffuse	Cytoskeleton (muscle fibres)",High,Moderate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,
+2125613,None,Moderate,None,Other,None,None,No,No,No,Yes,No,No,No,No,No,Yes,No,Other cells,No,Definitely a glial protein
+2125621,Low,Moderate,Single transcripts,"Nuclear	Diffuse	Cytoskeleton (muscle fibres)",High,Low,No,No,Yes,No,Yes,Yes,N/A,No,N/A,No,No,muscle,No,
+2140570,Moderate,Moderate,Nuclear,Diffuse,High,Moderate,No,No,No,No,Yes,Yes,N/A,No,N/A,No,muscle,muscle,No,
+2138239,Moderate,Moderate,Evenly scattered,Other,None,High,No,No,Yes,Yes,Yes,No,Yes,No,N/A,No,No,Other cells,Yes,RNA so oversaturated I cannot tell where it is. Protein seems to be in glia.
+2140571,None,Low,None,Punctate,None,None,No,No,No,Yes,No,Yes,N/A,No,N/A,No,No,Axon terminal,Yes,No RNA apart from a giant unspecific blob which I think is an artefact.
+2140582,Moderate,Low,"Evenly scattered	Nuclear",Diffuse,High,Moderate,Yes,No,Yes,No,Yes,Yes,Yes,No,N/A,No,No,No,No,

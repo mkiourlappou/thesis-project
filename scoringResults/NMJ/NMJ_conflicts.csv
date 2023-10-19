@@ -1,0 +1,61 @@
+Figure_ID,Question,Scorer 1,Scorer 2,Scorer 3
+2125613,What is the level of protein expression?,High,Moderate,None
+2137822,Cytosolic RNA level,High,Moderate,None
+2137825,What is the level of protein expression?,Low,None,High
+2137826,Nascent transcript level,None,Moderate,High
+2137829,Is RNA present in post synaptic density?,nan,No,Yes
+2137832,Is RNA present in axon terminal?,nan,Yes,No
+2137854,What is the level of RNA expression?,High,Moderate,None
+2137858,Is RNA present in neuron?,nan,Yes,No
+2137860,Nascent transcript level,High,Low,None
+2137866,What is the level of protein expression?,High,Moderate,None
+2137866,Is RNA present in axon terminal?,nan,Yes,No
+2137876,Is RNA present in axon terminal?,nan,Yes,No
+2137881,Is RNA present in post synaptic density?,nan,Yes,No
+2137881,Is RNA present in neuron?,Yes,nan,No
+2137927,Is RNA present in post synaptic density?,nan,Yes,No
+2137938,Nascent transcript level,None,Moderate,High
+2137953,Is RNA present in post synaptic density?,No,nan,Yes
+2137953,Is RNA present in neuron?,No,nan,Yes
+2137954,Is RNA present in neuron?,No,nan,Yes
+2137958,Is RNA present in neuron?,No,nan,Yes
+2137959,Is RNA present in neuron?,No,nan,Yes
+2137961,Nascent transcript level,Moderate,High,None
+2137965,Nascent transcript level,High,Low,None
+2137965,Is RNA present in neuron?,No,nan,Yes
+2137970,Nascent transcript level,High,Low,None
+2137970,Is RNA present in neuron?,nan,No,Yes
+2137972,Is RNA present in neuron?,No,nan,Yes
+2137973,Is RNA present in post synaptic density?,nan,No,Yes
+2137976,Is RNA present in neuron?,No,nan,Yes
+2137981,Is RNA present in axon terminal?,nan,Yes,No
+2138060,Is RNA present in neuron?,nan,No,Yes
+2138078,Nascent transcript level,High,Low,None
+2138078,Is RNA present in post synaptic density?,nan,No,Yes
+2138100,Is RNA present in post synaptic density?,nan,No,Yes
+2138101,Is RNA present in neuron?,nan,No,Yes
+2138113,Is RNA present in axon terminal?,nan,No,Yes
+2138114,Is RNA present in axon terminal?,nan,Yes,No
+2138122,Is RNA present in neuron?,nan,No,Yes
+2138145,Is RNA present in neuron?,nan,No,Yes
+2138163,Is RNA present in neuron?,Yes,nan,No
+2138164,Is RNA present in neuron?,nan,No,Yes
+2138210,Is RNA present in post synaptic density?,nan,No,Yes
+2138212,Is RNA present in neuron?,Yes,nan,No
+2138216,Is RNA present in axon terminal?,nan,Yes,No
+2138216,Is RNA present in neuron?,Yes,nan,No
+2138225,Nascent transcript level,High,Low,None
+2138227,Is RNA present in neuron?,No,nan,Yes
+2138235,Is RNA present in neuron?,No,nan,Yes
+2138239,What is the level of RNA expression?,High,Moderate,None
+2138239,What is the level of protein expression?,High,Moderate,None
+2138239,Is RNA present in axon terminal?,nan,Yes,No
+2138239,Is RNA present in post synaptic density?,nan,Yes,No
+2138239,Is RNA present in neuron?,Yes,nan,No
+2138242,Is RNA present in neuron?,nan,No,Yes
+2138270,Is RNA present in neuron?,No,nan,Yes
+2140570,Is RNA present in neuron?,Yes,nan,No
+2140571,Is RNA present in neuron?,Yes,nan,No
+2140582,Is RNA present in post synaptic density?,nan,Yes,No
+2140582,Is RNA present in neuron?,Yes,nan,No
+2142954,Is RNA present in post synaptic density?,nan,Yes,No

@@ -1,0 +1,210 @@
+figure_id,What is the level of RNA expression?,What is the level of protein expression?,What patterns does the RNA make?,What patterns does the protein make?,Nascent transcript level,Cytosolic RNA level,Is there obvious RNA/protein discordance (whole image)?,Flag this gene as a potential one to use for a figure in the paper?,Is RNA present in axon terminal?,Is protein present in axon terminal?,Is RNA present in muscle?,Is protein present in muscle?,Is RNA present in post synaptic density?,Is protein present in post synaptic density?,Is RNA present in neuron?,Is protein present in neuron?,Is RNA distribution cell-type specific?,Is protein distribution cell-type specific?,Is figure quality too poor?,General comments
+2138211,Low,High,"Single transcripts	Nuclear","Punctate	Nuclear	Diffuse",Low,None,Yes,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,No,
+2137880,Moderate,Moderate,Single transcripts,"Diffuse	Other",Moderate,Low,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,No,Other cells,No,protein seems to be the glia and not the nerve?
+2137799,Low,Low,"Nuclear	Cell type specific",None,Low,None,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,Yes,I am not sure if being the protein fluorescence so low correlates with such a low RNA quantity or if it is that the technique did not work at this gene line.
+2138203,Moderate,Low,"Single transcripts	Perinuclear (muscle)	Other",Punctate,Low,Moderate,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,
+2139921,High,High,"Single transcripts	Nuclear	Perinuclear (muscle)	Other","Nuclear	Other",High,High,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,
+2137892,Moderate,Moderate,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)","Diffuse	Cytoskeleton (muscle fibres)",High,Moderate,No,No,No,No,Yes,Yes,Yes,No,No,No,muscle,muscle,Yes,
+2138082,Moderate,Low,"Single transcripts	Nuclear","Diffuse	Cytoskeleton (muscle fibres)",Low,None,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,Yes,
+2138235,High,Low,"Single transcripts	Nuclear	Perinuclear (muscle)	Other","Nuclear	Diffuse	Cytoskeleton (muscle fibres)",High,High,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,muscle,No,
+2138244,Low,High,"Single transcripts	Nuclear	Other",,None,None,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,neuron,No,#NAME?
+2138239,High,High,Single transcripts,Diffuse,None,High,No,No,N/A,Yes,Yes,Yes,N/A,No,Yes,Yes,No,No,No,
+2138227,Moderate,High,"Single transcripts	Nuclear	Perinuclear (muscle)	Other",Other,Moderate,Moderate,No,No,No,No,Yes,No,Yes,Yes,No,No,muscle,post synaptic density,No,
+2138090,High,High,"Single transcripts	Nuclear	Perinuclear (muscle)	Other","Punctate	Cytoskeleton (muscle fibres)	Other",High,High,No,No,Yes,Yes,Yes,Yes,Yes,No,N/A,No,No,No,No,
+2137861,High,High,Single transcripts,"Punctate	Cell edges	Diffuse	Cytoskeleton (muscle fibres)",High,Moderate,No,No,N/A,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,
+2137961,High,Moderate,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)	Other","Punctate	Nuclear",Moderate,Moderate,No,No,N/A,No,Yes,Yes,Yes,No,No,No,muscle,muscle,Yes,
+2137802,High,Low,"Single transcripts	Nuclear	Perinuclear (muscle)",Diffuse,High,Moderate,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,
+2137973,High,High,"Single transcripts	Nuclear	Perinuclear (muscle)	Other","Punctate	Diffuse	Cytoskeleton (muscle fibres)	Other",High,High,No,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,No,No,No,
+2138155,Low,Moderate,"Single transcripts	Nuclear	Perinuclear (muscle)	Other",Other,Moderate,Moderate,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,neuron,No,
+2138163,Moderate,High,"Evenly scattered	Nuclear	Other",Other,None,Low,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,neuron,No,
+2137845,High,High,"Single transcripts	Nuclear	Perinuclear (muscle)",Nuclear,High,Moderate,No,Yes,No,No,Yes,Yes,Yes,No,No,No,muscle,muscle,No,
+2137938,Moderate,Moderate,"Evenly scattered	Single transcripts","Nuclear	Cell edges	Diffuse	Cytoskeleton (muscle fibres)",None,Moderate,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,
+2137926,Moderate,High,"Evenly scattered	Single transcripts	Nuclear	Other","Diffuse	Other",Low,Moderate,No,Yes,N/A,Yes,Yes,No,Yes,Yes,No,No,muscle,post synaptic density,No,
+2137826,High,High,"Single transcripts	Nuclear	Perinuclear (muscle)	Cell type specific",Diffuse,None,None,No,Yes,No,No,Yes,Yes,N/A,No,No,No,muscle,muscle,No,"- About the protein pattern, the place where the 2 muscles join, is also where there is the nerve terminal but I think the protein and the RNA are in the muscle and not in the presynaptic area.
+- About using it as a figure:  The RNA signal is great so is a good example of how nice is the smFISH technique but I do not think is relevant for the biology.
+"
+2138100,Low,Low,"Single transcripts	Nuclear	Other","Diffuse	Cytoskeleton (muscle fibres)",Low,Moderate,No,No,No,No,Yes,Yes,N/A,No,No,No,muscle,muscle,Yes,
+2137857,High,High,"Single transcripts	Nuclear	Perinuclear (muscle)	Other",Other,High,Moderate,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,neuron,No,
+2137957,Low,High,"Evenly scattered	Perinuclear (muscle)",Other,None,Moderate,No,No,No,No,Yes,No,No,Yes,No,No,muscle,post synaptic density,No,
+2137849,High,High,"Single transcripts	Nuclear	Perinuclear (muscle)",Nuclear,High,Moderate,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,muscle,muscle,No,
+2137834,High,High,"Single transcripts	Nuclear	Perinuclear (muscle)	Other",Cytoskeleton (muscle fibres),High,High,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,Discordance based on the signal in the neuron and the axon terminal. And the nucleus of the muscle.
+2138112,Moderate,Low,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)	Other","Diffuse	Cytoskeleton (muscle fibres)	Other",Moderate,Moderate,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,
+2137971,Moderate,Low,Single transcripts,"Diffuse	Other",Low,Moderate,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,muscle,No,
+2137871,Moderate,Moderate,"Single transcripts	Nuclear	Perinuclear (muscle)",Other,High,Low,Yes,No,No,No,Yes,No,No,No,No,Yes,muscle,neuron,No,mistake in cold (pickle 2137870) and arm *this one*
+2138145,Moderate,High,"Single transcripts	Nuclear",Other,High,Low,Yes,No,No,No,Yes,Yes,Yes,No,N/A,No,No,muscle,No,could it be that the green channel shifted?
+2137863,None,None,None,None,None,None,No,No,No,No,No,No,No,No,No,No,No,No,No,I selected no transcripts because I think is the gene sequence (so no signal for the RNA or the protein)
+2137963,Moderate,Moderate,"Single transcripts	Nuclear	Perinuclear (muscle)",Other,Moderate,Moderate,Yes,No,N/A,No,Yes,No,Yes,Yes,No,No,muscle,muscle,No,
+2138110,Moderate,Moderate,"Single transcripts	Nuclear	Perinuclear (muscle)	Other","Diffuse	Cytoskeleton (muscle fibres)	Other",Moderate,Low,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,
+2137836,Moderate,Low,Single transcripts,,High,Low,No,No,Yes,No,No,Yes,No,No,No,No,muscle,muscle,Yes,
+2137936,Moderate,Low,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)","Punctate	Diffuse	Cytoskeleton (muscle fibres)",Moderate,Low,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,No,
+2137855,Low,Low,"Evenly scattered	Single transcripts	Nuclear","Diffuse	Cytoskeleton (muscle fibres)",Low,None,No,No,No,No,Yes,Yes,No,No,Yes,No,muscle,muscle,No,
+2137955,High,None,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)	Other",Other,High,High,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,
+2138073,Low,Moderate,"Single transcripts	Nuclear","Diffuse	Cytoskeleton (muscle fibres)",Low,Low,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,Yes,
+2137828,Moderate,High,"Evenly scattered	Single transcripts","Punctate	Diffuse",Low,Moderate,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Axon terminal,No,
+2137959,High,Low,"Single transcripts	Nuclear	Perinuclear (muscle)","Diffuse	Cytoskeleton (muscle fibres)",Moderate,High,No,No,Yes,No,Yes,Yes,No,No,No,No,muscle,muscle,No,
+2137859,High,High,Single transcripts,Other,High,High,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,"Whil RNA foci are everywhere, protein is concentrated in the PSD and presynaptic compartments"
+2138102,Moderate,Low,"Single transcripts	Nuclear",Other,Moderate,None,No,No,No,No,Yes,Yes,No,No,N/A,No,muscle,muscle,No,"if there is no image on the glia for this gene, this can be used. "
+2137947,High,Moderate,"Single transcripts	Nuclear	Perinuclear (muscle)","Cell edges	Diffuse	Cytoskeleton (muscle fibres)",High,Moderate,Yes,No,Yes,No,Yes,Yes,N/A,No,Yes,No,No,muscle,No,
+2137847,Low,Low,"Single transcripts	Nuclear",Diffuse,Low,None,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,Yes,
+2138061,Moderate,Moderate,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)	Other",Other,High,Moderate,Yes,Yes,No,No,Yes,Yes,No,No,No,No,muscle,Other cells,No,
+2138201,Moderate,Low,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)",Cytoskeleton (muscle fibres),Moderate,Moderate,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,No,
+2137882,Moderate,High,"Single transcripts	Nuclear	Perinuclear (muscle)","Punctate	Cytoskeleton (muscle fibres)",None,High,No,No,No,No,Yes,Yes,No,No,Yes,No,No,muscle,No,
+2138213,Moderate,Low,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)",Cytoskeleton (muscle fibres),None,None,No,No,No,No,Yes,Yes,Yes,No,N/A,No,muscle,muscle,No,
+2137797,High,Moderate,Single transcripts,Other,High,Moderate,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,Cytoplasmatic protein (muscle) aggregated around the nuclei of the muscle
+2138270,High,High,"Single transcripts	Nuclear	Perinuclear (muscle)","Punctate	Nuclear	Diffuse",High,Moderate,No,No,No,No,Yes,Yes,Yes,No,No,No,muscle,muscle,No,
+2138225,High,High,"Single transcripts	Nuclear	Other","Cytoskeleton (muscle fibres)	Other",High,High,No,No,No,No,Yes,Yes,Yes,Yes,No,No,muscle,muscle,No,protein at specific bands of the sarcomera
+2138092,Moderate,High,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)",Other,Moderate,Moderate,No,No,No,No,Yes,Yes,Yes,Yes,No,No,muscle,post synaptic density,No,
+2138237,Low,Low,Single transcripts,"Diffuse	Cytoskeleton (muscle fibres)",Low,None,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,Yes,protein channel is different than the merge
+2138106,Low,Low,"Single transcripts	Nuclear	Perinuclear (muscle)","Punctate	Cytoskeleton (muscle fibres)",Low,Low,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,No,
+2138118,Moderate,High,"Single transcripts	Nuclear	Perinuclear (muscle)","Punctate	Nuclear	Diffuse",Moderate,Low,No,No,No,No,Yes,Yes,Yes,No,No,No,muscle,muscle,No,
+2137943,High,High,"Evenly scattered	Single transcripts","Punctate	Nuclear	Diffuse	Cytoskeleton (muscle fibres)",High,Low,No,No,No,No,Yes,Yes,Yes,No,No,No,muscle,muscle,No,
+2137843,Moderate,Moderate,"Single transcripts	Nuclear",Other,High,None,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,muscle,Axon terminal,No,protein is both axon terminal and neuron located
+2138114,Low,High,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)","Punctate	Nuclear",Moderate,Low,No,No,N/A,No,Yes,Yes,Yes,Yes,No,No,muscle,muscle,No,
+2137832,Moderate,Low,Single transcripts,"Cell edges	Diffuse	Other",High,Low,Yes,No,N/A,No,Yes,Yes,Yes,Yes,Yes,No,muscle,muscle,No,
+2137932,Moderate,None,"Evenly scattered	Single transcripts",None,Low,Moderate,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,
+2138169,Moderate,High,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)	Other",Other,Low,Moderate,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,post synaptic density,No,
+2137851,Moderate,Low,Single transcripts,Diffuse,High,Low,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,
+2138077,Moderate,Low,Evenly scattered,Diffuse,Low,Moderate,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,
+2138122,Moderate,High,"Single transcripts	Nuclear	Perinuclear (muscle)	Other","Punctate	Diffuse	Other",Moderate,High,Yes,No,Yes,Yes,Yes,No,Yes,No,N/A,Yes,No,neuron,No,
+2137867,High,Moderate,Single transcripts,"Punctate	Cell edges	Cytoskeleton (muscle fibres)",High,High,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,
+2137916,High,Moderate,Single transcripts,"Diffuse	Cytoskeleton (muscle fibres)",High,Moderate,Yes,No,Yes,No,Yes,Yes,Yes,No,N/A,No,No,muscle,No,
+2137908,High,Moderate,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)	Other","Punctate	Nuclear	Cell edges	Diffuse	Cytoskeleton (muscle fibres)	Other",High,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,N/A,No,No,muscle,No,
+2138233,Moderate,High,"Single transcripts	Nuclear	Perinuclear (muscle)	Other","Punctate	Diffuse	Other",Moderate,Low,Yes,No,No,No,Yes,No,Yes,Yes,No,No,muscle,post synaptic density,No,same image as the one coded as 2138228
+2138196,None,None,"Nuclear	None",None,None,None,No,No,No,No,Yes,No,No,No,No,No,No,No,No,
+2138221,Moderate,High,"Single transcripts	Nuclear	Perinuclear (muscle)	Other","Punctate	Diffuse	Other",Low,Moderate,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,muscle,neuron,No,
+2138096,Moderate,High,Nuclear,Diffuse,High,Moderate,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,muscle,neuron,No,
+2138088,None,None,,,None,None,No,No,No,No,No,No,No,No,No,No,No,No,Yes,
+2138242,Low,Moderate,,"Diffuse	Other",Low,Low,No,No,No,No,Yes,No,Yes,Yes,N/A,No,muscle,post synaptic density,No,
+2137886,High,High,"Single transcripts	Nuclear	Perinuclear (muscle)","Punctate	Cell edges	Cytoskeleton (muscle fibres)",High,Moderate,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,muscle,No,No,
+2138217,Moderate,Low,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)","Diffuse	Cytoskeleton (muscle fibres)",Moderate,Low,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,No,
+2138209,High,Low,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)	Other","Nuclear	Diffuse	Cytoskeleton (muscle fibres)",High,Moderate,No,No,N/A,No,Yes,Yes,Yes,No,No,No,muscle,muscle,No,
+2138205,Moderate,High,Single transcripts,Diffuse,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,
+2138240,Low,Low,"Single transcripts	Nuclear","Diffuse	Cytoskeleton (muscle fibres)",Low,None,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,No,
+2138223,High,High,"Single transcripts	Nuclear	Perinuclear (muscle)	Other","Nuclear	Other",High,High,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,neuron,No,
+2138094,High,High,"Single transcripts	Nuclear	Perinuclear (muscle)	Other","Punctate	Nuclear	Diffuse",High,Moderate,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,muscle,No,
+2138098,High,Moderate,Single transcripts,"Diffuse	Cytoskeleton (muscle fibres)",High,High,No,No,N/A,Yes,Yes,Yes,N/A,No,Yes,Yes,No,No,No,
+2138198,Low,High,"Single transcripts	Nuclear	Cell type specific","Nuclear	Cell edges",Low,Low,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,No,
+2138231,None,High,"Single transcripts	Nuclear	Perinuclear (muscle)","Punctate	Diffuse	Other",Moderate,Low,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,muscle,neuron,No,
+2137888,High,Moderate,"Single transcripts	Nuclear	Perinuclear (muscle)	Other","Diffuse	Cytoskeleton (muscle fibres)",High,High,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,
+2138219,High,High,Other,Nuclear,Low,High,Yes,No,No,No,No,Yes,No,No,Yes,No,neuron,muscle,No,
+2138207,High,Moderate,"Single transcripts	Nuclear	Perinuclear (muscle)	Other","Cytoskeleton (muscle fibres)	Other",High,High,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,
+2138215,Low,None,"Single transcripts	Nuclear",None,Low,None,No,No,No,No,No,No,No,No,No,No,No,No,No,
+2137884,Moderate,Low,"Evenly scattered	Single transcripts	Other",Diffuse,Low,Moderate,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,muscle,No,
+2138175,High,High,"Single transcripts	Nuclear	Perinuclear (muscle)	Cell type specific",Other,High,Moderate,No,No,No,No,Yes,Yes,Yes,Yes,No,No,muscle,post synaptic density,No,
+2137853,High,High,Single transcripts,Other,Moderate,High,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,post synaptic density,No,
+2137953,High,Moderate,"Single transcripts	Nuclear	Perinuclear (muscle)",,High,Moderate,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,No,
+2137830,High,High,Single transcripts,Nuclear,Moderate,High,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,muscle,No,The protein is nucleolar and the RNA is everywhere!
+2137930,Low,Low,"Evenly scattered	Single transcripts","Diffuse	Cytoskeleton (muscle fibres)",Moderate,Low,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,No,
+2138116,High,Low,"Single transcripts	Perinuclear (muscle)	Other","Diffuse	Other",Moderate,High,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,muscle,No,protein seems to be at the edges of the muscle cell but not related with the NMJ structures?
+2137841,Moderate,High,"Single transcripts	Nuclear",Other,High,Low,Yes,Yes,No,Yes,Yes,No,No,No,No,No,muscle,neuron,No,
+2137822,High,High,"Single transcripts	Nuclear	Perinuclear (muscle)",Other,High,High,Yes,Yes,Yes,No,Yes,No,Yes,Yes,N/A,No,No,No,No,"protein pattern: same as aDlg and nerve *though not sure if the axon or the periphery
+RNA seems to be everywhere, "
+2138104,None,Low,None,Cytoskeleton (muscle fibres),None,None,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,
+2137914,None,Low,"Evenly scattered	Perinuclear (muscle)","Diffuse	Cytoskeleton (muscle fibres)",Low,Low,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,Yes,
+2137918,High,High,"Single transcripts	Nuclear	Perinuclear (muscle)	Other","Diffuse	Other",Moderate,High,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,N/A,No,No,post synaptic density,No,
+2137865,Low,None,Single transcripts,None,Moderate,None,No,No,No,No,Yes,No,No,No,No,No,muscle,muscle,No,
+2137965,High,High,"Evenly scattered	Single transcripts","Punctate	Diffuse	Other",High,High,No,No,N/A,No,Yes,No,Yes,Yes,No,No,muscle,post synaptic density,No,
+2138143,Low,Low,"Single transcripts	Nuclear	Perinuclear (muscle)","Diffuse	Cytoskeleton (muscle fibres)",Moderate,Low,No,No,N/A,No,Yes,Yes,No,No,No,No,No,muscle,No,
+2137927,Low,None,"Single transcripts	Perinuclear (muscle)",None,None,Low,No,No,No,No,Yes,No,N/A,No,N/A,No,muscle,No,No,
+2138101,Moderate,High,"Single transcripts	Nuclear	Perinuclear (muscle)	Cell type specific","Punctate	Nuclear	Diffuse",Moderate,Low,No,No,No,No,Yes,Yes,Yes,No,N/A,No,No,muscle,No,
+2137839,Moderate,None,"Single transcripts	Nuclear",None,High,None,No,Yes,No,No,Yes,No,No,No,No,No,muscle,No,No,example as a negative
+2137939,Low,None,"Evenly scattered	Single transcripts	Nuclear",None,Moderate,Low,No,No,No,No,Yes,No,N/A,No,No,No,muscle,No,No,
+2137844,High,Moderate,"Single transcripts	Nuclear	Perinuclear (muscle)","Punctate	Diffuse	Cytoskeleton (muscle fibres)",High,Low,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,
+2137935,None,None,,,None,None,No,No,No,No,No,No,No,No,No,No,No,No,Yes,
+2137835,Moderate,None,"Single transcripts	Nuclear	Perinuclear (muscle)",None,Moderate,Moderate,Yes,No,No,No,Yes,No,Yes,No,N/A,No,No,No,No,The RNA at the PSD might be not true in the boutons above the nucleus but the boutons and the axon beyond that nucleus is what I used for the answers
+2138113,Moderate,High,"Single transcripts	Nuclear	Perinuclear (muscle)	Other",Other,High,Moderate,Yes,Yes,N/A,No,Yes,No,Yes,Yes,No,No,muscle,post synaptic density,No,
+2138070,High,High,Single transcripts,"Punctate	Diffuse	Cytoskeleton (muscle fibres)	Other",High,High,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,
+2137956,Low,High,"Single transcripts	Nuclear	Perinuclear (muscle)","Punctate	Nuclear	Diffuse",Low,Low,Yes,No,N/A,No,No,No,Yes,No,No,No,muscle,muscle,No,
+2137856,High,High,"Single transcripts	Nuclear	Perinuclear (muscle)	Other","Punctate	Cytoskeleton (muscle fibres)",High,High,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,
+2137960,Moderate,Low,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)	Other","Diffuse	Cytoskeleton (muscle fibres)",High,Moderate,No,No,No,No,Yes,Yes,Yes,No,No,No,muscle,muscle,No,
+2137860,Moderate,Low,Single transcripts,None,High,Low,Yes,No,N/A,No,Yes,No,N/A,No,N/A,No,muscle,No,Yes,
+2138146,Low,None,"Single transcripts	Nuclear",None,Low,None,No,No,No,No,Yes,No,No,No,No,No,muscle,No,Yes,
+2137972,Low,Low,,,None,Low,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,Yes,
+2138154,Moderate,Low,"Single transcripts	Nuclear	Perinuclear (muscle)	Other","Punctate	Cytoskeleton (muscle fibres)",High,Low,Yes,No,Yes,No,Yes,Yes,Yes,No,N/A,No,No,muscle,No,
+2138083,Low,Moderate,"Single transcripts	Nuclear","Punctate	Cell edges	Diffuse	Cytoskeleton (muscle fibres)",Moderate,None,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,Yes,
+2138234,High,Moderate,,"Diffuse	Cytoskeleton (muscle fibres)	Other",High,High,No,No,N/A,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,
+2138226,High,Low,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)	Other","Diffuse	Cytoskeleton (muscle fibres)",High,High,No,No,No,No,Yes,Yes,Yes,No,No,No,muscle,muscle,No,
+2138191,Low,None,"Evenly scattered	None",None,None,Low,No,No,No,No,Yes,No,No,No,No,No,No,No,No,
+2138238,High,High,"Single transcripts	Nuclear	Perinuclear (muscle)	Other","Cytoskeleton (muscle fibres)	Other",High,High,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,
+2138210,Low,Low,"Single transcripts	Nuclear	Perinuclear (muscle)	Other",Other,Low,Low,No,No,N/A,No,Yes,No,N/A,No,Yes,Yes,No,Other cells,Yes,
+2137981,Low,None,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)",None,Low,Low,No,No,N/A,No,Yes,Yes,Yes,No,No,No,muscle,Other cells,No,
+2137881,Moderate,Moderate,"Evenly scattered	Single transcripts	Perinuclear (muscle)	Other",Diffuse,Low,Moderate,No,No,No,Yes,Yes,Yes,N/A,No,Yes,Yes,No,No,Yes,DAPI is not in the figure
+2138273,Low,Low,Nuclear,Nuclear,Low,None,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,No,
+2138202,High,High,"Single transcripts	Nuclear	Perinuclear (muscle)","Nuclear	Cytoskeleton (muscle fibres)	Other",High,Moderate,No,Yes,No,Yes,Yes,Yes,No,No,No,No,muscle,No,No,
+2137893,None,None,Other,Other,None,None,No,No,No,No,No,No,No,No,No,No,No,No,Yes,either the line is not ok (Notch::YFP) or the technique did not work
+2138261,Low,High,"Single transcripts	Nuclear	Perinuclear (muscle)",Other,Moderate,Low,No,No,No,No,Yes,No,No,No,No,No,muscle,Other cells,No,
+2138224,Low,Low,Single transcripts,"Diffuse	Cytoskeleton (muscle fibres)",Moderate,Low,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,Yes,
+2138228,Moderate,High,"Single transcripts	Nuclear	Perinuclear (muscle)	Other","Punctate	Diffuse	Other",Moderate,Low,Yes,No,No,No,Yes,No,Yes,Yes,No,No,muscle,post synaptic density,No,small amount of RNA to translate the PSD protein
+2138081,High,High,"Single transcripts	Nuclear	Perinuclear (muscle)",Other,High,High,No,No,N/A,No,Yes,No,Yes,Yes,No,No,muscle,post synaptic density,No,
+2138236,Moderate,Moderate,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)	Other","Cytoskeleton (muscle fibres)	Other",High,Moderate,No,No,Yes,No,Yes,Yes,Yes,No,N/A,No,No,muscle,No,
+2138200,Moderate,Moderate,,"Punctate	Cytoskeleton (muscle fibres)	Other",Low,Moderate,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,
+2137983,Low,High,Perinuclear (muscle),"Punctate	Nuclear",Low,Moderate,No,No,N/A,No,Yes,Yes,N/A,No,Yes,Yes,No,muscle,No,
+2137883,High,Moderate,"Nuclear	Perinuclear (muscle)","Cell edges	Diffuse	Cytoskeleton (muscle fibres)",High,High,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,
+2138212,Low,Low,"Single transcripts	Nuclear	Other","Punctate	Diffuse	Cytoskeleton (muscle fibres)	Other",Moderate,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,muscle,neuron,No,
+2137829,Low,High,"Evenly scattered	Single transcripts",Other,Moderate,Low,No,Yes,Yes,No,Yes,No,N/A,No,Yes,Yes,No,neuron,No,
+2137954,Moderate,Low,"Single transcripts	Nuclear	Perinuclear (muscle)","Punctate	Cytoskeleton (muscle fibres)",Moderate,Moderate,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,muscle,No,
+2137854,High,Moderate,"Evenly scattered	Single transcripts	Nuclear","Punctate	Cell edges	Cytoskeleton (muscle fibres)",High,Low,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,No,"the RNA in the presynaptic compartment is only seen where there is a nuleus that can be the source so I label as ""no"" signal the RNA at the PSD and the bouton"
+2138072,High,Moderate,"Single transcripts	Nuclear	Perinuclear (muscle)	Other",Cytoskeleton (muscle fibres),Moderate,High,Yes,Yes,N/A,No,Yes,Yes,Yes,No,Yes,No,No,muscle,No,
+2138111,Moderate,High,"Single transcripts	Nuclear",Other,Moderate,None,No,No,N/A,No,Yes,No,N/A,Yes,No,No,muscle,post synaptic density,No,
+2137837,High,Moderate,Single transcripts,"Diffuse	Cytoskeleton (muscle fibres)",High,High,No,No,Yes,Yes,Yes,Yes,N/A,No,Yes,No,No,No,No,
+2138060,Low,High,"Single transcripts	Nuclear	Perinuclear (muscle)	Other",Nuclear,Low,Low,No,No,No,No,Yes,Yes,No,No,N/A,No,muscle,muscle,No,
+2137825,Moderate,Low,"Nuclear	Perinuclear (muscle)",Diffuse,None,None,No,No,No,No,Yes,Yes,Yes,No,No,No,muscle,muscle,No,"- Protein signal might be nonexistent and the muscle signal might be just the normal backgound in the muscle.
+- The PSD location of the RNA might be coincidental taking into account it is in the muscle *no special aggregation("
+2137858,Moderate,Moderate,"Single transcripts	Nuclear	Perinuclear (muscle)",Nuclear,Moderate,Moderate,No,Yes,Yes,No,Yes,Yes,Yes,No,N/A,No,No,muscle,No,
+2137958,Low,Moderate,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)","Punctate	Nuclear	Diffuse	Cytoskeleton (muscle fibres)",Low,None,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,No,
+2137870,Moderate,Moderate,"Single transcripts	Nuclear	Perinuclear (muscle)",,High,Low,No,No,No,No,Yes,No,No,No,No,Yes,muscle,neuron,No,there is a mistake since cold and arm are the same image
+2137970,High,Low,"Single transcripts	Nuclear	Perinuclear (muscle)",Diffuse,High,Moderate,No,No,No,No,Yes,Yes,N/A,No,N/A,No,muscle,muscle,No,
+2137913,Low,High,Nuclear,Other,Low,Low,No,No,No,Yes,Yes,No,No,Yes,No,No,muscle,muscle,Yes,
+2138144,Low,Low,"Evenly scattered	Nuclear	Perinuclear (muscle)","Diffuse	Cytoskeleton (muscle fibres)",Moderate,Low,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,No,
+2137962,Moderate,Low,"Single transcripts	Nuclear",Cytoskeleton (muscle fibres),Low,Low,No,No,No,No,Yes,Yes,N/A,No,N/A,No,muscle,muscle,Yes,
+2137862,High,High,Single transcripts,"Punctate	Nuclear	Cytoskeleton (muscle fibres)",High,High,No,No,Yes,No,Yes,Yes,Yes,No,N/A,No,No,muscle,No,
+2138208,Low,Low,Evenly scattered,Diffuse,Low,Low,No,No,No,No,Yes,Yes,No,No,N/A,No,No,muscle,Yes,The RNA signal might be glia rather than neuron specific
+2137899,Low,Low,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)","Diffuse	Cytoskeleton (muscle fibres)",Moderate,Low,No,No,No,No,Yes,Yes,No,No,No,No,No,muscle,Yes,
+2137887,Low,Low,"Single transcripts	Perinuclear (muscle)","Diffuse	Cytoskeleton (muscle fibres)",None,Low,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,No,no nuclei in the image
+2138216,Low,None,"Single transcripts	Perinuclear (muscle)	Other",None,None,Low,No,No,N/A,No,Yes,No,Yes,No,Yes,No,neuron,No,No,
+2138204,Low,Low,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)	Other","Punctate	Diffuse	Other",Low,Low,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,
+2138185,Low,None,,,None,None,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,
+2138085,Low,High,"Single transcripts	Nuclear	Cell type specific","Punctate	Cytoskeleton (muscle fibres)	Other",Moderate,Low,No,No,No,No,Yes,Yes,Yes,Yes,No,No,muscle,muscle,No,
+2138232,Low,Moderate,"Evenly scattered	Nuclear	Perinuclear (muscle)",Other,Moderate,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,muscle,neuron,No,
+2138220,Moderate,Moderate,"Single transcripts	Nuclear	Perinuclear (muscle)	Other","Nuclear	Cytoskeleton (muscle fibres)",Moderate,Moderate,No,No,No,No,Yes,Yes,No,No,Yes,No,No,muscle,No,
+2138097,High,High,"Single transcripts	Nuclear	Perinuclear (muscle)	Other","Punctate	Nuclear	Diffuse",High,Moderate,Yes,No,No,No,Yes,Yes,Yes,No,N/A,No,No,muscle,No,
+2137866,Moderate,High,"Evenly scattered	Single transcripts",Other,Moderate,Low,Yes,Yes,N/A,No,Yes,No,Yes,No,Yes,Yes,No,neuron,No,
+2137978,Moderate,Low,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)","Diffuse	Cytoskeleton (muscle fibres)",Moderate,Low,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,Yes,
+2137878,High,High,"Single transcripts	Other","Diffuse	Other",High,High,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,post synaptic density,No,
+2137974,High,High,"Single transcripts	Nuclear	Perinuclear (muscle)",Other,High,High,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,neuron,No,Protein might be in the glia rather than neuron?
+2137917,High,High,"Evenly scattered	Single transcripts	Perinuclear (muscle)	Other",Nuclear,Moderate,High,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,muscle,No,I considered protein is cell-type specific because is in the muscle and the PSD is a muscle compartment but in the question about the protein distribution I can only select either muscle -which I have- or PSD
+2138131,Low,Moderate,"Single transcripts	Nuclear","Punctate	Nuclear	Diffuse",Low,Low,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,No,
+2137842,Moderate,Moderate,"Single transcripts	Nuclear","Cell edges	Diffuse	Cytoskeleton (muscle fibres)",Moderate,None,No,No,No,Yes,Yes,Yes,No,No,No,Yes,muscle,No,No,
+2137942,High,Moderate,"Single transcripts	Nuclear	Perinuclear (muscle)",Cytoskeleton (muscle fibres),High,High,No,No,N/A,No,Yes,Yes,Yes,No,No,No,muscle,muscle,No,
+2138164,Moderate,Moderate,"Single transcripts	Nuclear	Perinuclear (muscle)	Other","Punctate	Nuclear	Cell edges	Diffuse	Cytoskeleton (muscle fibres)",Moderate,Moderate,No,No,Yes,No,Yes,Yes,Yes,No,N/A,No,No,muscle,No,
+2137821,Moderate,High,"Single transcripts	Nuclear	Perinuclear (muscle)","Punctate	Nuclear",High,Low,No,Yes,No,No,Yes,Yes,Yes,No,No,No,muscle,muscle,No,
+2137921,High,High,Single transcripts,Other,High,High,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,post synaptic density,No,
+2138115,Low,Low,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)","Cell edges	Cytoskeleton (muscle fibres)",Moderate,Low,No,No,No,No,Yes,Yes,N/A,No,No,No,muscle,muscle,No,
+2137833,High,High,"Single transcripts	Nuclear	Perinuclear (muscle)	Other","Punctate	Nuclear",High,Low,Yes,Yes,Yes,No,Yes,Yes,N/A,No,Yes,No,No,muscle,No,
+2137868,Moderate,Low,Single transcripts,Diffuse,Moderate,Low,No,No,No,No,Yes,Yes,No,Yes,No,No,muscle,muscle,Yes,
+2137876,Moderate,High,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)	Other","Punctate	Nuclear	Cytoskeleton (muscle fibres)	Other",Moderate,Low,No,No,N/A,No,Yes,Yes,Yes,No,No,No,muscle,No,No,
+2137976,Moderate,High,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)","Punctate	Nuclear	Diffuse",High,Moderate,No,No,No,No,Yes,Yes,Yes,No,No,No,muscle,muscle,No,
+2137763,Moderate,Low,Single transcripts,Diffuse,Moderate,Moderate,No,Yes,Yes,No,Yes,Yes,N/A,No,Yes,No,No,muscle,No,
+2137864,Moderate,Moderate,"Single transcripts	Nuclear","Punctate	Nuclear	Diffuse",Moderate,None,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,No,I did not count the only RNA focus in the PSD in the last bouton of the image I do not think is real 
+2138142,High,Moderate,"Evenly scattered	Single transcripts","Diffuse	Cytoskeleton (muscle fibres)",Moderate,High,No,No,N/A,No,Yes,Yes,No,No,Yes,No,No,No,No,
+2137919,Low,High,"Single transcripts	Nuclear	Perinuclear (muscle)",Nuclear,High,Low,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,No,
+2137819,High,Low,Single transcripts,Cytoskeleton (muscle fibres),High,Moderate,Yes,Yes,No,No,Yes,Yes,Yes,No,N/A,No,muscle,muscle,No,
+2137831,High,Low,Single transcripts,"Cell edges	Diffuse",High,Low,No,No,No,No,Yes,Yes,Yes,Yes,No,No,muscle,muscle,No,"Again, I did not flag it because it only shows how clean is the smFISH technique but there is already plenty of images like that"
+2137852,High,Moderate,"Single transcripts	Nuclear","Diffuse	Cytoskeleton (muscle fibres)",High,None,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,No,
+2138009,Moderate,Low,"Evenly scattered	Nuclear	Perinuclear (muscle)","Diffuse	Cytoskeleton (muscle fibres)",High,Moderate,No,No,No,No,Yes,Yes,Yes,No,No,No,muscle,muscle,No,
+2138078,Moderate,High,"Nuclear	Perinuclear (muscle)	Cell type specific",Nuclear,High,Low,Yes,No,No,No,Yes,Yes,N/A,No,No,No,muscle,muscle,No,"Aparently related with muscle and nerves but not it's parttern, in fact, the protein foci seems a heterochromatin focus, very commonly found around the nucleolus "
+2137840,Moderate,None,"Single transcripts	Nuclear",None,High,None,No,No,No,No,Yes,No,No,No,No,No,muscle,No,No,
+2138206,Low,None,"Single transcripts	Perinuclear (muscle)",None,None,Low,No,No,No,No,Yes,No,No,No,No,No,muscle,No,No,
+2138218,Low,Low,"Nuclear	Perinuclear (muscle)","Diffuse	Cytoskeleton (muscle fibres)",Low,Low,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,Yes,I considered the RNA in the cytoplasm between the scale and the nucleus
+2138269,High,Moderate,Nuclear,"Punctate	Diffuse	Cytoskeleton (muscle fibres)	Other",High,Low,No,No,No,No,Yes,Yes,No,No,No,Yes,muscle,No,No,#NAME?
+2138214,Low,High,"Single transcripts	Nuclear","Punctate	Nuclear",Low,None,No,No,No,No,Yes,Yes,No,No,No,No,muscle,muscle,No,
+2137885,Moderate,High,"Evenly scattered	Single transcripts","Punctate	Nuclear	Diffuse",Moderate,Moderate,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,muscle,No,
+2138222,Moderate,None,"Single transcripts	Nuclear	Perinuclear (muscle)",None,Moderate,Low,No,No,No,No,Yes,No,No,No,No,No,muscle,No,No,
+2138230,Low,None,"Single transcripts	Nuclear",None,Low,None,No,No,No,No,Yes,No,No,No,No,No,muscle,No,No,
+2138099,High,High,"Evenly scattered	Single transcripts	Nuclear	Perinuclear (muscle)	Other","Punctate	Nuclear",High,High,Yes,Yes,N/A,No,Yes,Yes,Yes,No,No,No,No,muscle,No,
+2142954,Moderate,High,Single transcripts,"Punctate	Diffuse",Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,N/A,No,Yes,Yes,No,No,No,
+2140571,None,Low,Evenly scattered,Other,None,Low,Yes,No,N/A,No,N/A,No,N/A,No,Yes,Yes,neuron,neuron,No,Protein signal around the nerve (in the perineurium or glia)
+2125621,High,Moderate,"Single transcripts	Nuclear	Cell type specific","Punctate	Nuclear	Diffuse	Cytoskeleton (muscle fibres)",High,Low,No,No,No,No,Yes,Yes,No,No,No,Yes,muscle,No,No,
+2125613,Low,High,"Nuclear	Cell type specific",Other,Moderate,None,Yes,No,No,No,Yes,No,No,No,No,Yes,muscle,Other cells,No,I think protein signal comes from glia around the axon
+2140582,High,Low,Single transcripts,Diffuse,High,Moderate,No,No,No,Yes,Yes,Yes,N/A,No,Yes,No,No,No,No,
+2140570,High,Moderate,Single transcripts,Diffuse,High,Moderate,No,No,N/A,No,Yes,Yes,N/A,No,Yes,Yes,No,No,No,

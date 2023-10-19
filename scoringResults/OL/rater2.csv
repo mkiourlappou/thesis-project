@@ -1,0 +1,204 @@
+figure_id,What is the level of RNA expression?,What is the level of protein expression?,What is the distribution of expression?,"If there is RNA expression, what patterns does the RNA make?","If there is protein expression, what patterns does the protein make?",Nascent transcript level,Cytosolic RNA level,Is there obvious RNA/protein discordance (whole image)?,Flag this gene as a potential one to use for a figure in the paper?,General comments,Is RNA present in soma?,Is protein present in soma?,Is RNA present in neuropil?,Is protein present in neuropil?,Is RNA distribution cell-type specific?,Is protein distribution cell-type specific?,RNAnoProtein,ProteinNoRNA_neuropil,RNAnoProtein_neuropil,ProteinNoRNA_soma,RNAnoProtein_soma,,user+dataDiscordance,userDiscordance,neuropilDiscordance,somaDiscordance,,neuropilSomaDiscordance
+2138881,High,Moderate,"Diffuse	Large aggregations",Evenly distributed,"Diffuse	Other",Moderate,High,Yes,No,,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,0,2137912,2137998,2138725,,2138339
+2138423,High,High,Diffuse,Evenly distributed,"Cell edges	Other",Moderate,High,Yes,No,,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,0,2137789,2138642,,,2138354
+2137810,High,Moderate,Diffuse,"Evenly distributed	More in some cells than others","Cell edges	Diffuse",High,High,Yes,No,,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,0,2138789,2137905,,,2138850
+2138946,High,Moderate,"Diffuse	Cytoplasmic",Evenly distributed,"Cell edges	Diffuse	Other",Moderate,High,Yes,No,,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,0,2138039,2138613,,,2137998
+2138825,Low,Low,"Diffuse	Nuclear",Single transcripts,"Nuclear	Diffuse	Other",Low,Low,Yes,No,,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,0,2138704,2138549,,,2138636
+2138866,High,Moderate,"Punctate	Diffuse	Large aggregations",More in some cells than others,"Punctate	Diffuse	Other",High,Moderate,Yes,No,,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,0,2138049,,,,2138642
+2138702,Moderate,Low,"Diffuse	Subset of cells",More in some cells than others,Diffuse,Moderate,Moderate,Yes,No,,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,0,2138630,,,,2138349
+2138562,Low,Moderate,"Punctate	Diffuse",Evenly distributed,"Cell edges	Other",Low,Low,Yes,No,,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,0,2138346,,,,2138812
+2138321,Moderate,High,"Diffuse	Cytoplasmic",Evenly distributed,"Cell edges	Other",Low,Moderate,Yes,No,,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,0,2138229,,,,2137905
+2138593,High,Moderate,"Punctate	Large aggregations",Evenly distributed,"Punctate	Other",Moderate,High,Yes,No,,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,0,2138352,,,,2138613
+2138755,Moderate,High,Subset of cells,More in some cells than others,"Nuclear	Other",Moderate,Moderate,Yes,No,Highly expressed in one nerve bundle. Do we know which one?,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,0,2138774,,,,2138720
+2138132,High,High,Diffuse,Evenly distributed,"Diffuse	Other",Moderate,High,Yes,No,,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,0,2138477,,,,2137791
+2138357,Moderate,High,Diffuse,Evenly distributed,"Cell edges	Other",Low,Moderate,Yes,No,"DAPI on the surface image is saturating, needs to be re-contrasted",Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,0,2138530,,,,2138467
+2138430,Low,High,Subset of cells,More in some cells than others,"Cell edges	Other",None,Low,Yes,No,This is taken in the wrong place? Definitely a different spot to the others. Protein seems to be in the lamellae between the sections of the brain lobe,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,0,2138156,,,,2138851
+2138355,Low,Moderate,"Punctate	Diffuse",Single transcripts,"Punctate	Diffuse",Low,Low,Yes,No,,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,0,2138332,,,,2138557
+2138598,Moderate,High,"Large aggregations	Cytoplasmic",More in some cells than others,"Punctate	Diffuse	Other",Moderate,Moderate,Yes,No,,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,0,2138117,,,,2138026
+2138764,Moderate,Low,"Diffuse	Cytoplasmic","Evenly distributed	Single transcripts","Diffuse	Other",None,Moderate,Yes,No,,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,0,2138377,,,,2138899
+2138768,High,High,"Diffuse	Cytoplasmic",Evenly distributed,"Cell edges	Diffuse	Other",Low,High,Yes,No,"RNA is too faint, need to re-contrast?",Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,0,2138510,,,,2137877
+2138490,High,High,"Punctate	Large aggregations",More in some cells than others,Punctate,Low,High,Yes,No,,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,0,2137894,,,,2138032
+2138068,Moderate,Moderate,Diffuse,"Evenly distributed	More in some cells than others","Cell edges	Other",Low,Moderate,Yes,No,,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,1,2138881,2138881,2138339,,2138414
+2138914,High,High,"Punctate	Large aggregations",Evenly distributed,Punctate,Low,High,Yes,No,Huge aggregations of protein,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,1,2138423,2138423,2138354,,2138160
+2138021,High,Low,"Punctate	Other",Evenly distributed,,High,High,Yes,No,Deep image isn't contrasted well. Low protein signal maybe?,Yes,Yes,No,Yes,No,No,0,yes,no,no,no,,1,2137810,2137810,2138850,,2138044
+2138646,High,Moderate,"Punctate	Diffuse",Evenly distributed,"Punctate	Diffuse	Other",Low,High,Yes,No,,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,1,2138026,2138026,2137998,,2137757
+2138637,High,Low,"Punctate	Large aggregations",Evenly distributed,"Punctate	Other",High,High,Yes,No,,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,1,2138946,2138946,2138636,,2137807
+2137912,Moderate,Low,"Diffuse	Subset of cells",More in some cells than others,"Punctate	Diffuse",Low,Moderate,Yes,No,,Yes,Yes,Yes,Yes,No,No,0,no,no,no,no,,1,2138825,2138825,2138642,,2138691
+2137789,High,Moderate,"Diffuse	Nuclear	Cytoplasmic",Evenly distributed,Cell edges,Low,High,Yes,No,,Yes,Yes,Yes,Yes,No,No,0,no,no,no,no,,1,2138866,2138866,2138349,,2137800
+2138789,High,High,"Diffuse	Cytoplasmic",Evenly distributed,"Cell edges	Diffuse	Other",Moderate,High,Yes,No,,Yes,Yes,Yes,Yes,No,No,0,no,no,no,no,,1,2138702,2138702,2138812,,2137756
+2138039,Moderate,High,Diffuse,"Evenly distributed	More in some cells than others","Cell edges	Other",Low,Moderate,Yes,No,,Yes,Yes,Yes,Yes,No,No,0,no,no,no,no,,1,2138562,2138562,2137905,,2137784
+2138794,High,Low,"Diffuse	Cytoplasmic",Evenly distributed,"Cell edges	Diffuse",Moderate,High,Yes,No,,Yes,Yes,Yes,No,No,soma,1,no,yes,no,no,,1,2138321,2138321,2138613,,2138178
+2138589,High,Low,"Diffuse	Cytoplasmic",Evenly distributed,Cell edges,High,High,Yes,No,,Yes,Yes,Yes,No,No,soma,1,no,yes,no,no,,1,2138899,2138899,2138720,,2138788
+2138657,High,Low,Punctate,Evenly distributed,Punctate,Low,High,Yes,No,"RNA channel very faint, not sure if signal is real. Will need to check, but I think contrasting should be looked at",Yes,Yes,Yes,No,No,soma,1,no,yes,no,no,,1,2138593,2138593,2137791,,2137967
+2137951,Moderate,Low,Diffuse,Evenly distributed,Diffuse,Low,Moderate,Yes,No,,Yes,Yes,Yes,No,No,soma,1,no,yes,no,no,,1,2138755,2138755,2138467,,2137770
+2138570,High,Low,Punctate,Evenly distributed,Punctate,Low,High,Yes,No,,Yes,Yes,Yes,No,No,soma,1,no,yes,no,no,,1,2137877,2137877,2138851,,2138584
+2138472,High,High,"Diffuse	Cytoplasmic",Evenly distributed,Cell edges,Moderate,High,Yes,No,,Yes,Yes,Yes,No,No,soma,1,no,yes,no,no,,1,2138032,2138032,2138557,,2138324
+2138666,Moderate,High,"Large aggregations	Cytoplasmic",Evenly distributed,"Cell edges	Diffuse",None,High,Yes,No,RNA channel needs to be contrasted again. Very faint,Yes,Yes,Yes,No,No,soma,1,no,yes,no,no,,1,2138132,2138132,2138026,,2138109
+2138267,High,Moderate,"Diffuse	Subset of cells",Evenly distributed,Diffuse,Moderate,High,Yes,No,,Yes,Yes,Yes,No,No,soma,1,no,yes,no,no,,1,2138357,2138357,2138899,,2138440
+2138461,High,Low,"Punctate	Cytoplasmic",Evenly distributed,"Punctate	Cell edges",Moderate,High,Yes,No,,Yes,Yes,Yes,No,No,soma,1,no,yes,no,no,,1,2138414,2138414,2137877,,2138732
+2138704,High,Low,Cytoplasmic,Evenly distributed,Cell edges,None,High,Yes,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138430,2138430,2138032,,2138620
+2138049,Moderate,Moderate,Subset of cells,More in some cells than others,Cell edges,Moderate,Moderate,Yes,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138355,2138355,2138414,,2138913
+2138630,High,High,"Large aggregations	Subset of cells",Evenly distributed,Cell edges,High,Moderate,Yes,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138160,2138160,2138160,,2138696
+2138346,Moderate,Moderate,"Large aggregations	Subset of cells",More in some cells than others,Cell edges,None,Moderate,Yes,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138598,2138598,2138044,,2138405
+2138229,Low,Moderate,Diffuse,Evenly distributed,Cell edges,Low,Low,Yes,No,"Protein is deeper in the brain, RNA on the surface. Maybe down to imaging?",Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138764,2138764,2137757,,2138773
+2138352,Low,Moderate,"Diffuse	Subset of cells",Other,Cell edges,None,Low,Yes,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138768,2138768,2137807,,2137898
+2138774,Moderate,High,"Cytoplasmic	Subset of cells",More in some cells than others,Cell edges,Low,Moderate,Yes,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138044,2138044,2138691,,2138027
+2138477,Moderate,Low,Subset of cells,More in some cells than others,Punctate,Low,Moderate,Yes,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2137757,2137757,2137800,,2138793
+2138530,High,High,"Cytoplasmic	Subset of cells",More in some cells than others,Cell edges,Moderate,High,Yes,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138490,2138490,2137756,,2138816
+2138156,Low,Moderate,Subset of cells,"Single transcripts	Transcription foci",Cell edges,Moderate,Low,Yes,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138068,2138068,2137784,,2138725
+2138332,High,High,"Punctate	Cytoplasmic",More in some cells than others,"Cell edges	Diffuse",Moderate,High,Yes,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138914,2138914,2138178,,2138058
+2138117,Moderate,Low,Diffuse,Evenly distributed,Other,Low,Moderate,Yes,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138021,2138021,2138788,,2138881
+2138377,Low,Low,Subset of cells,More in some cells than others,Diffuse,None,Low,Yes,No,"Weird cluster of RNA transcripts in one/few cells, protein expressed in one cell a distance away from the RNA. ",Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2137807,2137807,2137967,,2138423
+2138510,High,Moderate,"Large aggregations	Cytoplasmic",More in some cells than others,,High,High,Yes,No,One cell with loads of transcripts,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138646,2138646,2137770,,2137810
+2138000,High,High,Punctate,Evenly distributed,Cell edges,Moderate,High,No,No,,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,1,2138637,2138637,2138584,,2138946
+2138053,Moderate,Moderate,"Punctate	Diffuse",Evenly distributed,"Punctate	Cell edges",Moderate,Moderate,No,No,,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,1,2138691,2138691,2138324,,2138825
+2138539,Moderate,Moderate,Punctate,Evenly distributed,Punctate,Low,Moderate,No,No,Deep image could do with contrasting to make the RNA channel brighter. ,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,1,2138339,2138000,2138109,,2138866
+2138612,Moderate,Low,Diffuse,Evenly distributed,Cell edges,Moderate,Moderate,No,No,"RNA contrasting could do with tweaking, a little hard to see. Protein expression is very low",Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,1,2138381,2138053,2138440,,2138702
+2138359,Moderate,Low,Diffuse,Evenly distributed,"Cell edges	Diffuse",Low,Moderate,No,No,,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,1,2138354,2138539,2138732,,2138562
+2137991,High,High,"Punctate	Diffuse	Large aggregations",Evenly distributed,Other,Moderate,High,No,No,,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,1,2138850,2138612,2138620,,2138321
+2138127,Low,Moderate,Diffuse,Transcription foci,"Punctate	Other",High,Low,No,No,,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,1,2137998,2138359,2138913,,2138593
+2137817,High,High,Diffuse,Evenly distributed,Cell edges,High,High,No,No,,Yes,Yes,No,Yes,soma,No,0,yes,no,no,no,,1,2138636,2137991,2138696,,2138755
+2138507,High,High,"Diffuse	Cytoplasmic",Evenly distributed,"Cell edges	Other",Moderate,High,No,No,,Yes,Yes,Yes,Yes,No,No,0,no,no,no,no,,1,2138642,2138127,2138405,,2138132
+2138515,Moderate,Moderate,Diffuse,Evenly distributed,"Cell edges	Diffuse	Other",Low,Moderate,No,No,,Yes,Yes,Yes,Yes,No,No,0,no,no,no,no,,1,2138349,2137817,2138773,,2138357
+2138757,Moderate,Moderate,"Diffuse	Cytoplasmic",Evenly distributed,"Cell edges	Diffuse	Other",Low,Moderate,No,No,RNA signal in the deep image is very faint,Yes,Yes,Yes,Yes,No,No,0,no,no,no,no,,1,2138812,2138339,2137898,,2138430
+2137906,Moderate,Moderate,"Punctate	Diffuse",More in some cells than others,"Punctate	Diffuse",Moderate,Moderate,No,No,,Yes,Yes,Yes,Yes,No,No,0,no,no,no,no,,1,2137905,2138381,2138027,,2138355
+2138721,High,Low,"Diffuse	Cytoplasmic",Evenly distributed,"Cell edges	Other",Moderate,High,No,No,,Yes,Yes,Yes,Yes,No,No,0,no,no,no,no,,1,2138613,2138354,2138793,,2138598
+2138553,High,Low,"Diffuse	Cytoplasmic",Evenly distributed,Diffuse,Moderate,Moderate,No,No,,Yes,Yes,Yes,Yes,No,No,0,no,no,no,no,,1,2138941,2138850,2138816,,2138764
+2137798,High,Moderate,Diffuse,Evenly distributed,Diffuse,Moderate,High,No,No,Protein channel might need re-contrasting,Yes,Yes,Yes,Yes,No,No,0,no,no,no,no,,1,2137800,2138636,2138058,,2138768
+2138723,High,Low,"Diffuse	Cytoplasmic",Evenly distributed,"Cell edges	Diffuse	Other",None,High,No,No,RNA channel could do with being brighter,Yes,Yes,Yes,Yes,No,No,0,no,no,no,no,,1,2137756,2138349,,,2138490
+2138168,High,Moderate,"Diffuse	Subset of cells",More in some cells than others,"Cell edges	Diffuse",Moderate,High,No,No,,Yes,Yes,Yes,Yes,No,No,0,no,no,no,no,,1,2137784,2138812,,,2138068
+2138074,High,High,"Diffuse	Large aggregations",Evenly distributed,"Cell edges	Other",Moderate,High,No,No,Very weird protein expression pattern in the lobe surface. ,Yes,Yes,Yes,Yes,No,No,0,no,no,no,no,,1,2138178,2138941,,,2138914
+2138729,High,Moderate,"Punctate	Diffuse",Evenly distributed,"Punctate	Diffuse	Other",None,High,No,No,,Yes,Yes,Yes,Yes,No,No,0,no,no,no,no,,1,2138794,2138650,,,2138021
+2138410,High,Moderate,"Punctate	Cytoplasmic",Evenly distributed,"Punctate	Diffuse",High,High,No,No,"One cell filled with protein. Do we know what it is?
+",Yes,Yes,Yes,Yes,No,No,0,no,no,no,no,,1,2138589,2138794,,,2138646
+2138549,Moderate,Low,"Punctate	Diffuse",Evenly distributed,"Punctate	Diffuse",None,Moderate,No,No,,Yes,Yes,Yes,No,No,soma,1,no,yes,no,no,,1,2138788,2138589,,,2138637
+2137795,Moderate,Low,"Diffuse	Nuclear	Cytoplasmic",Evenly distributed,Cell edges,Low,Moderate,No,No,,Yes,Yes,No,No,No,soma,1,no,no,no,no,,1,2138657,2138788,,,2138000
+2138419,High,High,Punctate,More in some cells than others,Punctate,High,High,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2137951,2138657,,,2138053
+2138327,High,High,"Diffuse	Cytoplasmic",Evenly distributed,Diffuse,Moderate,High,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2137967,2137951,,,2138539
+2138911,Low,Low,"Cytoplasmic	Subset of cells",More in some cells than others,"Cell edges	Diffuse",Low,Low,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138570,2137967,,,2138612
+2138651,Moderate,Low,Cytoplasmic,Evenly distributed,Cell edges,Low,Moderate,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138472,2138570,,,2138359
+2138835,High,High,"Diffuse	Cytoplasmic",Evenly distributed,"Cell edges	Diffuse",Low,High,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2137770,2138472,,,2137991
+2138777,Moderate,Low,"Large aggregations	Cytoplasmic	Subset of cells",More in some cells than others,"Cell edges	Diffuse	Other",Moderate,Moderate,No,No,Large aggregations of RNA in a few cells?,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138584,2137770,,,2138127
+2138495,High,High,"Large aggregations	Nuclear	Subset of cells",Evenly distributed,Nuclear,Moderate,High,No,No,Image looks slightly blurry. Need to be re-imaged?,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138666,2138584,,,2137817
+2138487,Low,High,"Large aggregations	Nuclear",Evenly distributed,Nuclear,None,Low,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138324,2138666,,,2138381
+2138262,Low,Low,Diffuse,Evenly distributed,"Punctate	Diffuse",None,Low,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138267,2138324,,,2138941
+2137982,Low,Low,Subset of cells,Single transcripts,Cell edges,None,Low,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138109,2138267,,,2138650
+2138442,Moderate,Low,Cytoplasmic,Evenly distributed,Cell edges,Low,Moderate,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138461,2138109,,,2138794
+2138883,High,High,"Diffuse	Large aggregations	Cytoplasmic",More in some cells than others,"Cell edges	Diffuse",Low,High,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138440,2138461,,,2138589
+2138749,Low,Low,Other,Single transcripts,Punctate,Low,Low,No,No,Most protein expression is between two of the sections of the lobe,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138732,,,,2138657
+2138634,Moderate,Moderate,Punctate,Evenly distributed,Punctate,Low,Moderate,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138620,,,,2137951
+2138833,High,Moderate,"Diffuse	Cytoplasmic",Evenly distributed,"Cell edges	Diffuse",Low,High,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138913,,,,2138570
+2138448,Low,Low,Cytoplasmic,More in some cells than others,Cell edges,None,Low,No,No,Lots of trancripsts in maybe one cell?,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138696,,,,2138472
+2138456,Moderate,Moderate,Cytoplasmic,Evenly distributed,Cell edges,Low,Moderate,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138405,,,,2138666
+2138834,High,Moderate,"Diffuse	Cytoplasmic",Evenly distributed,"Cell edges	Diffuse",Low,High,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138773,,,,2138267
+2138565,High,High,"Diffuse	Cytoplasmic",Evenly distributed,"Cell edges	Diffuse",High,Moderate,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2137898,,,,2138461
+2138257,Moderate,Moderate,Diffuse,Evenly distributed,Diffuse,Low,Moderate,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138027,,,,2138549
+2138880,High,Low,"Diffuse	Cytoplasmic",Evenly distributed,"Cell edges	Diffuse",Low,High,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138793,,,,
+2138687,Low,High,"Diffuse	Cytoplasmic",Single transcripts,"Cell edges	Diffuse",Low,Low,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138816,,,,
+2138520,Low,Moderate,"Cytoplasmic	Subset of cells",More in some cells than others,Cell edges,Low,Low,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138725,,,,
+2138172,Low,Low,Punctate,Single transcripts,Cell edges,None,Low,No,No,Extremely low expression,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138720,,,,
+2138824,High,Moderate,"Punctate	Diffuse	Cytoplasmic",Evenly distributed,"Punctate	Cell edges",Low,High,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2137791,,,,
+2138912,Moderate,Moderate,"Punctate	Subset of cells",More in some cells than others,Punctate,Low,Moderate,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138467,,,,
+2138500,Moderate,Moderate,Large aggregations,Evenly distributed,"Punctate	Nuclear",Low,Moderate,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138851,,,,
+2138243,Moderate,Moderate,Diffuse,"Evenly distributed	Transcription foci","Punctate	Diffuse",Moderate,Moderate,No,No,"Lots of transcription in the deeper cells, none on the surface",Yes,Yes,No,No,soma,soma,1,no,no,no,no,,1,2138557,,,,
+2137805,Moderate,High,Punctate,Evenly distributed,Punctate,Low,Moderate,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,,,,,,
+2138867,High,High,"Diffuse	Cytoplasmic",Evenly distributed,"Cell edges	Diffuse",Low,High,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,,,,,,
+2138703,High,High,"Diffuse	Cytoplasmic",More in some cells than others,Cell edges,Low,High,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,,,,,,
+2138920,Low,Low,Other,More in some cells than others,,Low,Low,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,,,,,,
+2138932,Low,Moderate,"Diffuse	Cytoplasmic",Single transcripts,"Cell edges	Diffuse",None,Low,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,,,,,,
+2138918,High,Moderate,"Diffuse	Cytoplasmic",Evenly distributed,"Cell edges	Diffuse",Moderate,High,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,,,,,,
+2138865,High,High,"Punctate	Cytoplasmic",More in some cells than others,"Punctate	Cell edges	Diffuse",Low,High,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,,,,,,
+2138930,Moderate,Moderate,"Diffuse	Cytoplasmic",Evenly distributed,"Cell edges	Diffuse",Moderate,Moderate,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,,,,,,
+2138654,Low,Moderate,Cytoplasmic,More in some cells than others,Cell edges,Low,Low,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,,,,,,
+2138822,Moderate,Low,"Diffuse	Cytoplasmic",Evenly distributed,"Cell edges	Diffuse",Low,Moderate,No,No,RNA is very faint. Might need recontrasting,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,,,,,,
+2138534,Moderate,Low,"Diffuse	Cytoplasmic",Evenly distributed,Cell edges,Low,Moderate,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,,,,,,
+2138791,High,Moderate,"Large aggregations	Nuclear",Evenly distributed,"Punctate	Nuclear",Low,High,No,No,,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,,,,,,
+2138253,High,Moderate,Diffuse,Evenly distributed,Diffuse,Low,High,No,No,No neuropil visible. Might need to be re-imaged,Yes,Yes,No,No,soma,soma,1,no,no,no,no,,,,,,,
+2138026,High,High,"Large aggregations	Cytoplasmic	Subset of cells","Evenly distributed	More in some cells than others",Other,Moderate,High,Yes,Yes,The deep part of the figure looks pretty cool. High protein expression in the neuropil and aggregations/large numbers of transcripts of RNA in some cells. Very clean image too.,Yes,No,No,Yes,soma,neuropil,0,yes,no,no,yes,,,,,,,
+2138899,Low,Moderate,Diffuse,Single transcripts,"Diffuse	Other",None,Low,Yes,No,,Yes,No,No,Yes,soma,neuropil,0,yes,no,no,yes,,,,,,,
+2137877,Moderate,Moderate,Diffuse,Evenly distributed,Other,Low,Moderate,Yes,No,Scale bars on these. ,Yes,No,No,Yes,soma,neuropil,0,yes,no,no,yes,,,,,,,
+2138032,Moderate,Moderate,Subset of cells,"Evenly distributed	More in some cells than others",Other,Moderate,Moderate,Yes,No,,Yes,No,No,Yes,soma,neuropil,0,yes,no,no,yes,,,,,,,
+2138414,Moderate,Moderate,"Punctate	Diffuse",More in some cells than others,Other,Moderate,Moderate,Yes,No,,Yes,No,No,Yes,soma,neuropil,0,yes,no,no,yes,,,,,,,
+2138160,Low,Moderate,Subset of cells,More in some cells than others,Other,Low,Low,Yes,No,,Yes,No,No,Yes,soma,neuropil,0,yes,no,no,yes,,,,,,,
+2138044,High,Moderate,Diffuse,Evenly distributed,Other,High,High,Yes,No,,Yes,No,No,Yes,soma,neuropil,0,yes,no,no,yes,,,,,,,
+2137757,Low,Low,Diffuse,More in some cells than others,Diffuse,Low,Low,Yes,No,,Yes,No,No,Yes,soma,neuropil,0,yes,no,no,yes,,,,,,,
+2137807,Low,Low,Diffuse,More in some cells than others,Other,Low,Low,Yes,No,,Yes,No,No,Yes,soma,neuropil,0,yes,no,no,yes,,,,,,,
+2138691,Low,Moderate,Diffuse,Evenly distributed,Other,Low,Low,Yes,No,,Yes,No,No,Yes,soma,neuropil,0,yes,no,no,yes,,,,,,,
+2137800,Moderate,High,Diffuse,Evenly distributed,Diffuse,Low,High,Yes,No,,Yes,No,Yes,Yes,No,neuropil,0,no,no,no,yes,,,,,,,
+2137756,Moderate,Moderate,Large aggregations,"Evenly distributed	Transcription foci",Other,Low,Moderate,Yes,No,Protein throughout the OL neuropil,Yes,No,Yes,Yes,No,neuropil,0,no,no,no,yes,,,,,,,
+2137784,Low,High,Subset of cells,More in some cells than others,Other,Low,Low,Yes,No,,Yes,No,Yes,Yes,No,neuropil,0,no,no,no,yes,,,,,,,
+2138178,High,Moderate,Diffuse,Evenly distributed,Other,Low,High,Yes,No,,Yes,No,Yes,Yes,No,neuropil,0,no,no,no,yes,,,,,,,
+2138788,Moderate,None,,Evenly distributed,,Low,Moderate,Yes,No,,Yes,No,Yes,No,No,No,1,no,yes,no,yes,,,,,,,
+2137967,Moderate,None,Diffuse,Evenly distributed,,None,Moderate,Yes,No,,Yes,No,Yes,No,No,No,1,no,yes,no,yes,,,,,,,
+2137770,Low,None,Punctate,Single transcripts,,Low,Low,Yes,No,,Yes,No,Yes,No,No,No,1,no,yes,no,yes,,,,,,,
+2138584,Moderate,None,Diffuse,Evenly distributed,,Moderate,Moderate,Yes,No,,Yes,No,Yes,No,No,No,1,no,yes,no,yes,,,,,,,
+2138324,Low,None,Subset of cells,Single transcripts,,None,Low,Yes,No,,Yes,No,Yes,No,No,No,1,no,yes,no,yes,,,,,,,
+2138109,High,None,"Punctate	Diffuse","Evenly distributed	Transcription foci",,High,Moderate,Yes,No,,Yes,No,Yes,No,No,No,1,no,yes,no,yes,,,,,,,
+2138440,Low,None,Subset of cells,More in some cells than others,,None,Low,Yes,No,One cell with signal in the RNA channel. Not 100% this is real though. Josh?,Yes,No,No,No,No,No,1,no,no,no,yes,,,,,,,
+2138732,High,None,,More in some cells than others,,Moderate,High,Yes,No,,Yes,No,No,No,soma,No,1,no,no,no,yes,,,,,,,
+2138620,Low,None,,Evenly distributed,,None,Low,Yes,No,,Yes,No,No,No,soma,No,1,no,no,no,yes,,,,,,,
+2138913,Low,None,,More in some cells than others,,Low,Low,Yes,No,,Yes,No,No,No,soma,No,1,no,no,no,yes,,,,,,,
+2138696,Low,None,,"Single transcripts	More in some cells than others",,None,Low,Yes,No,,Yes,No,No,No,soma,No,1,no,no,no,yes,,,,,,,
+2138405,Moderate,None,Diffuse,Evenly distributed,,Low,Moderate,Yes,No,,Yes,No,No,No,No,No,1,no,no,no,yes,,,,,,,
+2138773,High,None,,More in some cells than others,,Low,High,Yes,No,,Yes,No,No,No,soma,No,1,no,no,no,yes,,,,,,,
+2137898,Moderate,None,Diffuse,More in some cells than others,,Low,Moderate,Yes,No,,Yes,No,No,No,soma,No,1,no,no,no,yes,,,,,,,
+2138027,Moderate,None,Subset of cells,More in some cells than others,,Low,Moderate,Yes,No,,Yes,No,No,No,soma,No,1,no,no,no,yes,,,,,,,
+2138793,Low,None,Subset of cells,More in some cells than others,,None,Low,Yes,No,Lots of transcripts in a small number of neighbouring cells,Yes,No,No,No,soma,No,1,no,no,no,yes,,,,,,,
+2138816,Low,None,,"Evenly distributed	Single transcripts",,None,Low,Yes,No,,Yes,No,No,No,soma,No,1,no,no,no,yes,,,,,,,
+2138725,High,None,,More in some cells than others,,Low,High,Yes,No,Large aggregation of RNA in one cell?,Yes,No,No,No,soma,No,1,no,no,no,yes,,,,,,,
+2138058,Low,None,"Punctate	Large aggregations	Subset of cells","Transcription foci	More in some cells than others",,Low,Low,No,No,Really large RNA aggregations in one cell. Loads of transcription foci? ,Yes,No,No,No,soma,No,1,no,no,no,yes,,,,,,,
+2138339,None,Low,Subset of cells,,Other,None,None,Yes,Yes,Very low expression. Autofluorescence?,No,Yes,No,Yes,No,No,0,yes,no,yes,no,,,,,,,
+2138354,None,Moderate,"Punctate	Large aggregations",,"Cell edges	Diffuse	Other",None,None,Yes,No,,No,Yes,No,Yes,N/A,No,0,yes,no,yes,no,,,,,,,
+2138850,None,Low,Diffuse,,Diffuse,None,None,Yes,No,,No,Yes,No,Yes,No,No,0,yes,no,yes,no,,,,,,,
+2137998,None,Low,Subset of cells,,"Cell edges	Other",None,None,Yes,No,,No,Yes,No,Yes,N/A,No,0,yes,no,yes,no,,,,,,,
+2138636,None,High,Cytoplasmic,,"Cell edges	Other",None,None,Yes,No,,No,Yes,No,Yes,No,No,0,yes,no,yes,no,,,,,,,
+2138642,None,Low,Diffuse,,"Cell edges	Other",None,None,Yes,No,Protein expression is very low,No,Yes,No,Yes,No,No,0,yes,no,yes,no,,,,,,,
+2138349,None,High,Diffuse,,"Cell edges	Other",None,None,Yes,No,,No,Yes,No,Yes,N/A,No,0,yes,no,yes,no,,,,,,,
+2138812,None,High,"Punctate	Other",,"Punctate	Cell edges",None,None,Yes,No,Along the layer between sections of the lobe,No,Yes,No,Yes,No,No,0,yes,no,yes,no,,,,,,,
+2137905,None,High,Diffuse,,Diffuse,None,None,Yes,No,,No,Yes,No,Yes,No,No,0,yes,no,yes,no,,,,,,,
+2138613,None,Moderate,"Punctate	Diffuse",,Other,None,None,Yes,No,,No,Yes,No,Yes,N/A,No,0,yes,no,yes,no,,,,,,,
+2138720,None,Moderate,"Diffuse	Cytoplasmic",,Cell edges,None,None,Yes,No,,No,Yes,No,No,No,soma,1,no,no,yes,no,,,,,,,
+2137791,None,Low,Subset of cells,,Cell edges,None,None,Yes,No,,No,Yes,No,No,N/A,soma,1,no,no,yes,no,,,,,,,
+2138467,None,Low,Punctate,,Punctate,None,None,Yes,No,,No,Yes,No,No,No,soma,1,no,no,yes,no,,,,,,,
+2138851,None,Low,"Diffuse	Cytoplasmic",,"Cell edges	Diffuse",None,None,Yes,No,,No,Yes,No,No,No,soma,1,no,no,yes,no,,,,,,,
+2138557,None,Low,Punctate,,Punctate,None,None,Yes,No,,No,Yes,No,No,No,No,1,no,no,yes,no,,,,,,,
+2138381,None,Low,Other,,Other,None,None,Yes,No,,No,No,No,Yes,No,neuropil,0,yes,no,no,no,,,,,,,
+2138941,None,Moderate,Large aggregations,,Other,None,None,Yes,No,,No,No,No,Yes,No,neuropil,0,yes,no,no,no,,,,,,,
+2138650,None,Low,Diffuse,,,None,None,No,No,Only a very low protein expression along the border between the different sections of the lobe,No,No,No,Yes,No,neuropil,0,yes,no,no,no,,,,,,,
+2138675,None,None,,,,None,None,No,No,Doesn't seem to be expressed,No,No,No,No,No,No,1,no,no,no,no,,,,,,,
+2137934,None,None,,,,None,None,No,No,"Doesn't seem to be expressed, DAPI is saturating and needs to be recontrasted",No,No,No,No,No,No,1,no,no,no,no,,,,,,,
+2138743,None,None,,,,None,None,No,No,Doesn't seem to be expressed,No,No,No,No,No,No,1,no,no,no,no,,,,,,,
+2138126,None,None,,,,None,None,No,No,DOesn't look like it's expressed,No,No,No,No,No,No,1,no,no,no,no,,,,,,,
+2137776,None,None,,,,None,None,No,No,Doesn't seem to be expressed,No,No,No,No,No,No,1,no,no,no,no,,,,,,,
+2138858,None,None,,,,None,None,No,No,,No,No,No,No,No,No,1,no,no,no,no,,,,,,,
+2138362,None,None,,,,None,None,No,No,Doesn't seem to be expressed,No,No,No,No,No,No,1,no,no,no,no,,,,,,,
+2138688,None,None,,,,None,None,No,No,Doesn't seem to be expressed,No,No,No,No,No,No,1,no,no,no,no,,,,,,,
+2138897,None,None,,,,None,None,No,No,Doesn't seem to be expressed,No,No,No,No,No,No,1,no,no,no,no,,,,,,,
+2138577,None,None,,,,None,None,No,No,Doesn't seem to be expressed,No,No,No,No,No,No,1,no,no,no,no,,,,,,,
+2138699,None,None,,,,None,None,No,No,Doesn't seem to be expressed,No,No,No,No,No,No,1,no,no,no,no,,,,,,,
+2138575,None,None,,,,None,None,No,No,Doesn't seem to be expressed. ,No,No,No,No,No,No,1,no,no,no,no,,,,,,,
+2138882,None,None,,,,None,None,No,No,Doesn't seem to be expressed,No,No,No,No,No,No,1,no,no,no,no,,,,,,,
+2138312,None,None,,,,None,None,No,No,Doesn't seem to be expressed,No,No,No,No,No,No,1,no,no,no,no,,,,,,,
+2137925,None,None,,,,None,None,No,No,Doesn't seem to be expressed,No,No,No,No,No,No,1,no,no,no,no,,,,,,,
+2138898,None,None,,,,None,None,No,No,Doesn't seem to be expressed,No,No,No,No,No,No,1,no,no,no,no,,,,,,,
+2138436,None,None,,,,None,None,No,No,Doesn't seem to be expressed,No,No,No,No,No,No,1,no,no,no,no,,,,,,,
+2137773,None,None,,,,None,None,No,No,Doesn't seem to be expressed,No,No,No,No,No,No,1,no,no,no,no,,,,,,,
+2138398,None,None,,,,None,None,No,No,Doesn't seem to be expressed,No,No,No,No,No,No,1,no,no,no,no,,,,,,,
+2138482,None,None,,,,None,None,No,No,Doesn't seem to be expressed,No,No,No,No,No,No,1,no,no,no,no,,,,,,,
+2138906,None,None,,,,None,None,No,No,This is a central brain figure,No,No,No,No,No,No,1,no,no,no,no,,,,,,,
+2137894,None,Low,Cytoplasmic,,Cell edges,None,None,Yes,No,,N/A,Yes,N/A,No,N/A,soma,1,no,no,no,no,,,,,,,
+2139878,High,High,,Evenly distributed,"Diffuse	Cytoplasmic",Low,High,No,No,,Yes,Yes,Yes,No,,,,,,,,,,,,,,
+2139978,High,High,,More in some cells than others,"Punctate	Large aggregations",High,Moderate,No,No,,Yes,Yes,No,Yes,,,,,,,,,,,,,,
+2140577,High,High,,More in some cells than others,"Punctate	Large aggregations",High,Moderate,No,No,,Yes,Yes,No,Yes,,,,,,,,,,,,,,
+2140676,High,Moderate,,More in some cells than others,Diffuse,Moderate,High,Yes,No,,Yes,Yes,No,Yes,,,,,,,,,,,,,,
+2140681,None,None,,,,None,None,No,No,Doesn't seem to be expressed,No,No,No,No,,,,,,,,,,,,,,
+2139886,High,High,,Evenly distributed,"Diffuse	Large aggregations	Cytoplasmic",None,Moderate,No,No,,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,
+2140576,None,None,,,,None,None,No,No,I think it's not expressed and contrasting needs to be adjusted. ,No,No,No,No,,,,,,,,,,,,,,
+2139898,High,Moderate,,Evenly distributed,"Cell edges	Diffuse",High,High,No,No,RNA channel is needs to be recontrasted for the surface image,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,
+2140585,Moderate,Low,,Evenly distributed,"Punctate	Diffuse",Low,Moderate,No,No,,Yes,Yes,No,Yes,,,,,,,,,,,,,,
+2140675,None,None,,,,None,None,No,No,Doesn't seem to be expressed,No,No,No,No,,,,,,,,,,,,,,
+2141755,None,None,,,,None,None,No,No,Doesn't seem to be expressed,No,No,No,No,,,,,,,,,,,,,,
+2139973,High,Moderate,,More in some cells than others,"Punctate	Diffuse",Low,High,No,No,RNA on the surface image needs to be brighter,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,
+2139961,High,Low,,More in some cells than others,Punctate,Moderate,High,Yes,No,,Yes,Yes,No,No,,,,,,,,,,,,,,
+2140682,High,High,,Evenly distributed,Punctate,Moderate,High,No,No,,Yes,Yes,Yes,No,,,,,,,,,,,,,,
+2139882,Moderate,None,,Evenly distributed,,Low,Moderate,No,No,,Yes,No,No,No,,,,,,,,,,,,,,

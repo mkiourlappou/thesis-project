@@ -1,0 +1,170 @@
+,figure_id,What is the level of RNA expression?,What is the level of protein expression?,What patterns does the RNA make?,What patterns does the protein make?,Nascent transcript level,Cytosolic RNA level,Is there obvious RNA/protein discordance (whole image)?,Flag this gene as a potential one to use for a figure in the paper?,Is RNA present in nerve?,Is protein present in nerve?,Is RNA present in glia?,Is protein present in glia?,Is RNA distribution cell-type specific?,Is protein distribution cell-type specific?,Is figure quality too poor?,General comments
+0,2140146,Moderate,Low,Evenly distributed,Punctate,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+1,2140158,Low,Low,Single transcripts,Punctate	Diffuse,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,"Very faint single molecules, not sure what is RNA signal and what is not."
+2,2140292,None,None,,,None,None,No,No,No,No,No,No,No,No,No,No RNA or protein visible.
+3,2140154,Low,Moderate,Evenly distributed,Punctate,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,Yes,"Very strange image, looks almost like reversed colour?"
+4,2140137,Moderate,Low,Evenly distributed,Diffuse,None,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+5,2140280,Low,Moderate,Single transcripts,Cell edges	Diffuse,High,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+6,2140162,Low,None,Single transcripts,Other,None,None,No,No,Yes,No,Yes,No,No,No,No,Seems like protein is in the trachea.
+7,2140170,Moderate,Moderate,Evenly distributed,Punctate	Cell edges,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+8,2140273,Moderate,Moderate,Evenly distributed,Nuclear,Moderate,Moderate,No,No,No,No,Yes,Yes,glia,glia,No,"Protein nuclear, present only in and around glial nuclei."
+9,2140210,Moderate,Moderate,Evenly distributed,Cell edges	Diffuse,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,Protein seems to be everywhere in the nerve and glia.
+10,2140261,Moderate,Low,Single transcripts,Punctate	Cell edges,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,Seems like more RNA and protein in glia.
+11,2140202,Low,Low,Single transcripts,Punctate,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,Yes,There seems to be debris visible in both protein and RNA channels and I cannot distinguish which one is an RNA molecule and which one is a protein spot.
+12,2140257,None,None,,,None,None,No,No,No,No,No,No,No,No,No,No RNA or protein visible.
+13,2143384,Low,None,Single transcripts,,Low,None,No,No,No,No,Yes,No,glia,No,No,There's only a single spot of RNA in the glial cell nucleus and that's it.
+14,2140183,Low,High,Other,Cell edges,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,"I don't see single molecules of RNA, it's all kind of grainy. Not sure where to look to find glia, image a bit unclear."
+15,2140234,Moderate,Low,Single transcripts,Diffuse,Low,Low,Yes,No,No,No,Yes,No,glia,No,No,"I don't think there's any protein at all but not sure, the signal is faint and diffuse. RNA on the outside of the nerve - probably in glia."
+16,2140245,Low,Moderate,Single transcripts,Nuclear,Low,Low,No,No,Yes,No,Yes,Yes,No,No,Yes,Protein nuclear. Figure quality not so good.
+17,2140238,Low,None,Single transcripts,,Low,Low,No,No,Yes,No,Yes,No,No,No,Yes,"No protein signal at all, RNA is very very grainy."
+18,2140226,Moderate,Moderate,Evenly distributed	Single transcripts,Punctate	Cell edges,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,Protein in punctate in the glia and cell edges in the nerve.
+19,2140191,Low,Moderate,Single transcripts,Nuclear,Low,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,"Protein is nuclear, prominent in glial nuclei."
+20,2140300,Low,Low,Single transcripts,Diffuse,High,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+21,2140200,Low,None,Single transcripts,Other,Low,Low,No,No,No,No,Yes,No,No,No,Yes,"Very dim signal, almost no signal in the nerve RNA channel."
+22,2140263,Moderate,Low,Evenly distributed	Single transcripts,Diffuse,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,nerve,No,No,More RNA in the nerve than in glia.
+23,2140212,Low,None,Single transcripts,,None,Low,No,No,Yes,No,Yes,No,No,No,No,
+24,2140271,Low,None,Nuclear,,Moderate,Low,Yes,No,Yes,No,Yes,No,glia,No,No,"More RNA in glia, might be because there is a nucleus there and not in the nerve of course."
+25,2140259,Low,None,Single transcripts,,None,Low,Yes,No,Yes,No,Yes,No,No,No,No,Protein channels completely empty.
+26,2140224,Moderate,Moderate,Single transcripts,Nuclear,Moderate,Low,No,No,Yes,No,Yes,Yes,No,No,No,Protein definitely nuclear. No protein in the nerve because no nerve cell nuclei there.
+27,2140193,Moderate,Moderate,Evenly distributed,Diffuse	Other,Low,Moderate,No,No,Yes,Yes,Yes,Yes,glia,No,No,Protein uniformly present in the nerve and the glia. More RNA in glia.
+28,2143385,Moderate,Low,Single transcripts,Punctate,Moderate,Low,No,No,Yes,Yes,Yes,No,No,No,No,
+29,2143386,Low,Low,Single transcripts,Diffuse,None,Low,No,No,No,Yes,Yes,Yes,No,No,No,"This is exactly the same as another image, I am giving it the code GAAT. The description for both has been made the same by me. I only see one single molecule of RNA in glia, and protein is so diffuse I can barely see it."
+30,2140236,Low,Low,Nuclear,Punctate,Moderate,Low,No,No,No,No,Yes,Yes,No,No,Yes,Nerve images are very faint and don't seem very good.
+31,2140255,Low,None,Single transcripts,,Low,Low,No,No,Yes,No,Yes,No,No,No,No,Protein channels are nearly empty.
+32,2140228,Low,Moderate,Single transcripts,Diffuse,Low,Low,No,No,Yes,Yes,Yes,Yes,No,nerve,No,
+33,2140148,Moderate,Low,Single transcripts,Punctate	Diffuse,High,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+34,2140282,Moderate,Low,Evenly distributed	Single transcripts,Cell edges,High,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+35,2140156,Low,Low,Single transcripts,Punctate,None,Low,No,No,Yes,Yes,No,Yes,No,No,No,
+36,2140290,Low,Low,Single transcripts,Cell edges,High,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,Big transcription focus in the glial nuclei.
+37,2140144,Moderate,Low,Single transcripts,Punctate	Diffuse,High,None,No,No,Yes,Yes,Yes,Yes,No,No,Yes,I cannot see where the nerve is supposed to be. Very diffuse signal.
+38,2140139,Moderate,Moderate,Evenly distributed,Diffuse,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+39,2140172,Low,Low,Other,Muscle fibres	Diffuse,Low,None,No,No,No,No,No,Yes,No,No,No,"Almost no RNA visible at all, not sure if FISH worked."
+40,2140160,Low,High,Single transcripts,Cell type specific,Moderate,Low,No,No,Yes,Yes,Yes,No,No,nerve,No,
+41,2140185,Low,Moderate,Single transcripts,Cell edges,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+42,2140232,High,Low,Evenly distributed,Punctate	Diffuse,Moderate,High,No,No,Yes,Yes,Yes,Yes,No,No,No,
+43,2140251,High,High,Evenly distributed	Single transcripts	Nuclear,Cell edges	Diffuse,High,High,No,No,Yes,Yes,Yes,Yes,No,No,No,Seems like RNA is at the cell edges.
+44,2140220,Low,Moderate,Single transcripts,Nuclear,Moderate,Low,No,No,Yes,No,Yes,Yes,No,glia,No,"Protein definitely nuclear. RNA signal grainy. Protein only in glial nuclei, but no nerve nuclei in the picture."
+45,2140197,High,Moderate,Evenly distributed	Nuclear,Nuclear,Moderate,High,No,No,Yes,No,Yes,Yes,No,No,No,
+46,2140189,Low,Moderate,Single transcripts,Cell edges,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,Yes,RNA signal very grainy. I don't know where the single molecules are.
+47,2140243,High,None,Evenly distributed	More in some cells than others,,Low,High,Yes,No,No,No,Yes,No,glia,No,No,The protein channels are literally empty.
+48,2140216,Low,Low,Single transcripts	Nuclear,Diffuse,Moderate,Low,No,No,Yes,Yes,Yes,Yes,glia,No,No,More RNA in glia than in the nerve in this image.
+49,2140208,Low,None,Single transcripts,Other,Low,Low,No,No,Yes,No,Yes,No,No,No,No,"Protein channel is empty, literally almost black."
+50,2140275,Low,High,Single transcripts,Cell edges	Muscle fibres,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,"Very little RNA in the nerve, more in glia."
+51,2140204,Moderate,Low,Evenly distributed	Single transcripts,Diffuse,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,Protein very diffuse.
+52,2140279,Moderate,None,Nuclear,,High,None,No,No,No,No,Yes,No,glia,No,No,
+53,,Moderate,Low,Evenly distributed	Single transcripts,Cell edges	Large aggregations,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+54,2140164,Low,Low,Single transcripts,Diffuse,None,Low,No,No,Yes,Yes,Yes,Yes,glia,No,No,More RNA nearby glial cell nuclei but seems like there is none in the nuclei.
+55,2140168,Low,Low,Single transcripts,Punctate	Diffuse,Low,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,"The glia image in this picture is the same as the other one, they don't have names above so I am giving it the code CATG, that's how one can check it later. This message is the same for both of these images. The nerve images are different for both."
+56,2143388,Low,Moderate,Single transcripts,Diffuse,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,The RNA and protein channels seem to be swapped here for the glial image.
+57,2140294,Moderate,Low,Evenly distributed,Nuclear,Low,Moderate,No,No,Yes,No,Yes,Yes,No,No,No,Protein prominent in glial nuclei.
+58,2140140,Moderate,Low,Evenly distributed,Punctate	Diffuse,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,"Signal extremely diffuse, not clear at all where RNA is."
+59,2140286,Low,None,Single transcripts	Nuclear,,High,Low,Yes,No,Yes,No,Yes,No,No,No,No,Big transcription foci in glial nuclei.
+60,2140298,None,Low,,Punctate,None,None,No,No,No,Yes,No,Yes,No,No,Yes,"I see no single puncta of RNA, and protein is extremely diffuse. "
+61,2140152,Low,Moderate,Single transcripts,Diffuse,Low,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+62,2140174,Moderate,Moderate,Single transcripts,Diffuse,None,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+63,2140166,Low,Low,Single transcripts,Punctate,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,Protein very very diffuse.
+64,2140178,Low,Low,Single transcripts,Punctate,Low,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+65,2140150,Low,None,Single transcripts,Other,Moderate,Low,No,No,No,No,Yes,No,No,No,No,
+66,2143389,Moderate,Moderate,Nuclear,Diffuse,High,Low,No,No,No,Yes,Yes,Yes,No,No,No,
+67,2140288,None,None,,,None,None,No,No,No,No,No,No,No,No,No,No RNA or protein visible here.
+68,2140142,Low,Low,Other,Other,Low,None,No,No,No,No,Yes,Yes,No,No,Yes,For protein for the nerve the channel is completely black and I can barely see where the nerve is. No single molecules of RNA in the nerve.
+69,2140296,Moderate,Moderate,Evenly distributed,Cell edges,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,glia,No,No,More RNA in glia than in the nerve.
+70,2140241,Moderate,Moderate,Evenly distributed,Diffuse,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+71,2143390,Moderate,Moderate,Single transcripts,Nuclear,Moderate,Low,No,No,Yes,No,Yes,Yes,No,No,No,Protein definitely nuclear.
+72,2140195,None,Low,Other,Diffuse,None,None,No,No,No,Yes,No,Yes,No,No,Yes,The RNA channels seem empty to me. Massive white blob in the glial one. Seems like an artefact.
+73,2140199,Low,Moderate,Other,Nuclear,Moderate,None,No,No,No,No,Yes,Yes,No,No,No,RNA channel nearly empty. Protein definitely nuclear.
+74,2140253,Moderate,Low,Single transcripts,Punctate	Cell edges	Diffuse,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+75,2140187,Moderate,High,Evenly distributed,Other,Low,High,No,No,Yes,Yes,Yes,Yes,No,No,No,The protein is very bright and seems to be everywhere in the nerve and the glia.
+76,2140230,Low,Low,Single transcripts,Diffuse,High,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,Protein is very diffuse. Not sure if signal real.
+77,2140218,Moderate,Moderate,Evenly distributed	Single transcripts,Diffuse,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+78,2143392,Moderate,Moderate,Evenly distributed,Punctate	Large aggregations,Moderate,Moderate,No,No,No,Yes,Yes,Yes,glia,No,No,
+79,2140206,Low,Low,Single transcripts,Nuclear,Low,Low,No,No,Yes,No,Yes,Yes,No,No,No,"Probably nuclear protein, signal very dim though."
+80,2140277,Low,Low,Single transcripts,Punctate	Cell edges,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+81,2140214,Low,None,Single transcripts,,Moderate,Low,Yes,No,No,No,Yes,No,No,No,Yes,
+82,2140269,Low,Low,Single transcripts,Punctate,Low,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,"Very little protein, it is possible it's just debris."
+83,2140235,High,High,Evenly distributed	Single transcripts,Diffuse,Moderate,High,No,No,Yes,Yes,Yes,Yes,No,No,No,
+84,2140182,Low,Low,Single transcripts,Diffuse,None,Low,No,No,No,Yes,Yes,Yes,No,No,No,"RNA singal super grainy, not sure what signal what not."
+85,2140248,Low,None,Single transcripts,,Low,None,No,No,No,No,Yes,No,glia,No,No,
+86,2140256,None,None,,,None,None,No,No,No,No,No,No,No,No,No,No RNA or protein visible.
+87,2140190,None,Low,Other,Diffuse,None,None,No,No,No,Yes,No,Yes,No,No,Yes,RNA channels are empty (almost completely or completely black) here.
+88,2140227,High,Low,Other,Nuclear,None,High,No,No,Yes,No,Yes,Yes,No,No,Yes,RNA signal is not in punctate but everywhere. Not sure quality good enough. Protein nuclear in glia.
+89,2140239,Low,Moderate,Single transcripts,Diffuse,High,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+90,2140244,Moderate,Moderate,Evenly distributed	Single transcripts,Nuclear,Moderate,Moderate,No,No,Yes,No,Yes,Yes,No,No,No,"Protein is definitely nuclear, visible in glial nuclei."
+91,2140211,Low,Low,Single transcripts,Cell edges,None,Low,No,No,No,No,Yes,Yes,No,No,Yes,RNA channel really grainy. Protein channel nearly completely black for the nerve.
+92,2140272,Low,None,Single transcripts,Diffuse,None,Low,Yes,No,Yes,No,Yes,No,nerve,No,Yes,"RNA signal very grainy. Seems like more RNA in the nerve, but I am not sure."
+93,2140203,Moderate,Low,Evenly distributed	Single transcripts,Diffuse,None,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+94,2140260,Low,Low,Single transcripts,Large aggregations,Low,Low,No,No,Yes,No,Yes,Yes,No,No,No,
+95,2140163,Low,None,Single transcripts,Other,None,Low,No,No,Yes,No,Yes,No,No,No,No,"This figure showed up the second time now; might be duplicated. Protein in the trachea possibly, the duplicate can be maybe identified by this comment, the trachea is in the upper right corner of the image."
+96,2140171,Low,Low,Single transcripts,Punctate	Nuclear,None,Low,No,No,Yes,Yes,No,Yes,No,No,Yes,"Images really dim, protein possibly nuclear."
+97,2140293,Moderate,None,Single transcripts,,None,Moderate,Yes,No,Yes,No,Yes,No,No,No,No,
+98,2140159,Moderate,Moderate,Single transcripts	Nuclear,Nuclear,High,Low,No,No,Yes,Yes,Yes,Yes,No,glia,No,"Possibly nucleolar protein, visible in glial nuclei."
+99,2140147,Low,Low,Single transcripts,Diffuse,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+100,2140281,Low,None,Single transcripts,,Moderate,Low,Yes,No,Yes,No,Yes,No,glia,No,No,More RNA in glia.
+101,2140155,Low,Low,Single transcripts,Diffuse,None,Low,No,No,No,Yes,Yes,Yes,No,No,No,
+102,2140173,Low,Low,Single transcripts,Diffuse,Low,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,More protein in the nerve than glia seems like it
+103,2140161,Low,Low,Single transcripts,Diffuse,None,Low,No,No,Yes,Yes,Yes,No,No,No,Yes,"Very dim signal, RNA signal diffuse"
+104,2140157,Low,Low,Single transcripts,Punctate,Low,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+105,2140283,None,Low,,Diffuse,None,None,No,No,No,Yes,No,Yes,No,No,No,"No RNA visible here, or too grainy to tell where it is."
+106,2140149,Low,Low,Single transcripts,Diffuse,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,Protein signal kind of dim and diffuse.
+107,2140138,Low,Low,Single transcripts,Punctate	Cell edges	Diffuse,Low,Moderate,Yes,No,Yes,No,Yes,No,No,No,Yes,
+108,2140145,Moderate,Moderate,Evenly distributed,Punctate,Low,High,No,No,Yes,Yes,Yes,Yes,No,No,No,
+109,2140291,Low,Low,Single transcripts,Diffuse,None,Low,No,No,Yes,No,Yes,No,No,No,No,I see onlyone RNA molecule in the nerve and one in the glia.
+110,2140246,High,None,Evenly distributed,,Low,High,No,No,Yes,No,Yes,No,No,No,No,"I would say there is no protein there, I see the outline of the nerve but I think this is not signal."
+111,2140192,Low,Low,Single transcripts,Diffuse,Low,Low,No,No,Yes,Yes,Yes,Yes,No,No,Yes,"Everything is very diffuse, not every single molecule is clear to me."
+112,2140225,Moderate,Low,Evenly distributed,Diffuse,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,"RNA signal is really grainy, I don't know what's real and what isn't."
+113,2140258,Low,None,Single transcripts,,Moderate,Low,No,No,Yes,No,Yes,No,No,No,No,"Big transcription focus in the glial nucleus, single RNA molecule in the nerve and no more anywhere else."
+114,,Low,Low,Single transcripts,Diffuse,Low,Low,No,No,No,No,Yes,Yes,No,No,No,
+115,2140254,Moderate,Low,Evenly distributed,Diffuse,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,"RNA signal kind of grainy, not sure if it is real or not."
+116,2140237,Moderate,Moderate,Evenly distributed,Diffuse,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+117,2140180,Low,Low,Single transcripts,Diffuse,None,Low,No,No,No,Yes,Yes,Yes,No,No,No,"This is exactly the same as another image, I am giving it the code GAAT. The description for both has been made the same by me. I only see one single molecule of RNA in glia, and protein is so diffuse I can barely see it."
+118,2140262,Moderate,None,Evenly distributed,,Low,Moderate,Yes,No,Yes,No,Yes,No,No,No,No,Protein channels empty.
+119,2140201,Low,Low,Single transcripts,Diffuse,Moderate,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,I don't actually think there is any protein there. Looks maybe like autofluorescence.
+120,,None,None,,,None,None,No,No,No,No,No,No,No,No,No,
+121,2140270,Low,None,Single transcripts,,None,Low,No,No,Yes,No,Yes,No,No,No,Yes,"RNA signal very grainy, not sure what signal."
+122,2140213,High,High,Evenly distributed,Nuclear,High,High,No,No,Yes,No,Yes,Yes,No,No,No,Protein for sure nuclear.
+123,2140141,Moderate,Moderate,Evenly distributed,Cell edges,None,Moderate,No,No,Yes,No,Yes,Yes,No,No,No,
+124,2140295,Low,Low,Cell type specific,Nuclear,Moderate,Low,No,No,No,No,Yes,Yes,glia,glia,No,RNA only at the edges of the nerve. Protein only in glial nuclei.
+125,2140153,Low,Moderate,Single transcripts,Diffuse,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+126,2140299,Moderate,Low,Evenly distributed,Punctate	Cell edges,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,Protein looks really dim. Not sure it is real signal.
+127,2140287,High,None,Evenly distributed,,Moderate,High,Yes,No,Yes,No,Yes,No,No,No,No,RNA channel is wild and doesn't look like single molecules at all. I am not sure if this is true signal from RNA.
+128,2140165,Low,Low,Single transcripts,Diffuse,None,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,Protein extremely diffuse.
+129,,None,Low,Other,Cell edges,None,None,No,No,No,Yes,No,Yes,No,No,No,Everything is really dim and I am not sure there is any RNA there at all.
+130,2140169,Low,Low,Single transcripts,Punctate	Diffuse,Low,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,"The glia image in this picture is the same as the other one, they don't have names above so I am giving it the code CATG, that's how one can check it later. This message is the same for both of these images. The nerve images are different for both."
+131,2140274,Low,None,Single transcripts,,None,Low,No,No,No,No,Yes,No,glia,No,Yes,
+132,2140209,Moderate,None,Evenly distributed	Single transcripts	More in some cells than others,Punctate	Other,High,Moderate,No,No,Yes,No,Yes,Yes,glia,No,No,Protein channels nearly empty. Single speck of green channel signal in the glia.
+133,2140217,Moderate,Moderate,Evenly distributed,Punctate,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,glia,No,Seems like more protein and brighter signal in glia.
+134,2140266,Low,None,Single transcripts,,Moderate,Low,No,No,Yes,No,Yes,No,No,No,No,More RNA in glia than in the nerve.
+135,2140278,Moderate,None,Evenly distributed,,High,Moderate,Yes,No,No,No,Yes,No,glia,No,No,
+136,2140205,High,Low,Evenly distributed,Punctate	Diffuse,Moderate,High,Yes,No,Yes,No,Yes,Yes,No,No,No,"Seems like little or no protein present. One speck in the glial nuclei, bright spot."
+137,2140250,None,Low,,Cell edges,None,None,No,No,No,Yes,No,Yes,No,No,Yes,No RNA visible at all and all signal is faint and dim and diffuse.
+138,2140233,Moderate,Moderate,Evenly distributed,Cell type specific,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,glia,No,I would hypothesise that the protein is in subperineurial glia. Looks like fig 1D in https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3362601/. RNA is really grainy.
+139,2140184,Low,Moderate,Nuclear,Cell edges,Moderate,None,No,No,Yes,Yes,Yes,No,No,No,No,Very diffuse signal both for protein and RNA.
+140,2140242,Low,Low,Single transcripts,Punctate,Low,Low,No,No,No,No,Yes,Yes,No,No,Yes,Protein might be nucleolar. The signal is very strange.
+141,2143396,Moderate,High,Evenly distributed	Single transcripts,Other,Low,Moderate,No,No,Yes,Yes,Yes,Yes,nerve,No,No,"The overview image doesn't match channel images here for glia, it might be the contrasting. In glia, it seems like the protein is everywhere in the overview, but in the individual image it seems to only be in the nucleus. It's very weird. In the nerve, it seems to be everywhere."
+142,2140196,Low,Low,Single transcripts,Diffuse,Low,Low,No,No,Yes,No,Yes,Yes,No,No,No,I scored it based on small white specks I think are sm of RNA but I am not sure that is correct. They are VERY dim and diffuse.
+143,2140221,Moderate,High,Single transcripts,Nuclear,High,Low,No,No,No,No,Yes,Yes,glia,glia,No,Protein definitely nuclear. No RNA or protein in the nerve.
+144,2140207,High,High,Evenly distributed	More in some cells than others,Cell edges,High,High,No,Yes,Yes,No,Yes,Yes,glia,glia,No,
+145,2140264,Low,Moderate,Single transcripts,Punctate	Nuclear,Low,Low,No,No,No,No,Yes,Yes,glia,glia,No,"Protein is nuclear, forms punctate in the nucleus."
+146,2140219,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,"Single punctum of RNA in glia (v. bright, looks like debris) and a single punctum of protein in the nerve. The channels are otherwise empty."
+147,2140268,Low,None,Single transcripts,,None,Low,No,No,Yes,No,Yes,No,No,No,No,
+148,2143398,Low,None,Single transcripts,,Low,Low,No,No,Yes,No,Yes,No,No,No,No,RNA and protein channels for the nerve are the same image.
+149,2140276,Low,Moderate,Single transcripts,Nuclear,High,None,No,No,No,No,Yes,Yes,glia,glia,No,Protein is nuclear.
+150,2140194,Moderate,Moderate,Evenly distributed,Cell edges	Cell type specific,Low,Moderate,No,No,Yes,No,Yes,Yes,No,glia,No,It actually seems like the protein is present in the glia wrapping the nerve.
+151,2140223,Low,Moderate,Single transcripts,Cell edges	Diffuse,High,Low,No,No,Yes,Yes,Yes,Yes,No,glia,No,More protein in glia than in the nerve.
+152,2140240,Low,Low,Single transcripts,Punctate,Low,Low,No,No,Yes,No,Yes,Yes,No,No,No,"Apart from a single punctum of protein in the glia nearby the nuclei, there's no protein anywhere else."
+153,2140231,Moderate,High,Evenly distributed,Diffuse,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+154,2140186,Low,Moderate,Single transcripts	Nuclear,Nuclear,Moderate,Low,No,No,Yes,No,Yes,Yes,No,No,No,"Absolutely no protein in the nerve. Almost black image. No nucleus in it which might explain this, this is most likely a nuclear protein."
+155,2140252,Moderate,Moderate,Single transcripts,Diffuse,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+156,2140198,Moderate,High,Evenly distributed	Single transcripts,Cell edges	Diffuse	Other,Low,Moderate,No,No,Yes,Yes,Yes,Yes,glia,No,No,"Protein seems to be equally in the nerve and glia, but RNA is at the edge of the nerve, so possibly only in glia."
+157,2140285,None,None,,,None,None,No,No,No,No,No,No,No,No,Yes,No RNA or protein visible. Everything is really dim.
+158,2140151,Low,Moderate,Single transcripts,Diffuse,Low,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,
+159,2140297,Moderate,Moderate,Evenly distributed	Single transcripts,Cell edges	Large aggregations,None,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+160,2140143,Moderate,Moderate,Evenly distributed,Nuclear,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,Probably nuclear protein.
+161,2140289,High,Low,Evenly distributed,Nuclear,Low,High,No,No,Yes,No,Yes,Yes,No,No,No,RNA channel is wild here and possibly looks like it is switched with the protein channel? I don't see any single molecules. Protein is nuclear.
+162,2140175,None,Low,Other,Diffuse,Low,None,No,No,No,No,Yes,Yes,No,No,No,I only see one single RNA molecue in the glial nucleus. The protein is so dim that maybe it is not even there.
+163,2140179,Moderate,Moderate,Single transcripts,Cell edges	Diffuse,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,DAPI channel is visible in the RNA channel also.
+164,2140167,Low,High,Single transcripts,Nuclear,None,Low,Yes,No,No,No,Yes,Yes,No,No,No,"Nuclear protein, I am sure. No RNA in the nerve at all, some in glial cytoplasm."
+165,2140590,Low,Low,Single transcripts,Cell edges,None,Low,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Figure very fuzzy - not sure about the RNA questions
+166,2140589,Moderate,Moderate,Evenly distributed	Single transcripts,Diffuse,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,
+167,2140591,Moderate,Low,Evenly distributed,Diffuse,None,Moderate,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Very diffuse RNA - I am not sure where the single puncta are
+168,2143048,Moderate,Low,Evenly distributed,Cell edges	Diffuse,None,Moderate,Yes,No,Yes,No,Yes,Yes,No,No,No,

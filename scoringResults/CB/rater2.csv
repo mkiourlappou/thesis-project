@@ -1,0 +1,203 @@
+figure_id,What is the level of RNA expression?,What is the level of protein expression?,"If there is RNA expression, what patterns does the RNA make?","If there is protein expression, what patterns does the protein make?",Nascent transcript level,Cytosolic RNA level,Is there obvious RNA/protein discordance (whole image)?,Flag this gene as a potential one to use for a figure in the paper?,Is RNA present in NBs?,Is protein present in NBs?,Is RNA present in anlagen?,Is protein present in anlagen?,Is RNA present in other cells?,Is protein present in other cells?,Is figure quality too poor?,General comments,,NB_RNA_no_protein,NB_protein_no_RNA,figure_id
+2138372,Moderate,High,"Single transcripts	More in some cells than others","Cytoplasmic	Cell type specific",Moderate,Low,No,No,Yes,Yes,No,Yes,Yes,No,No,,,0,1,2138667
+2138694,Moderate,Moderate,Single transcripts,"Large aggregations	Cytoplasmic	Cell type specific",High,Moderate,No,No,Yes,Yes,No,Yes,No,No,No,Not a lot of protein in Anlagen but still present,,0,1,2138751
+2138786,High,High,"Evenly distributed	Single transcripts","Cytoplasmic	Cell type specific",High,Moderate,No,No,Yes,No,Yes,Yes,No,No,No,,,0,1,2138848
+2138552,Moderate,Moderate,"Evenly distributed	Single transcripts",Large aggregations,Moderate,Moderate,No,No,Yes,Yes,No,No,No,No,No,,,0,1,2138499
+2138356,Low,Moderate,Evenly distributed,"Cell edges	Large aggregations",Low,Low,No,No,No,No,No,Yes,No,No,No,,,0,1,2138753
+2139974,Moderate,Moderate,"Evenly distributed	Single transcripts","Punctate	Diffuse	Large aggregations",Moderate,Moderate,No,No,Yes,No,No,Yes,No,No,No,,,0,1,2138745
+2138564,High,High,"Evenly distributed	Single transcripts",Cytoplasmic,Moderate,Moderate,No,No,Yes,Yes,N/A,N/A,No,No,No,Rna is present in most neuroblasts,,0,1,2138761
+2138568,Low,High,"Evenly distributed	Single transcripts","Large aggregations	Cytoplasmic",Moderate,Moderate,No,No,Yes,Yes,No,Yes,No,No,No,,,0,1,2138425
+2138476,High,High,"Evenly distributed	Single transcripts","Diffuse	Cytoplasmic",Moderate,Moderate,Yes,No,Yes,Yes,N/A,N/A,No,No,No,,,0,1,2138692
+2138708,Moderate,Low,"Evenly distributed	Single transcripts",Diffuse,High,Moderate,No,No,Yes,No,No,No,No,No,No,,,0,1,2138852
+2138604,Moderate,High,Cell type specific,"Cell edges	Large aggregations",High,High,No,No,Yes,Yes,Yes,Yes,No,No,No,,,0,1,2138655
+2138767,Moderate,Low,"Single transcripts	Cell type specific",Diffuse,Moderate,Low,No,No,No,No,Yes,Yes,No,No,No,,,0,1,2138678
+2138667,Moderate,High,Evenly distributed,"Diffuse	Large aggregations	Cytoplasmic",Moderate,Moderate,Yes,No,No,Yes,No,Yes,No,No,No,,,0,1,2138810
+2138927,High,High,"Single transcripts	More in some cells than others","Cytoplasmic	Cell type specific",High,Moderate,No,No,Yes,Yes,No,No,No,No,No,,,0,1,2138441
+2138827,High,Moderate,"Evenly distributed	Single transcripts","Cytoplasmic	Cell type specific",Moderate,Low,Yes,No,Yes,No,No,No,No,No,No,,,0,1,2138361
+2138939,Moderate,High,"Evenly distributed	Single transcripts",Cytoplasmic,High,Moderate,No,No,Yes,Yes,No,No,No,No,No,,,0,1,2138451
+2138751,Low,Low,More in some cells than others,Diffuse,Low,Low,No,No,No,Yes,No,No,No,No,No,,,0,1,2138664
+2138597,Moderate,Moderate,"Single transcripts	Cell type specific	More in some cells than others",Large aggregations,High,Moderate,No,No,Yes,Yes,No,Yes,No,No,No,,,0,1,2138524
+2138848,Low,Moderate,Evenly distributed,"Diffuse	Large aggregations",None,None,No,No,No,Yes,No,Yes,No,No,No,,,0,1,2138547
+2138489,None,None,More in some cells than others,"Punctate	Diffuse",Moderate,Moderate,Yes,No,Yes,Yes,Yes,No,No,No,No,discordance present in anlagen,,0,1,2138343
+2138718,Moderate,Moderate,"Evenly distributed	Single transcripts","Diffuse	Cytoplasmic",Low,Low,Yes,No,Yes,No,No,Yes,No,No,No,,,0,1,2138896
+2138813,Low,Low,"Evenly distributed	Single transcripts",Large aggregations,Low,Low,Yes,No,Yes,Yes,No,No,No,No,No,protein expression in some of the neuroblasts not all.,,0,1,2138330
+2138862,Moderate,Moderate,"Evenly distributed	Single transcripts",Diffuse,Moderate,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,,,0,1,2137980
+2138614,Low,Low,"Evenly distributed	Single transcripts",Cell edges,Low,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,,,0,1,2138256
+2138714,Moderate,Low,Single transcripts,Punctate,Moderate,Moderate,No,No,Yes,No,No,No,No,No,No,,,0,1,2137768
+2138722,Moderate,Low,"Evenly distributed	Single transcripts","Cytoplasmic	Other",Moderate,Moderate,No,No,Yes,No,Yes,No,No,No,No,,,0,1,2138161
+2138499,Low,High,Evenly distributed,"Large aggregations	Cytoplasmic",Low,Moderate,Yes,Yes,No,Yes,No,Yes,No,No,No,,,0,1,2137890
+2138753,Low,Low,Single transcripts,Diffuse,Low,Low,No,No,No,Yes,No,Yes,No,No,No,,,0,1,2137781
+2138653,High,Moderate,"Evenly distributed	Single transcripts",Punctate,High,Moderate,No,No,Yes,Yes,Yes,No,No,No,No,,,0,1,2137846
+2138730,Moderate,Moderate,"Evenly distributed	Single transcripts","Punctate	Diffuse	Cytoplasmic",Moderate,Moderate,No,No,Yes,Yes,No,Yes,No,No,No,,,0,1,2138019
+2138784,High,High,"Evenly distributed	Single transcripts","Diffuse	Large aggregations	Cytoplasmic",Moderate,Moderate,No,No,Yes,No,No,Yes,No,No,No,,,0,1,2137915
+2138891,Moderate,Moderate,Single transcripts,"Diffuse	Cytoplasmic",Moderate,Low,No,No,Yes,No,No,Yes,No,No,No,,,1,0,2138786
+2138370,High,High,"Evenly distributed	Single transcripts",Cytoplasmic,High,Low,Yes,No,Yes,Yes,No,Yes,No,No,No,There is RNA in some neuroblasts but not others.,,1,0,2139974
+2138509,Moderate,High,Single transcripts,"Diffuse	Cytoplasmic",None,None,No,No,Yes,Yes,Yes,Yes,No,No,No,RNA present in some neuroblasts but not others,,1,0,2138708
+2138574,High,Low,"Evenly distributed	Single transcripts",Cytoplasmic,Moderate,Moderate,No,No,Yes,Yes,N/A,N/A,No,No,No,,,1,0,2138827
+2139876,High,High,"Evenly distributed	Single transcripts",,Moderate,Moderate,No,Yes,Yes,Yes,No,No,No,No,No,,,1,0,2138718
+2138578,Low,Low,Single transcripts,Cytoplasmic,Low,Low,No,No,Yes,Yes,No,No,No,No,No,,,1,0,2138714
+2138649,Moderate,Moderate,"Evenly distributed	Single transcripts","Punctate	Diffuse",Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,,,1,0,2138722
+2138921,Low,None,Single transcripts,,None,None,No,No,No,No,N/A,N/A,No,No,No,Almost no protein and RNA expressiion,,1,0,2138784
+2138821,Moderate,Low,"Evenly distributed	Single transcripts",Cytoplasmic,Moderate,Low,No,No,Yes,Yes,No,No,No,No,No,,,1,0,2138891
+2138583,Moderate,High,"Single transcripts	More in some cells than others",Cytoplasmic,Moderate,Low,No,No,Yes,Yes,No,Yes,No,No,No,,,1,0,2138905
+2138745,Low,Low,Evenly distributed,Punctate,None,Low,No,No,No,Yes,No,No,No,No,No,,,1,0,2138399
+2138738,Moderate,Moderate,"Single transcripts	More in some cells than others",Cell edges,Moderate,Low,Yes,No,Yes,Yes,No,Yes,No,No,No,There is RNA expression in some neuroblasts but not others; similarly with proteins.,,1,0,2138317
+2138610,High,Moderate,"Evenly distributed	Single transcripts",Cytoplasmic,Moderate,Moderate,No,No,Yes,Yes,Yes,No,No,No,No,,,1,0,2138309
+2138710,High,High,"Evenly distributed	Single transcripts	Cell type specific","Diffuse	Large aggregations	Cytoplasmic",Moderate,Moderate,No,No,Yes,Yes,No,Yes,No,No,No,,,1,0,2138374
+2138905,Low,None,"Evenly distributed	Single transcripts",,Low,Low,No,No,Yes,No,No,No,No,No,No,No protein expression,,1,0,2138525
+2138874,None,None,"Single transcripts	More in some cells than others","Punctate	Diffuse	Large aggregations",High,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,RNA and protein expression present in some neuroblasts but not others,,1,0,2138429
+2138761,Low,Moderate,"Single transcripts	More in some cells than others","Diffuse	Cytoplasmic",Low,Low,No,No,No,Yes,N/A,N/A,No,No,No,,,1,0,2138503
+2138399,Moderate,None,Evenly distributed,,Low,Moderate,Yes,No,Yes,No,Yes,No,No,No,No,,,1,0,2138782
+2138401,High,High,Cell type specific,Cytoplasmic,Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,,,1,0,2138889
+2138317,Moderate,High,Single transcripts,"Diffuse	Cytoplasmic",High,Moderate,Yes,No,Yes,No,Yes,No,No,No,No,,,1,0,2138831
+2138309,High,Moderate,"Single transcripts	More in some cells than others",Large aggregations,High,Moderate,No,No,Yes,No,No,Yes,No,No,No,,,1,0,2138771
+2138425,Moderate,Moderate,Single transcripts,"Cytoplasmic	Cell type specific",Moderate,Moderate,No,No,No,Yes,Yes,Yes,No,No,No,,,1,0,2139986
+2138374,Low,Moderate,Evenly distributed,"Large aggregations	Cytoplasmic",Moderate,Moderate,No,No,Yes,No,No,No,No,No,No,,,1,0,2138280
+2138692,Low,Moderate,More in some cells than others,"Diffuse	Large aggregations",Low,Low,No,No,No,Yes,No,Yes,No,No,No,,,1,0,2138873
+2138525,Moderate,Low,Evenly distributed,Punctate,Low,High,No,No,Yes,No,Yes,No,No,No,No,,,1,0,2138418
+2138529,High,High,"Single transcripts	More in some cells than others","Cytoplasmic	Cell type specific",Moderate,Moderate,No,No,No,No,Yes,Yes,No,No,No,,,1,0,2138569
+2138429,Low,Low,More in some cells than others,Diffuse,Low,Low,No,No,Yes,No,N/A,N/A,No,No,Yes,,,1,0,2138890
+2138511,None,Low,,Cell edges,None,None,Yes,No,No,No,No,Yes,No,No,No,,,1,0,2138371
+2138503,Low,Moderate,Evenly distributed,"Cell edges	Large aggregations",Moderate,Moderate,No,No,Yes,No,No,Yes,No,No,No,,,1,0,2138543
+2138460,None,None,"Evenly distributed	Single transcripts	More in some cells than others","Nuclear	Cytoplasmic",None,None,Yes,Yes,Yes,Yes,Yes,No,No,No,No,,,1,0,2138494
+2138548,Moderate,Moderate,"Evenly distributed	Single transcripts","Cell edges	Diffuse",Moderate,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,,,1,0,2138623
+2138782,Moderate,Low,"Single transcripts	More in some cells than others","Cytoplasmic	Cell type specific",High,Moderate,No,No,Yes,No,N/A,N/A,No,No,No,,,1,0,2139884
+2138435,None,Low,,Diffuse,None,None,Yes,No,No,No,Yes,Yes,No,No,No,,,1,0,2138471
+2138889,Moderate,Moderate,"Single transcripts	Cell type specific","Cell edges	Diffuse",High,Moderate,No,No,Yes,No,No,Yes,No,No,No,,,1,0,2138603
+2138315,Moderate,Moderate,Cell type specific,"Cell edges	Cell type specific",Moderate,Moderate,No,No,Yes,Yes,No,Yes,No,No,No,,,1,0,2138832
+2138831,Moderate,High,"Single transcripts	More in some cells than others","Cell edges	Diffuse	Large aggregations",Low,Low,No,No,Yes,No,No,Yes,No,No,No,,,1,0,2139880
+2138852,Low,Low,"Single transcripts	More in some cells than others",Diffuse,Low,Low,No,No,No,Yes,No,No,No,No,No,,,1,0,2138601
+2138481,High,Low,"Single transcripts	More in some cells than others","Diffuse	Cytoplasmic",Moderate,Moderate,No,No,No,No,N/A,N/A,No,No,No,,,1,0,2138701
+2138923,Moderate,Moderate,"Evenly distributed	Single transcripts","Punctate	Large aggregations",Moderate,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,,,1,0,2138906
+2138655,Low,Moderate,"Single transcripts	More in some cells than others",Punctate,Low,Low,No,No,No,Yes,No,No,No,No,No,,,1,0,2138388
+2138700,Moderate,Moderate,"Evenly distributed	Single transcripts","Large aggregations	Cytoplasmic	Cell type specific",Moderate,Moderate,No,No,Yes,Yes,No,No,No,No,Yes,,,1,0,2138737
+2138907,Low,Moderate,"Evenly distributed	Single transcripts","Large aggregations	Cytoplasmic",Moderate,Low,No,No,Yes,Yes,No,No,No,No,No,,,1,0,2138922
+2138671,Moderate,Moderate,"Evenly distributed	Single transcripts",Cytoplasmic,Moderate,Moderate,No,No,Yes,Yes,No,Yes,No,No,No,,,1,0,2138783
+2138771,Moderate,None,"Evenly distributed	Single transcripts",,Low,Moderate,Yes,No,Yes,No,Yes,No,No,No,No,Probably something is wrong with the protein expression as there is none.,,1,0,2138024
+2138945,Moderate,Moderate,"Evenly distributed	Single transcripts","Diffuse	Large aggregations	Cytoplasmic",High,Moderate,No,No,Yes,Yes,No,Yes,No,No,No,,,1,0,2138136
+2138938,Low,Low,Evenly distributed,Diffuse,Low,Low,No,No,Yes,Yes,N/A,N/A,No,No,Yes,,,1,0,2138138
+2139986,High,High,"Evenly distributed	Single transcripts","Large aggregations	Cytoplasmic",Moderate,Low,Yes,No,Yes,No,No,Yes,No,No,No,,,1,0,2137928
+2138588,None,None,"Evenly distributed	Single transcripts","Cell edges	Diffuse",Low,Low,No,No,No,No,N/A,N/A,No,No,No,,,1,0,2137824
+2138861,Low,None,Evenly distributed,,Moderate,None,No,No,No,No,No,No,No,No,No,,,1,0,2138180
+2138280,Low,Moderate,Evenly distributed,"Large aggregations	Cell type specific",Low,Low,No,No,Yes,No,Yes,No,No,No,No,,,1,0,2138065
+2138873,Moderate,Moderate,"Single transcripts	More in some cells than others",,Moderate,Moderate,Yes,No,Yes,No,No,Yes,No,No,No,,,1,0,2138165
+2138678,Low,Low,Evenly distributed,"Diffuse	Cytoplasmic",Low,Low,No,No,No,Yes,No,Yes,No,No,No,,,1,0,2137804
+2138810,Low,Low,Evenly distributed,"Diffuse	Large aggregations",Low,Low,No,No,No,Yes,No,Yes,No,No,No,,,1,0,2138041
+2138418,Low,Low,More in some cells than others,"Cytoplasmic	Other",Moderate,Low,Yes,No,Yes,No,N/A,N/A,No,No,No,We can see protein expression pattern to be unevenly distributed.,,1,0,2138266
+2138406,Moderate,Moderate,Evenly distributed,Diffuse,Moderate,Moderate,No,No,Yes,Yes,Yes,No,No,No,No,,,1,0,2137896
+2138569,Moderate,Low,"Evenly distributed	Single transcripts","Cytoplasmic	Cell type specific",Moderate,Moderate,No,No,Yes,No,N/A,N/A,No,No,No,,,1,0,2137758
+2138514,Moderate,Moderate,Single transcripts,"Cell edges	Diffuse",Moderate,Moderate,No,No,Yes,Yes,N/A,N/A,No,No,No,,,1,0,2137969
+2138441,Low,Moderate,Single transcripts,"Diffuse	Cytoplasmic",Moderate,Low,Yes,No,No,Yes,No,Yes,No,No,No,Discordance in some parts of the images where there is protein expression but no RNA expression,,1,0,2138046
+2138422,Moderate,Moderate,"Evenly distributed	Single transcripts","Diffuse	Cytoplasmic",Moderate,Moderate,No,No,Yes,Yes,N/A,N/A,No,No,No,,,1,0,2138037
+2138361,None,Moderate,,"Diffuse	Large aggregations",None,None,Yes,No,No,Yes,No,Yes,No,No,No,There is protein expression in some neuroblasts but not others.,,1,0,2137786
+2138787,Low,Low,"Single transcripts	More in some cells than others",Punctate,Moderate,Moderate,No,No,No,No,Yes,No,No,No,No,,,1,0,2138271
+2138404,Moderate,Moderate,"Evenly distributed	Single transcripts","Diffuse	Cytoplasmic",High,Moderate,No,No,Yes,Yes,No,No,No,No,No,,,1,0,2137937
+2138785,High,High,"Evenly distributed	Single transcripts","Diffuse	Large aggregations	Cytoplasmic",Moderate,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,,,1,0,2137792
+2138890,Low,None,Single transcripts,,Low,None,No,No,Yes,No,No,No,No,No,No,,,1,0,2138279
+2138451,Low,Moderate,Single transcripts,"Diffuse	Cytoplasmic",High,Low,Yes,No,No,Yes,No,Yes,No,No,No,,,1,0,2138123
+2138371,Moderate,Moderate,Evenly distributed,"Diffuse	Cytoplasmic",Moderate,Low,Yes,No,Yes,No,No,Yes,No,No,No,,,1,0,2137933
+2138543,Moderate,Moderate,"Evenly distributed	Single transcripts",Large aggregations,Moderate,Moderate,No,No,Yes,No,Yes,Yes,No,No,No,,,1,0,2137907
+2138494,High,High,Evenly distributed,Cytoplasmic,Moderate,High,Yes,No,Yes,No,N/A,N/A,No,No,No,,,1,0,2137755
+2138623,Moderate,Low,"Evenly distributed	Single transcripts","Punctate	Cell edges",Moderate,Moderate,No,No,Yes,No,No,No,No,No,No,,,0,0,2138372
+2139884,Moderate,Moderate,Evenly distributed,"Diffuse	Cytoplasmic",High,Moderate,No,No,Yes,No,N/A,N/A,No,No,No,I am not sure that this figure is zoomed at the right level to show anlagen,,0,0,2138694
+2138928,Low,Low,"Evenly distributed	Single transcripts",Cytoplasmic,Moderate,Low,No,No,Yes,Yes,No,No,No,No,No,,,0,0,2138552
+2138828,Moderate,High,"Evenly distributed	Single transcripts","Nuclear	Large aggregations	Cytoplasmic",Moderate,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,,,0,0,2138356
+2138486,Moderate,Moderate,"Evenly distributed	Single transcripts",Cytoplasmic,Moderate,Low,Yes,No,Yes,Yes,No,No,No,No,No,,,0,0,2138564
+2138664,Low,Low,Evenly distributed,Large aggregations,Moderate,Low,No,No,No,Yes,N/A,N/A,No,No,No,,,0,0,2138568
+2138776,Low,Moderate,"Single transcripts	More in some cells than others","Cytoplasmic	Cell type specific",Moderate,Low,No,No,No,No,No,Yes,No,No,No,,,0,0,2138476
+2138524,Low,Moderate,Evenly distributed,Cytoplasmic,Low,Moderate,No,No,No,Yes,N/A,N/A,No,No,No,,,0,0,2138604
+2138547,None,Low,,Diffuse,None,None,Yes,No,No,Yes,No,No,No,No,No,,,0,0,2138767
+2138455,Moderate,Moderate,"Evenly distributed	Single transcripts","Diffuse	Cytoplasmic",Low,Moderate,No,No,Yes,Yes,N/A,N/A,No,No,Yes,,,0,0,2138927
+2138563,Low,High,Single transcripts,"Punctate	Cell edges	Large aggregations",Low,Low,No,No,No,No,No,Yes,No,No,No,,,0,0,2138939
+2138343,Low,High,"Single transcripts	More in some cells than others","Cell edges	Large aggregations	Cytoplasmic",Moderate,Low,Yes,No,No,Yes,No,Yes,No,No,No,,,0,0,2138597
+2138471,Moderate,Low,"Evenly distributed	Single transcripts",Cytoplasmic,Low,Low,No,No,Yes,No,N/A,N/A,No,No,Yes,I think there is something wrong with the image,,0,0,2138489
+2138603,High,High,"Evenly distributed	Single transcripts","Cell edges	Large aggregations	Cytoplasmic",High,Moderate,Yes,Yes,Yes,No,Yes,Yes,No,No,No,,,0,0,2138813
+2138832,Low,Moderate,Single transcripts,"Large aggregations	Cytoplasmic",High,Low,No,No,Yes,No,No,No,No,No,No,,,0,0,2138862
+2138739,Moderate,High,"Evenly distributed	Single transcripts","Punctate	Large aggregations",Moderate,Moderate,No,No,Yes,Yes,No,Yes,No,No,No,,,0,0,2138614
+2139880,Moderate,None,"Single transcripts	Cell type specific",,Moderate,Low,No,No,Yes,No,No,No,No,No,No,,,0,0,2138653
+2138601,Moderate,Moderate,Evenly distributed,,High,High,Yes,No,Yes,No,No,Yes,No,No,No,,,0,0,2138730
+2138701,Moderate,Low,"Evenly distributed	Single transcripts","Cell edges	Cell type specific",High,Moderate,No,No,Yes,No,No,No,No,No,No,,,0,0,2138370
+2138770,None,None,,,None,None,No,No,No,No,No,No,No,No,No,,,0,0,2138509
+2138906,Low,None,"Evenly distributed	Single transcripts",,Moderate,Low,No,No,Yes,No,No,No,No,No,No,,,0,0,2138574
+2138388,High,High,Evenly distributed,Cytoplasmic,High,High,No,No,Yes,No,No,No,No,No,No,,,0,0,2139876
+2138592,Moderate,Low,"Evenly distributed	Single transcripts","Cell edges	Diffuse",Low,Moderate,No,No,Yes,Yes,N/A,N/A,No,No,No,,,0,0,2138578
+2138830,High,Moderate,"Evenly distributed	Single transcripts","Diffuse	Cytoplasmic",Moderate,Low,No,No,Yes,Yes,No,Yes,No,No,No,,,0,0,2138649
+2138629,High,High,"Evenly distributed	Single transcripts","Punctate	Cell edges	Large aggregations",High,Moderate,No,No,Yes,Yes,No,Yes,No,No,No,,,0,0,2138921
+2138737,Moderate,Moderate,"Single transcripts	More in some cells than others","Punctate	Diffuse	Cytoplasmic",Moderate,Low,No,No,Yes,No,No,No,No,No,No,,,0,0,2138821
+2138922,Moderate,Moderate,Single transcripts,"Cell edges	Diffuse",High,Moderate,No,No,Yes,No,Yes,Yes,No,No,No,,,0,0,2138583
+2138888,Moderate,Moderate,"Evenly distributed	Single transcripts","Diffuse	Large aggregations",Moderate,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,,,0,0,2138738
+2138896,Low,Moderate,Evenly distributed,Diffuse,Moderate,Low,No,No,No,Yes,N/A,N/A,No,No,Yes,,,0,0,2138610
+2138783,Moderate,Low,"Evenly distributed	Single transcripts",Diffuse,Moderate,Moderate,No,No,Yes,No,Yes,Yes,No,No,No,,,0,0,2138710
+2138318,None,Low,,Large aggregations,None,None,No,No,No,No,No,Yes,No,No,No,It seems that there is no RNA expression - maybe double check this gene/image if something's wrong?,,0,0,2138874
+2138314,None,None,,,None,None,No,No,No,No,No,No,No,No,No,,,0,0,2138401
+2138322,Moderate,Low,Evenly distributed,Cell type specific,Moderate,Moderate,Yes,No,Yes,Yes,Yes,No,No,No,No,,,0,0,2138529
+2138330,Low,High,Single transcripts,Cytoplasmic,High,Low,Yes,No,No,Yes,N/A,N/A,No,No,No,,,0,0,2138511
+2138353,Low,Low,Evenly distributed,Diffuse,Low,Low,No,No,Yes,Yes,No,No,No,No,No,,,0,0,2138460
+2137980,Low,High,Single transcripts,"Cell edges	Diffuse",High,Low,No,No,No,Yes,N/A,N/A,No,No,No,,,0,0,2138548
+2138256,High,Moderate,,"Cell edges	Diffuse",Moderate,Moderate,No,No,No,Yes,Yes,Yes,No,No,No,,,0,0,2138435
+2138147,Moderate,High,Evenly distributed,"Punctate	Large aggregations",Moderate,Low,Yes,No,Yes,Yes,No,Yes,No,No,No,,,0,0,2138315
+2138024,High,Moderate,"Evenly distributed	Single transcripts","Punctate	Large aggregations",Moderate,Low,Yes,No,Yes,No,N/A,N/A,No,No,No,,,0,0,2138481
+2137873,High,Moderate,Evenly distributed,"Diffuse	Large aggregations",High,Moderate,Yes,No,Yes,Yes,Yes,No,No,No,No,There is obvious discordance in the anlagen but not in the central brain,,0,0,2138923
+2138055,High,High,"Evenly distributed	Single transcripts","Punctate	Cell edges",High,High,No,No,Yes,Yes,N/A,N/A,No,No,No,,,0,0,2138700
+2138136,Low,Low,Evenly distributed,Cell edges,Low,Moderate,Yes,No,Yes,No,N/A,N/A,No,No,No,,,0,0,2138907
+2137768,Low,Low,,"Diffuse	Cytoplasmic",Low,Low,No,No,No,Yes,Yes,Yes,No,No,No,Expression of both protein and RNA was higher in the control than the sample.,,0,0,2138671
+2137900,Moderate,Moderate,Evenly distributed,"Punctate	Diffuse",High,Moderate,Yes,No,No,No,Yes,No,No,No,No,,,0,0,2138945
+2138138,Moderate,High,,Cell edges,Moderate,Moderate,No,No,Yes,No,N/A,N/A,No,No,No,,,0,0,2138938
+2137928,High,High,Evenly distributed,Cytoplasmic,Moderate,Moderate,No,No,Yes,No,Yes,No,No,No,No,,,0,0,2138588
+2137924,High,Moderate,"Single transcripts	Cell type specific",Diffuse,High,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,,,0,0,2138861
+2137824,Moderate,High,"Evenly distributed	Single transcripts",Cell edges,High,High,No,No,Yes,No,Yes,Yes,No,No,No,,,0,0,2138406
+2138161,None,Moderate,More in some cells than others,"Cell edges	Diffuse",Low,Low,No,No,No,Yes,N/A,N/A,No,No,No,,,0,0,2138514
+2137990,High,High,Evenly distributed,Cell edges,High,Moderate,No,No,Yes,Yes,N/A,N/A,No,No,No,,,0,0,2138422
+2137890,Low,Low,Evenly distributed,Diffuse,None,Low,No,No,No,Yes,Yes,Yes,No,No,No,,,0,0,2138787
+2138180,Moderate,Moderate,Evenly distributed,"Cell edges	Diffuse",Moderate,Moderate,No,No,Yes,No,N/A,N/A,No,No,No,Neuroblasts not very visible,,0,0,2138404
+2138065,High,Low,Evenly distributed,"Nuclear	Cell edges",High,Low,No,No,Yes,No,N/A,N/A,No,No,No,,,0,0,2138785
+2138165,Moderate,High,Evenly distributed,"Cell edges	Diffuse	Cytoplasmic",Moderate,Moderate,Yes,No,Yes,No,No,Yes,No,No,No,,,0,0,2138928
+2137804,Moderate,Moderate,Evenly distributed,"Diffuse	Cytoplasmic",High,Moderate,No,No,Yes,No,N/A,N/A,No,No,No,,,0,0,2138828
+2138041,High,Moderate,Evenly distributed,"Diffuse	Cytoplasmic",High,Moderate,No,No,Yes,No,N/A,N/A,No,No,No,,,0,0,2138486
+2138274,Moderate,Moderate,Evenly distributed,"Diffuse	Cell type specific",Low,Moderate,Yes,No,Yes,Yes,N/A,N/A,No,No,No,There is protein in some neuroblasts but not others,,0,0,2138776
+2137781,High,Low,Evenly distributed,Cell edges,High,Moderate,Yes,No,No,Yes,N/A,N/A,No,No,No,,,0,0,2138455
+2138266,Moderate,High,"Evenly distributed	Single transcripts",Cytoplasmic,High,Low,No,No,Yes,No,No,No,No,No,No,,,0,0,2138563
+2138252,None,None,,,None,None,No,No,No,No,No,No,No,No,No,,,0,0,2138739
+2137896,High,Moderate,"Evenly distributed	More in some cells than others",Large aggregations,Low,Moderate,Yes,No,Yes,No,Yes,Yes,No,No,No,The protein channel seems a bit saturated,,0,0,2138770
+2137758,Moderate,Low,More in some cells than others,"Punctate	Diffuse",Low,Low,No,No,Yes,No,No,Yes,No,No,No,,,0,0,2138592
+2138051,High,Moderate,"Evenly distributed	Single transcripts","Punctate	Cell edges",Moderate,Low,No,No,Yes,Yes,N/A,N/A,No,No,No,,,0,0,2138830
+2137969,Moderate,Moderate,Evenly distributed,Cell edges,Moderate,Low,No,No,Yes,No,Yes,No,No,No,No,,,0,0,2138629
+2138120,Low,Moderate,"Evenly distributed	Single transcripts","Cell edges	Diffuse",Moderate,Moderate,No,No,Yes,Yes,No,Yes,No,No,No,,,0,0,2138888
+2137827,Moderate,High,"Evenly distributed	Single transcripts","Cell edges	Diffuse",High,High,No,No,Yes,Yes,Yes,Yes,No,No,No,,,0,0,2138318
+2138046,High,High,Evenly distributed,Cell edges,High,Moderate,No,No,Yes,No,N/A,N/A,No,No,No,,,0,0,2138314
+2137775,High,Moderate,"Evenly distributed	Single transcripts",Diffuse,Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,,,0,0,2138322
+2138037,High,High,"Evenly distributed	Single transcripts","Cell edges	Diffuse",High,High,No,No,Yes,No,N/A,N/A,No,No,No,,,0,0,2138353
+2137811,Moderate,Low,"Evenly distributed	Single transcripts",Diffuse,Moderate,Moderate,No,No,Yes,Yes,No,No,No,No,No,,,0,0,2138147
+2138129,High,High,"Single transcripts	Cell type specific","Diffuse	Large aggregations	Cytoplasmic",Low,Moderate,No,No,Yes,Yes,Yes,Yes,No,No,No,,,0,0,2137873
+2138029,High,Moderate,"Evenly distributed	Single transcripts","Cell edges	Diffuse",High,Moderate,No,No,Yes,Yes,N/A,N/A,No,No,No,,,0,0,2138055
+2137767,Moderate,Moderate,Evenly distributed,"Cell edges	Diffuse",Low,Moderate,No,No,Yes,Yes,No,No,No,No,No,,,0,0,2137900
+2138091,High,Low,"Evenly distributed	Single transcripts","Punctate	Cytoplasmic",Moderate,Moderate,No,No,N/A,N/A,N/A,N/A,No,No,Yes,"Neuroblasts not very visible so hard to tell if protein/RNA present
+Figure quality is not too poor I just wanted to flag this because neuroblasts are not very visible",,0,0,2137924
+2138245,High,High,"Evenly distributed	Single transcripts","Diffuse	Large aggregations",Moderate,Moderate,No,No,No,No,Yes,Yes,No,No,No,The white channel (RNA) a bit blurry.,,0,0,2137990
+2137786,High,Low,"Evenly distributed	Single transcripts","Punctate	Cell edges",Moderate,Moderate,Yes,No,Yes,No,N/A,N/A,No,No,No,,,0,0,2138274
+2138271,Low,Moderate,Cell type specific,Cell edges,None,Low,No,No,Yes,No,No,Yes,No,No,No,,,0,0,2138252
+2137937,High,Low,Evenly distributed,Cell edges,Moderate,Moderate,Yes,No,Yes,No,N/A,N/A,No,No,No,,,0,0,2138051
+2137846,Low,Moderate,"Evenly distributed	Single transcripts",Large aggregations,Moderate,Low,Yes,No,No,Yes,Yes,No,No,No,No,,,0,0,2138120
+2137813,High,High,"Evenly distributed	Single transcripts","Diffuse	Large aggregations",Moderate,Moderate,No,Yes,Yes,Yes,No,No,No,No,No,,,0,0,2137827
+2137792,Moderate,Moderate,More in some cells than others,"Cell edges	Diffuse",Low,Low,Yes,Yes,Yes,No,N/A,N/A,No,No,No,THere is concentrated RNA expression in the lower part of the image but protein expression in the whole image.,,0,0,2137775
+2138279,Moderate,Moderate,Evenly distributed,Cytoplasmic,Moderate,Moderate,No,No,Yes,No,N/A,N/A,No,No,No,,,0,0,2137811
+2137966,High,High,"Evenly distributed	More in some cells than others","Cell edges	Diffuse",High,Moderate,No,No,Yes,Yes,Yes,No,No,No,No,,,0,0,2138129
+2138123,High,High,"Evenly distributed	Cell type specific","Nuclear	Cytoplasmic",High,Moderate,Yes,No,Yes,No,Yes,No,No,No,No,,,0,0,2138029
+2138019,Low,Low,Evenly distributed,Cell edges,None,Low,Yes,No,No,Yes,No,No,No,No,No,,,0,0,2137767
+2138107,Low,Moderate,Evenly distributed,Diffuse,Moderate,Low,No,No,Yes,Yes,Yes,Yes,No,No,No,The wild type looks a bit saturated ,,0,0,2138091
+2137933,High,None,"Evenly distributed	Single transcripts","Cell edges	Diffuse",Low,Moderate,Yes,No,Yes,No,N/A,N/A,No,No,No,,,0,0,2138245
+2137915,Moderate,Moderate,Evenly distributed,Diffuse,Moderate,Low,No,No,No,Yes,No,No,No,No,No,,,0,0,2137813
+2137907,Low,Moderate,Evenly distributed,"Punctate	Cell edges	Diffuse",Low,Low,Yes,No,Yes,No,Yes,No,No,No,No,,,0,0,2137966
+2138174,None,None,,Cell edges,None,Low,Yes,No,Yes,Yes,N/A,N/A,No,No,No,There is protein in some neuroblasts but not others.,,0,0,2138107
+2137952,Moderate,Low,"Evenly distributed	Single transcripts",Diffuse,Low,Moderate,No,No,Yes,Yes,Yes,No,No,No,No,,,0,0,2138174
+2137823,Moderate,Moderate,Evenly distributed,"Cell edges	Diffuse",Low,Moderate,No,No,Yes,Yes,Yes,No,No,No,No,,,0,0,2137952
+2138105,High,High,"Evenly distributed	Single transcripts","Cytoplasmic	Cell type specific",Low,Moderate,No,No,Yes,Yes,N/A,N/A,No,No,No,,,0,0,2137823
+2138166,Moderate,Moderate,"Evenly distributed	Single transcripts",Large aggregations,Moderate,Moderate,No,No,Yes,Yes,Yes,No,No,No,No,negative control a bit saturated,,0,0,2138105
+2137755,High,Moderate,More in some cells than others,"Cell edges	Cytoplasmic",Moderate,Low,No,No,Yes,No,N/A,N/A,No,No,No,There is no anlagen image for this gene.,,0,0,2138166
+2140584,High,High,Evenly distributed,Cytoplasmic,High,High,No,No,Yes,Yes,N/A,No,Yes,Yes,No,anlagen not present,,,,
+2140575,Low,Moderate,Single transcripts,Cytoplasmic,Low,Low,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,contrasting not very good,,,,
+2140670,Moderate,Moderate,Evenly distributed,Diffuse,High,Moderate,No,No,Yes,No,Yes,Yes,Yes,Yes,No,,,,,
+2140679,None,None,,,None,None,No,No,No,No,No,No,No,No,No,"CHECK THIS: no RNA or protein expression, is something wrong?",,,,
+2140669,None,None,,,None,None,No,No,No,No,No,No,No,No,No,CHECK THIS:there isn't ANY RNA expressions nor protein expression. Is something wrong?,,,,
+2140671,High,High,Evenly distributed,"Punctate	Cytoplasmic",High,High,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,,,,,
+2140581,Moderate,Moderate,"Single transcripts	Other",Cytoplasmic,High,Moderate,No,No,Yes,No,N/A,No,Yes,Yes,No,not anlagen present,,,,

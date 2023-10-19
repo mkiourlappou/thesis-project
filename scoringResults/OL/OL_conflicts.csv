@@ -1,0 +1,22 @@
+Figure_ID,Question,Scorer 1,Scorer 2,Scorer 3
+2137773,Is RNA present in soma?,nan,No,Yes
+2137773,Is RNA present in neuropil?,nan,No,Yes
+2137998,Is RNA present in soma?,nan,No,Yes
+2138126,Is RNA present in soma?,nan,No,Yes
+2138243,What is the level of protein expression?,High,Moderate,None
+2138253,Is RNA present in neuropil?,Yes,No,nan
+2138405,Nascent transcript level,High,Low,None
+2138405,Cytosolic RNA level,High,Moderate,None
+2138430,Nascent transcript level,Low,None,High
+2138440,Is RNA present in neuropil?,nan,No,Yes
+2138482,Is RNA present in soma?,nan,No,Yes
+2138482,Is RNA present in neuropil?,nan,No,Yes
+2138636,What is the level of RNA expression?,Moderate,None,High
+2138636,Cytosolic RNA level,Moderate,None,High
+2138657,Is RNA present in soma?,nan,Yes,No
+2138657,Is RNA present in neuropil?,nan,Yes,No
+2138696,Is RNA present in soma?,nan,Yes,No
+2138699,Is RNA present in soma?,nan,No,Yes
+2138699,Is RNA present in neuropil?,nan,No,Yes
+2138899,Nascent transcript level,Moderate,None,High
+2139886,Nascent transcript level,High,None,Moderate
